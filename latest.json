@@ -1,0 +1,10 @@
+{
+  "version": "3.9.171",
+  "sha256": "65be1e9220664f5d2a882b4fc18414ed7f8d651c6d8fd4d23949cda8d3e97bd4",
+  "parts": [
+    "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
+    "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
+  ],
+  "notes": "Otomatik guncelleme (gizli baslik destekli), grafikler, hiz, tanitim.",
+  "mandatory": false
+}
