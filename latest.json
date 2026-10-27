@@ -1,10 +1,10 @@
 {
-  "version": "3.9.192",
-  "sha256": "114b0da25ff6efd3423d9d170d5bcfdec333d4c6523d3098040535ac5e7691b7",
+  "version": "3.9.236",
+  "sha256": "faa5f364245bff570c05b9e18baa2c6829aafac96fbcf48ac137886d3744bba4",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Bordro ozet/isveren gorunumune gecip donunce maaslar sifirlanmiyor; Huzur Hakki kar payi onay kutulari ayni satirda; bordro ust bosluk kalkti; Tema menusu Firma Ekle yaninda yatay; Resmi Gazete Turkce karakter bozulmasi (1254) duzeldi; GIB robot sonuc okuma suresi uzatildi (Tum mukellefler icin).",
+  "notes": "Vergi Rehberi: girisim sermayesi %3 (esik 5M TL, ust 100M TL), personel tesviki 40 kat asgari ucret siniri (7555), nitelikli harcama formulu ve kapsami, genisletilmis tesvik haritasi.",
   "mandatory": false
 }
