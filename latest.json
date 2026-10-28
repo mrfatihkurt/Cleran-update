@@ -1,10 +1,10 @@
 {
-  "version": "3.9.245",
-  "sha256": "58feb6df302138fab6acb88dd80e805de4ae3fe805a46e3e919aa17fdb55156e",
+  "version": "3.9.246",
+  "sha256": "556084e03989750cf4fab0f9dc2c26b38f470437a1f139375ccd512b7d54465e",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Resmi Gazete: bos ilan bolumu (sayfa bulunamadi) satirlari artik gercekten gizlenir (buyuk I harfi eslesme hatasi duzeltildi). Onceki: kalici elle beyan isareti, GIB Mevzuat tarihli.",
+  "notes": "Beyan kontrolu: isaretleyince pencere kapanmaz, liste yerinde guncellenir; pencere genisledi, sag sutun gorunur. Son gun her beyanin kendi gunu (KDV1 28, KDV2 25, MUHSGK/Damga 26...). Beyan profili: sirketlere Ggecici yerine Kgecici.",
   "mandatory": false
 }
