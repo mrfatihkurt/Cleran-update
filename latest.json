@@ -1,10 +1,10 @@
 {
-  "version": "3.9.257",
-  "sha256": "003c0a621a0a55767de050cfb0cfce95ad55f14332dfd99c650af0ef846c3200",
+  "version": "3.9.258",
+  "sha256": "5e8314bff057fe11cd6247d46a18b666f61d817740dc2ead7ebe9df0a4ef0599",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Tum beyan turleri taniniyor: Turizm, POSET, OTV2/3A/3B, KDV4, KDV9015, BSMV, GMSI vb. beyan profili ve kontrol listesine eklendi. Onceki: SGK belge ayrimi, gizli GIB pencereleri, kisayol onarimi.",
+  "notes": "Dashboard Beyan & Kaynak Durumu: ana beyan turleri (Turizm, Konaklama, MUHSGK2, POSET, GEKAP...) o ay hic yoksa da gri 0 ile gorunur.",
   "mandatory": false
 }
