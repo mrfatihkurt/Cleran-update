@@ -1,10 +1,10 @@
 {
-  "version": "3.9.250",
-  "sha256": "aa54f319d8fa519b46e2d354f8b06e253a1cf0653ada164f4ca010dca12115a1",
+  "version": "3.9.251",
+  "sha256": "5359c4c5a918e0ce040eb94550040e9ccacffb13dfa60fa3b4daad58166c8a73",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Surum ve telif bilgisi: sol menunun altinda ve pencere basliginda surum numarasi, (c) Fatih Kurt - Tum haklari saklidir; tiklayinca Hakkinda penceresi ve guncelleme durumu.",
+  "notes": "Otomatik guncelleme duzeltmesi: program calisirken kapanmaz, guncelleme kapanista kurulur; kurulum sirasinda Cleran acilirsa bekleme mesaji verir; kurulum gunlugu (cleran-update.log). Surum ve telif bilgisi sol altta.",
   "mandatory": false
 }
