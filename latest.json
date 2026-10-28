@@ -1,10 +1,10 @@
 {
-  "version": "3.9.260",
-  "sha256": "449608e4e2da7b0103238645f1e205c8a6c6050ce58822d9b11cee949dc924e5",
+  "version": "3.9.261",
+  "sha256": "ef81cf68a3cb5122ee90a0525fae35f55f8c707da13f8765ddb4ccb538805dfc",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Hizlandirma: Beyan Kontrol ve dashboard her yenilemede 11 MB GIB sonuc dosyasini yeniden okuyup yuzlerce kaydi tekrar isliyordu (donma). Artik bellekte tutuluyor, yalniz yeni kayitlar isleniyor.",
+  "notes": "POSET artik GEKAP sayilir (ayni beyan). GIB robotu calisirken guncelleme programi kapatmaz; sorgu bitince kurulur. Radyo kapali pencerede caliyorsa altta kucuk calar ve Durdur dugmesi gorunur.",
   "mandatory": false
 }
