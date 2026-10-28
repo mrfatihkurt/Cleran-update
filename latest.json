@@ -1,10 +1,10 @@
 {
-  "version": "3.9.267",
-  "sha256": "953b086bc8355146c7faf9b49ad5c19874cc35680f76fe4e0ffc041e2b1adbe4",
+  "version": "3.9.268",
+  "sha256": "710cd50bd8c83cdf418284110b4413c8cb65ea003512c4f98939017a0e04ba3e",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GIB robotu: yetki hatasi aralikli geldigi icin beyanname 5 sn arayla tekrar istenir; kendi GIB turunda yaniltici Tumu/Hata satiri olusmaz.",
+  "notes": "Yeni: Yerel ATV (%15 Pillar Two) calismasi - kanun anlatimi, bilgi listesi, yurt disi talep yazisi, guvenli liman testleri, hesaplama, beyanname ozeti, VD dilekceleri, Kuresel ATV. YATV son gunu duzeltildi.",
   "mandatory": false
 }
