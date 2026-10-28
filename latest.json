@@ -1,10 +1,10 @@
 {
-  "version": "3.9.258",
-  "sha256": "5e8314bff057fe11cd6247d46a18b666f61d817740dc2ead7ebe9df0a4ef0599",
+  "version": "3.9.259",
+  "sha256": "d66d8ef9dcde760d08871cf44ccc1df843d96fae400794954cd103ec9ccd1d25",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Dashboard Beyan & Kaynak Durumu: ana beyan turleri (Turizm, Konaklama, MUHSGK2, POSET, GEKAP...) o ay hic yoksa da gri 0 ile gorunur.",
+  "notes": "Beyan turleri: YATV (Yurt ici asgari kurumlar vergisi, yillik, 30 Nisan) eklendi; MUHSGK_21 normal MUHSGK sayilir; 1003B = MUHSGK2.",
   "mandatory": false
 }
