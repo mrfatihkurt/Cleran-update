@@ -1,10 +1,10 @@
 {
-  "version": "3.9.264",
-  "sha256": "d16a4080894110048567f1ed75fe0b450099d3b646546c22d82cc788051ad6aa",
+  "version": "3.9.265",
+  "sha256": "ecc36cb87a1755b7b0fed7bf2b8bc2ec344881a624b39c9ac5153bdc43732611",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ustteki Guncelleme ve Yenilikler dugmeleri artik gorunuyor. GIB robotu: Turizm/Konaklama beyannamesi icin PDF bekleme 30 sn; inmezse nedeni satirda yazar.",
+  "notes": "GIB robotu sorgu bitince hemen guvenli cikis yapar (oturum 20 dk acik bekletilmez; diger programlar erisim engeline dusuyordu). Ustteki Guncelleme ve Yenilikler dugmeleri gorunur. Turizm/Konaklama beyannamesi icin PDF bekleme 30 sn.",
   "mandatory": false
 }
