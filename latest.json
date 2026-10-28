@@ -1,10 +1,10 @@
 {
-  "version": "3.9.253",
-  "sha256": "869bebf8628636e5051655ae9f1e6f113f9a13e8e786c9f2e4dd4254bf16c5b0",
+  "version": "3.9.254",
+  "sha256": "33e5fa18d552f71d57bb27fe7a404d76deb1052f3262863118e3d55240f6f9d3",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Guncelleme artik program acikken sag altta sorulur; Simdi guncelle ile indirme ve kurulum ilerlemesi gorunur. Kurulum betigi ayri surec olarak baslatilir (kapanista oldurulmez). Bordro asgari ucret uyarisi.",
+  "notes": "GIB robotu MUHSGK: SGK tahakkuku ve hizmet listesi yerine e-Beyanname listesindeki vergi beyannamesi/tahakkuk simgeleri indiriliyordu (SGK_Hizmet dosyasi aslinda beyanname kopyasiydi). Artik yalniz SGK detayindaki SGK tahakkuk ve hizmet dokumu PDFleri indirilir; detay okunamazsa tani dosyasi kaydedilir.",
   "mandatory": false
 }
