@@ -1,10 +1,10 @@
 {
-  "version": "3.9.269",
-  "sha256": "3336582c4a86972afada395821f46e962d918746ec0af5abdda8381366b2299f",
+  "version": "3.9.270",
+  "sha256": "b4d792b35d3763cecde61a0b9e219602176d0466e799e651a907f796df6c44c0",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Yeni: Ulke Bazli Rapor (CbCR) uretici - Tablo 1/2/3, yukleme oncesi kontrol, BTRANS icin OECD CbC XML v2.0, Excel. Onceki: Yerel ATV calismasi.",
+  "notes": "UBR (CbCR) XML OECD CbC XML v2.0 kilavuz kurallarina gore sikilastirildi (yapilandirilmis adres, kayit numaralari, duzeltme kurallari); BTRANS basvuru dilekcesi, bildirim formu ve cezalar eklendi.",
   "mandatory": false
 }
