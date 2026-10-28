@@ -1,10 +1,10 @@
 {
-  "version": "3.9.262",
-  "sha256": "0e56958a30fccc908ada931b0afcbbd4d7499b15e2509a75ab729d7fcb247d97",
+  "version": "3.9.263",
+  "sha256": "20ff269ecb32bdc044227186871d62eece1f8e209e013b441f4ba199d152d9d6",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ustte Guncelleme dugmesi (istediginiz an denetle ve kur) ve Yenilikler sayfasi. GIB robotu: CAPTCHA istenince ses, Cleran one gelir ve yanip soner; sorgu bitince oturum 20 dk acik kalir, yeni sorgu kod sormaz. Sonuc listesinde musteri olmayan VKN satirlari gizlendi. Radyo: sol menude yesil nokta ve Durdur. Su/mola/egzersiz/gorev hatirlatmalari acilistan 1 saat sonra baslar.",
+  "notes": "GIB robotu: Turizm/Konaklama beyannamesi inmiyordu; PDF bekleme 30 sn, basinda fazladan bayt olan PDF kabul, inmezse nedeni satirda yazar ve GIB yaniti Tani klasorune kaydedilir. Onceki (3.9.262): Guncelleme dugmesi, Yenilikler, CAPTCHA uyarisi, GIB oturumu 20 dk acik, radyo sol menude, hatirlatmalar 1 saat sonra.",
   "mandatory": false
 }
