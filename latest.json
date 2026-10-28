@@ -1,10 +1,10 @@
 {
-  "version": "3.9.237",
-  "sha256": "9579ceffd75ca7de80ea283df57314476362b9a40562b5dd4436e1c3745d6307",
+  "version": "3.9.238",
+  "sha256": "a8a78f0b8b0c64545cd944200b198add60912af3be25e5ee40aa23f93e2cbb82",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GEKAP Beyan Hesaplama: Ek-1 listesinin tamami (2026 tutarlari), tur/birim/birim tutar/miktar/toplam/odenecek, firma-donem kaydi, Excel; 2027 tarifesi ekrandan veya Yillik Parametrelerden guncellenir.",
+  "notes": "GEKAP: Kim yukumlu, muafiyetler, beyan/odeme/ceza ve resmi mevzuat linkleri eklendi; GEKAP beyan takvimi 3 aylik (30 Nisan, 31 Temmuz, 31 Ekim, 31 Ocak) olarak duzeltildi; 4. donem gecici vergi (17 Subat) takvime eklendi.",
   "mandatory": false
 }
