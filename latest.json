@@ -1,10 +1,10 @@
 {
-  "version": "3.9.243",
-  "sha256": "1bfa5781feb63a9e5218dd9e4d4d185cad2c5cbf421ea9b08f1b5e32a53c9167",
+  "version": "3.9.244",
+  "sha256": "327c9d4d0d40e5b34780c6d5d1ccfb4c8cb48cd1aa44286681ea2de319e8a42f",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Guncelleme kontrolu artik program acikken de 30 dakikada bir yapilir; kaynaga ulasilamazsa acikca yazar. Onceki: MUHSGK2 (1003B) ayri GIB girisi, CAPTCHA kutusu, beyan onay duzeltmesi, Donem disi / Mukellef degil.",
+  "notes": "Beyan: elle Onaylandi / Donem disi artik firma kaydi bulunamasa da kaydedilir ve bekleyenden duser. GIB Mevzuat: yeni GIB sitesi tarayicida okunur, kayitlar tarihle ve yeniden eskiye gelir; veri yoksa kart gizlenir. Resmi Gazete: bos ilan bolumleri (sayfa bulunamadi) listelenmez.",
   "mandatory": false
 }
