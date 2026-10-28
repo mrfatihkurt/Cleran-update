@@ -1,10 +1,10 @@
 {
-  "version": "3.9.240",
-  "sha256": "b446580ff02d8e632dd581dc16e8c05655a633e13d3e2c178f2146666f8859b0",
+  "version": "3.9.241",
+  "sha256": "3d941c7205c4f8d04e70d89f96361f61da4f7da96d3ab5bc4d6465c317fb9d25",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Beyan kontrolu: elle Onaylandi isareti cift VKNli firmalarda baska firmaya yaziliyordu, duzeltildi; isaretleyince panel aninda guncellenir. Yeni: Donem disi (yalniz bu ay) ve Mukellef degil (sonraki donemlerde de beklenmez) isaretleri, toplu secim. GIB robotu: kendi sifreli firmalara ve diger ortak hesaplara gecerken kayit klasoru tekrar sorulmaz.",
+  "notes": "Beyan kontrolu: elle Onaylandi isareti duzeltildi ve panel aninda guncellenir; Donem disi ve Mukellef degil isaretleri. GIB robotu: CAPTCHA artik Cleran icinde kucuk kutuda girilir (GIB penceresi arka planda); kendi sifreli firmalara gecerken klasor tekrar sorulmaz; Tum mukellefler / Tumu satiri sonuclarda gosterilmez.",
   "mandatory": false
 }
