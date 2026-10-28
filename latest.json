@@ -1,10 +1,10 @@
 {
-  "version": "3.9.251",
-  "sha256": "5359c4c5a918e0ce040eb94550040e9ccacffb13dfa60fa3b4daad58166c8a73",
+  "version": "3.9.252",
+  "sha256": "da4971dc76f5db5dc215acb890c36610caa8ed5d39d86c0f87aa80aa1bae0303",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Otomatik guncelleme duzeltmesi: program calisirken kapanmaz, guncelleme kapanista kurulur; kurulum sirasinda Cleran acilirsa bekleme mesaji verir; kurulum gunlugu (cleran-update.log). Surum ve telif bilgisi sol altta.",
+  "notes": "Bordro: SGKli personelde brut ucret asgari ucretin altindaysa uyari (GV/DV istisna nedeniyle sifir, SGK PEK alt siniri asgari ucret). Onceki: guvenli otomatik guncelleme, surum ve telif bilgisi.",
   "mandatory": false
 }
