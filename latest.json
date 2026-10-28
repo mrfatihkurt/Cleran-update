@@ -1,10 +1,10 @@
 {
-  "version": "3.9.246",
-  "sha256": "556084e03989750cf4fab0f9dc2c26b38f470437a1f139375ccd512b7d54465e",
+  "version": "3.9.247",
+  "sha256": "44fd5861befa64200c894de8e7cc74581737781193b9ba3d4359d5bfe4d0ec44",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Beyan kontrolu: isaretleyince pencere kapanmaz, liste yerinde guncellenir; pencere genisledi, sag sutun gorunur. Son gun her beyanin kendi gunu (KDV1 28, KDV2 25, MUHSGK/Damga 26...). Beyan profili: sirketlere Ggecici yerine Kgecici.",
+  "notes": "Yeni: Firma - Personel Atamasi (Yonetim Paneli): firmalara sorumlu personel tek tek ya da toplu atanir, acik beyanlar devredilir, personel bazinda firma listesi. Dashboarddaki Firma durum matrisi kaldirildi.",
   "mandatory": false
 }
