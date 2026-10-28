@@ -1,10 +1,10 @@
 {
-  "version": "3.9.249",
-  "sha256": "f0f33734ac7196a5dca61cb1cdcd28a77f9934f2ffc799d5dbc51e665f1a2591",
+  "version": "3.9.250",
+  "sha256": "aa54f319d8fa519b46e2d354f8b06e253a1cf0653ada164f4ca010dca12115a1",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Guncelleme artik arka planda indirilir. Simdi guncelle ya da Kapanista kur secebilirsiniz; Kapanista kur derseniz Cleran kapanirken sessizce kurulur, bir sonraki acilista yeni surum gelir.",
+  "notes": "Surum ve telif bilgisi: sol menunun altinda ve pencere basliginda surum numarasi, (c) Fatih Kurt - Tum haklari saklidir; tiklayinca Hakkinda penceresi ve guncelleme durumu.",
   "mandatory": false
 }
