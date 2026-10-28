@@ -1,10 +1,10 @@
 {
-  "version": "3.9.261",
-  "sha256": "ef81cf68a3cb5122ee90a0525fae35f55f8c707da13f8765ddb4ccb538805dfc",
+  "version": "3.9.262",
+  "sha256": "0e56958a30fccc908ada931b0afcbbd4d7499b15e2509a75ab729d7fcb247d97",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "POSET artik GEKAP sayilir (ayni beyan). GIB robotu calisirken guncelleme programi kapatmaz; sorgu bitince kurulur. Radyo kapali pencerede caliyorsa altta kucuk calar ve Durdur dugmesi gorunur.",
+  "notes": "Ustte Guncelleme dugmesi (istediginiz an denetle ve kur) ve Yenilikler sayfasi. GIB robotu: CAPTCHA istenince ses, Cleran one gelir ve yanip soner; sorgu bitince oturum 20 dk acik kalir, yeni sorgu kod sormaz. Sonuc listesinde musteri olmayan VKN satirlari gizlendi. Radyo: sol menude yesil nokta ve Durdur. Su/mola/egzersiz/gorev hatirlatmalari acilistan 1 saat sonra baslar.",
   "mandatory": false
 }
