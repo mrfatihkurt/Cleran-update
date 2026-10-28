@@ -1,10 +1,10 @@
 {
-  "version": "3.9.268",
-  "sha256": "710cd50bd8c83cdf418284110b4413c8cb65ea003512c4f98939017a0e04ba3e",
+  "version": "3.9.269",
+  "sha256": "3336582c4a86972afada395821f46e962d918746ec0af5abdda8381366b2299f",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Yeni: Yerel ATV (%15 Pillar Two) calismasi - kanun anlatimi, bilgi listesi, yurt disi talep yazisi, guvenli liman testleri, hesaplama, beyanname ozeti, VD dilekceleri, Kuresel ATV. YATV son gunu duzeltildi.",
+  "notes": "Yeni: Ulke Bazli Rapor (CbCR) uretici - Tablo 1/2/3, yukleme oncesi kontrol, BTRANS icin OECD CbC XML v2.0, Excel. Onceki: Yerel ATV calismasi.",
   "mandatory": false
 }
