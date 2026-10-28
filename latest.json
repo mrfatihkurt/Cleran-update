@@ -1,10 +1,10 @@
 {
-  "version": "3.9.254",
-  "sha256": "33e5fa18d552f71d57bb27fe7a404d76deb1052f3262863118e3d55240f6f9d3",
+  "version": "3.9.255",
+  "sha256": "3ff7c523a0fa5b382b1bde45f18773329e10c6a6a7699221dbba4403f12308ab",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GIB robotu MUHSGK: SGK tahakkuku ve hizmet listesi yerine e-Beyanname listesindeki vergi beyannamesi/tahakkuk simgeleri indiriliyordu (SGK_Hizmet dosyasi aslinda beyanname kopyasiydi). Artik yalniz SGK detayindaki SGK tahakkuk ve hizmet dokumu PDFleri indirilir; detay okunamazsa tani dosyasi kaydedilir.",
+  "notes": "GIB robotu: GIB penceresi artik acilmaz, CAPTCHA yalniz Cleran kutusunda; yanlis inmis SGK dosyalari (beyanname kopyalari) _yanlis_SGK klasorune tasinir. Dashboard: GIB sorgu sonuclarinin tamamini arama/suzme ile acma. Guncellemeden sonra Cleran siyah pencereye bagli acilmaz.",
   "mandatory": false
 }
