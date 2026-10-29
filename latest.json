@@ -1,10 +1,10 @@
 {
-  "version": "3.9.270",
-  "sha256": "b4d792b35d3763cecde61a0b9e219602176d0466e799e651a907f796df6c44c0",
+  "version": "3.9.271",
+  "sha256": "f0977d25927bd7c7c07cdba8ed3d7ff15ad2e37b44f41b42fa961c73ba3900f0",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "UBR (CbCR) XML OECD CbC XML v2.0 kilavuz kurallarina gore sikilastirildi (yapilandirilmis adres, kayit numaralari, duzeltme kurallari); BTRANS basvuru dilekcesi, bildirim formu ve cezalar eklendi.",
+  "notes": "Yenilikler sayfasina Modul listesi (PDF) dugmesi: 14 bolum, 85 modulun aciklamali listesi. Onceki: Yerel ATV, Ulke Bazli Rapor (CbCR).",
   "mandatory": false
 }
