@@ -1,10 +1,10 @@
 {
-  "version": "3.9.275",
-  "sha256": "ffffde3bfafaef50271d56a09e25feab5e1043b5b56c948675012f786fdb7975",
+  "version": "3.9.276",
+  "sha256": "c7fee5ca297c2ab94a6fde9f60b2ef39fe2798187f4ebe2b448a5a3381fa74ae",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Yerel ATV: vergi dairesine YATV beyan turu acma e-postasi (kopyala/ac/gonder, takip) ve iki dilli musteri istek listesi (16 kalem, son tarih, durum, Excel, e-posta).",
+  "notes": "Sol menude ve pencere basliginda sade surum: Cleran 1.1.0. Guncellemeler ic numarayla devam eder.",
   "mandatory": false
 }
