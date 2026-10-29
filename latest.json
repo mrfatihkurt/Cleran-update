@@ -1,10 +1,10 @@
 {
-  "version": "3.9.274",
-  "sha256": "4e523fa2c093e28a44b83a9287da681d61f9ca19f4bbbb851b846cf60e8a4706",
+  "version": "3.9.275",
+  "sha256": "ffffde3bfafaef50271d56a09e25feab5e1043b5b56c948675012f786fdb7975",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Yeni: Baglanti, API ve Bulut Ayarlari (CAPTCHAsiz veri kaynaklari ayar/test, Google Drive/Dropbox/iCloud bulut klasoru, sirket disi kullanim kontrolu). Yakit hesaplama: arac tipi, plakali arac kaydi, arac ve pompa gorseli.",
+  "notes": "Yerel ATV: vergi dairesine YATV beyan turu acma e-postasi (kopyala/ac/gonder, takip) ve iki dilli musteri istek listesi (16 kalem, son tarih, durum, Excel, e-posta).",
   "mandatory": false
 }
