@@ -1,10 +1,10 @@
 {
-  "version": "3.9.276",
-  "sha256": "c7fee5ca297c2ab94a6fde9f60b2ef39fe2798187f4ebe2b448a5a3381fa74ae",
+  "version": "3.9.277",
+  "sha256": "ab1f806189313cc01e1c9ab73c82ecf9ce1fa3ba4e748e4bb1c0ce45fae2a4d9",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Sol menude ve pencere basliginda sade surum: Cleran 1.1.0. Guncellemeler ic numarayla devam eder.",
+  "notes": "Cleran 1.1.1: Fatura Okuyucu - PDF/e-Fatura XML hizli okuma, alis/satis yonu, satirlar, KDV 191/391 kayit onerisi, ihrac kayitlida KDV ayri kayit; Google Vision/PaddleOCR/PyMuPDF/Tesseract secenekleri.",
   "mandatory": false
 }
