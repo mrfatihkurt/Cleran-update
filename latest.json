@@ -1,10 +1,10 @@
 {
-  "version": "3.9.273",
-  "sha256": "3cb9de8f00259b912c51954db54c33b8a639efdfa7d49cea36d3b75c9e39edb8",
+  "version": "3.9.274",
+  "sha256": "4e523fa2c093e28a44b83a9287da681d61f9ca19f4bbbb851b846cf60e8a4706",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Yakit Maliyeti: Nereden-Nereye il/ilce secince karayolu km ve sure otomatik (OSRM). Masraf formuna Yakit / yol masrafi dugmesi: tutar, KDV, 770.04 ve aciklamayla taslak masraf. Modul listesi PDF guncellendi.",
+  "notes": "Yeni: Baglanti, API ve Bulut Ayarlari (CAPTCHAsiz veri kaynaklari ayar/test, Google Drive/Dropbox/iCloud bulut klasoru, sirket disi kullanim kontrolu). Yakit hesaplama: arac tipi, plakali arac kaydi, arac ve pompa gorseli.",
   "mandatory": false
 }
