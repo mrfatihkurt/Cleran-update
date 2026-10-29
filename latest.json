@@ -1,10 +1,10 @@
 {
-  "version": "3.9.277",
-  "sha256": "ab1f806189313cc01e1c9ab73c82ecf9ce1fa3ba4e748e4bb1c0ce45fae2a4d9",
+  "version": "3.9.278",
+  "sha256": "ef024f47c23da4ff52bbc560bd4fc1441e25b22eef42b89b83e8143cf9fbed01",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Cleran 1.1.1: Fatura Okuyucu - PDF/e-Fatura XML hizli okuma, alis/satis yonu, satirlar, KDV 191/391 kayit onerisi, ihrac kayitlida KDV ayri kayit; Google Vision/PaddleOCR/PyMuPDF/Tesseract secenekleri.",
+  "notes": "Cleran 1.1.2: Fatura ve Masraf Okuma tek programda birlesti; yeni Butce - Gerceklesen (mizan ile aylik sapma) modulu.",
   "mandatory": false
 }
