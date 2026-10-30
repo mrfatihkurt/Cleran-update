@@ -1,11 +1,11 @@
 {
-  "version": "3.9.294",
-  "sha256": "f0161ff63d315272d0ae1114cffba1349b6d48cea6201f7e963fbeede488d0b3",
+  "version": "3.9.295",
+  "sha256": "dd61dca594e2ec47c177b32e96aa13226f0aebb75ff9b485bb5f1205a803b7b2",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Gumruk beyannamesi (IM/AN) okuma ve 159-153-191 kayitlari",
+  "notes": "İthalat dosyası: tek PDF'teki beyanname, vergi alındısı, müşavir/ardiye faturaları ve borç dekontları sayfa sayfa okunur; 159 ithalat dosyası fişleri ve KDV ödeme günü 153 stoğa alış kaydı otomatik çıkar. Ters taranmış sayfa çevrilir, OCR kur hatası beyandaki mal bedeliyle düzeltilir.",
   "mandatory": false,
-  "sig": "pfkxh3MzykZC6qRp8cvm2l9wOtlx9ap23TDpjt1WJqYQwZVOn4bqQMXbmTgPP/sW42tBDfCQeNokiTrEvAaiCw=="
+  "sig": "ictDqrDuhaNe3FlsaGy3tihkl4ECvzFgbC1JfyWo2pj0sMe3rjrCOpcGR4xa8ETngwf1VHc/z4ow5JPIcnsgAQ=="
 }
