@@ -1,10 +1,10 @@
 {
-  "version": "3.9.280",
-  "sha256": "449cf2dd60de35bd2a78fc7b5afcd5e402a7d43ca640fbeea8e4d4fd4afa7569",
+  "version": "3.9.281",
+  "sha256": "91028f3947d4b03fa8778a3e9f4d6e3837a3142e50e85ed5c7557b408b345897",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Cleran 1.1.4: yakit maliyetinde adresten adrese mesafe ve harita uzerinde isaretleme.",
+  "notes": "Adres arama secili il-ilcede yapilir; Park Plaza gibi yerler bulunur.",
   "mandatory": false
 }
