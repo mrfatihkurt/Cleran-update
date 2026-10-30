@@ -1,11 +1,11 @@
 {
-  "version": "3.9.290",
-  "sha256": "1288e21b43cf60d6be7a52d465028fcedec8dc83bc026f30ccdf5c9755dbc003",
+  "version": "3.9.291",
+  "sha256": "82501b1762b8081c41ba2cd8ef329fa997586b4881615e359163fef2287957a4",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mizan alt hesaplari, uyarilar, mukerrer fatura, stok kodu ayrimi",
+  "notes": "Hesap kodu mizandaki yazilisla, tam genislik onizleme",
   "mandatory": false,
-  "sig": "b4b43rBonaitMlqp8uHXsEg1yroaxsLEMODhH4sBDBVeMXviIveY2kTDtTZsavQw3ZB0GCBYyuuYemzgZq31CA=="
+  "sig": "NMqqctVKRLx5u4YlCUqWM3OgDrF8xgTUD2AfJF5zJnwAaWbvE8jLf8SvYTrppzFQ/xX/wT2qzbQ0hTNBmWG9Bw=="
 }
