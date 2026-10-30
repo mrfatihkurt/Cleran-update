@@ -1,11 +1,11 @@
 {
-  "version": "3.9.285",
-  "sha256": "764e6593c6be9860770d1bbb8438846109b2813b1211e9ccd91931434b0cbea5",
+  "version": "3.9.286",
+  "sha256": "77f126c537bd7bb351eae33b83676258ed0e630e7c938f8986180d2cbd9a7cc6",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "BOM'lu XML, ZIP icindeki tum faturalar, onayla-duzenle-sil-kaydet",
+  "notes": "Doviz ve TL tutarlari, para bicimi, iskonto dagitimi, Turkce birimler, ozellikler yan yana",
   "mandatory": false,
-  "sig": "t3JCyj+4IhSqiSqWjY+Fve5FvY/ry9NdWXIK9NlLHDnvXfD0eUn3kGdgp5fYTkqCbS5gYH0dwoBeD5I4ycHXBA=="
+  "sig": "BAx4WitxWJxEk0ZLfRQIHw4tmC2YUKDLR6PIJvOKKEIzdPLL2yUq4uV7gGL/w1j5CcbkZww8aXbsSrNWraYEDQ=="
 }
