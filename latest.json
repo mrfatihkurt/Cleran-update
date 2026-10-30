@@ -1,11 +1,11 @@
 {
-  "version": "3.9.284",
-  "sha256": "d7e20dd386e2cd792c966508d52f21a39dab5948f4a7ff6eefebf4488ac2991b",
+  "version": "3.9.285",
+  "sha256": "764e6593c6be9860770d1bbb8438846109b2813b1211e9ccd91931434b0cbea5",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Paket profilleri, Ctrl+K arama, karsilama sihirbazi, yasal bilgiler",
+  "notes": "BOM'lu XML, ZIP icindeki tum faturalar, onayla-duzenle-sil-kaydet",
   "mandatory": false,
-  "sig": "rqMksK2JqK0Ai/mvuG05TG8mxklMwG39ZJVfyq9iDP701zEkVDKkU96BpUC/pxCPE+S84yCkv9gYYXFaAGPqAQ=="
+  "sig": "t3JCyj+4IhSqiSqWjY+Fve5FvY/ry9NdWXIK9NlLHDnvXfD0eUn3kGdgp5fYTkqCbS5gYH0dwoBeD5I4ycHXBA=="
 }
