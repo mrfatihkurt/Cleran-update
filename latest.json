@@ -1,11 +1,11 @@
 {
-  "version": "3.9.287",
-  "sha256": "4425592e3326f519e92ec62d84c0c2bf0ed9044b7334667265f4e8e228f6a9c2",
+  "version": "3.9.288",
+  "sha256": "84f62ade47508cf7879ff0139723b562059d3af61644a4b63333afefb5895d4d",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Tumunu sec duzeltmesi ve secim cubugu (toplu onayla-sil)",
+  "notes": "Kisayollar silinirse kendiliginden yeniden olusturulur",
   "mandatory": false,
-  "sig": "qqyQ6u8P+7BWd/PIf9r1kzyZhhEH93OedXKe8MUrACcm7RJbG9uwOtn5ITtCZns4U1fyS45J8TVGiu/j098NCA=="
+  "sig": "21+6WK2VroeJVDGIfH5prjPsl4WSuUvShlEZOfRPTBpq5oPU39UlC+8gV2YAXeycLuBno0m+VWe8vbojZBHzDg=="
 }
