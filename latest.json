@@ -1,11 +1,11 @@
 {
-  "version": "3.9.296",
-  "sha256": "7a720960a92c45184b13e536f063a5790c1bd7f6467b6b42e8bbe08324a768d2",
+  "version": "3.9.297",
+  "sha256": "8ef7fc06bb412540a8dfddfdc730a26c066cab5b734842aa4e4f4f8b0ef43565",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "İthalat dosyası: ticari fatura alış faturası olarak 159'a; IM'de tüm maliyet (mal + masraf faturaları + gümrük vergileri) kalemlere mal bedeli oranında dağıtılır, KDV ödeme günü 159 → 153 virmanı ürün ürün yapılır; Maliyet dağıtımı tablosu ve Excel sayfası. AN'de alış faturası hariç, yalnız masraflar 159'a.",
+  "notes": "2026/3. geçici vergi dönemi yeniden değerleme oranı %19,64 (KVK-74/2026-4). Beyanname taslaklarında 'Verileceği sistem' satırı: KDV1/KDV2/KDV2B/KDV4/KDV9015 yeni e-Beyan (İstanbul 2026/Ekim döneminden itibaren), geçici vergi 5 pilot ilde e-Beyan, diğerleri e-Beyanname (BDP).",
   "mandatory": false,
-  "sig": "E1oB0a0dO9fN2gIp5ONjuoa73IQEdeDnJ10rrliMEO8kE/fOhIHco7ObuDRuflBGZe33+aTsK1m23G+6NmLYBA=="
+  "sig": "9W6AcCDx6wWiDQ9AAGA8LHXQF1YVuJJI7dF9gclX3rDTBY37UFPNBUigfN6KB9KEt7iLj6fML5NjaEObVM5kCg=="
 }
