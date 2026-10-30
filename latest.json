@@ -1,10 +1,10 @@
 {
-  "version": "3.9.281",
-  "sha256": "91028f3947d4b03fa8778a3e9f4d6e3837a3142e50e85ed5c7557b408b345897",
+  "version": "3.9.282",
+  "sha256": "1a647605a893f644e373d3bfd9d78d91cf2b1d9a7ed1aa84cb02d9b9792697c1",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Adres arama secili il-ilcede yapilir; Park Plaza gibi yerler bulunur.",
+  "notes": "Kararlilik testleri, e-Arsiv iki satirli urun adi duzeltmesi",
   "mandatory": false
 }
