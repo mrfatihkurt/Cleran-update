@@ -1,11 +1,11 @@
 {
-  "version": "3.9.291",
-  "sha256": "82501b1762b8081c41ba2cd8ef329fa997586b4881615e359163fef2287957a4",
+  "version": "3.9.292",
+  "sha256": "b0e0054ea15649f6fd021372046f4d1c8f46d5e1fe302afd50d4e2e9f27b990c",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Hesap kodu mizandaki yazilisla, tam genislik onizleme",
+  "notes": "Kisayol bekcisi (gorev zamanlayici ile kisayol onarimi ve gunluk)",
   "mandatory": false,
-  "sig": "NMqqctVKRLx5u4YlCUqWM3OgDrF8xgTUD2AfJF5zJnwAaWbvE8jLf8SvYTrppzFQ/xX/wT2qzbQ0hTNBmWG9Bw=="
+  "sig": "mLpa7VJmHARjmMYswOL8Jy07mR/lv2SKQbQ9r+VLZP2Rt6DL01/Oh4wqLCqx14x2fFrbMSUkT6fukw3TEe6iDA=="
 }
