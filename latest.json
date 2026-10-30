@@ -1,11 +1,11 @@
 {
-  "version": "3.9.283",
-  "sha256": "df82f8fafdafceb61ef6384e5e02569dc5ca4e25d3ec2281cf1cb04d833dc951",
+  "version": "3.9.284",
+  "sha256": "d7e20dd386e2cd792c966508d52f21a39dab5948f4a7ff6eefebf4488ac2991b",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Guncelleme paketleri Ed25519 ile imzali ve dogrulaniyor",
+  "notes": "Paket profilleri, Ctrl+K arama, karsilama sihirbazi, yasal bilgiler",
   "mandatory": false,
-  "sig": "V1jPBIC50/aVwkTKjRKo1iXnsQYvxM1QyDEPHX+b1cPcBaipZ4JrpwnByAoYXIhIXvpoV+2JfhifE9FMzWgTDA=="
+  "sig": "rqMksK2JqK0Ai/mvuG05TG8mxklMwG39ZJVfyq9iDP701zEkVDKkU96BpUC/pxCPE+S84yCkv9gYYXFaAGPqAQ=="
 }
