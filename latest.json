@@ -1,11 +1,11 @@
 {
-  "version": "3.9.288",
-  "sha256": "84f62ade47508cf7879ff0139723b562059d3af61644a4b63333afefb5895d4d",
+  "version": "3.9.289",
+  "sha256": "1487166bcb4a07d284d4894a62b80c861618f86772f00562337a4126bc243cfc",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Kisayollar silinirse kendiliginden yeniden olusturulur",
+  "notes": "Excel: onaylananlar, ozet-detay, TL dengeli muhasebe fisi",
   "mandatory": false,
-  "sig": "21+6WK2VroeJVDGIfH5prjPsl4WSuUvShlEZOfRPTBpq5oPU39UlC+8gV2YAXeycLuBno0m+VWe8vbojZBHzDg=="
+  "sig": "17Ytj+vA8Ys3FMMlPn6VbW7MlbjfAUL2ziKmc65nXFQ5gAsTULZPQMiojYNgOi6S6rKAn1XdVom1TyJ7AIO5Bg=="
 }
