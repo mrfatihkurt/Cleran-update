@@ -1,11 +1,11 @@
 {
-  "version": "3.9.292",
-  "sha256": "b0e0054ea15649f6fd021372046f4d1c8f46d5e1fe302afd50d4e2e9f27b990c",
+  "version": "3.9.293",
+  "sha256": "ccb3b56a7ad4305e6d12382cf7142d5d26b9bc8e3dc70a8db43235c58b2486d0",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Kisayol bekcisi (gorev zamanlayici ile kisayol onarimi ve gunluk)",
+  "notes": "Tum GIB sorgularinda sag altta sesli CAPTCHA kutusu",
   "mandatory": false,
-  "sig": "mLpa7VJmHARjmMYswOL8Jy07mR/lv2SKQbQ9r+VLZP2Rt6DL01/Oh4wqLCqx14x2fFrbMSUkT6fukw3TEe6iDA=="
+  "sig": "cuY89OtEwBU/T5aZxTBRf35M7NEGlqHgHw+G6SU7zQGlxmIm7ym4tLrbsdqkj03W+oc4I3x5JAzKMY6Tjt87CQ=="
 }
