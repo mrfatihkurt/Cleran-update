@@ -1,11 +1,11 @@
 {
-  "version": "3.9.303",
-  "sha256": "fe538e7c904e79e0d984a5755dd82bd8d61b54f9990732fddc604ba582973626",
+  "version": "3.9.304",
+  "sha256": "a93f02a4c1a3957138aa4480ab4ff58b71ff08163c7b6af73c122be52ecfaafb",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "SGK (e-Vizite, işe giriş/çıkış) girişleri de GİB gibi sağ alttaki sesli CAPTCHA kutusuyla; GİB oturum yenileme mesajları kutuyu gösteriyor. Menü: '⭐ Öne Çıkan 15 Modül' (Portal Şifreleri çıkarıldı; KDV İade, Transfer Fiyatlandırması, Finansal Oran Analizi, Amortisman, Kıdem-İhbar, Adat Faizi eklendi).",
+  "notes": "Şifreli giriş: dış grupların kullanıcıları e-posta + şifre ile girer (iç kullanıcılar eskisi gibi e-postayla açılır). Şifreyi Program Editörü ya da grup yöneticisi 'Şifre oluştur' ile verir, kullanıcı ilk girişte kendi şifresini belirler; 5 hatalı denemede 15 dk kilit. Açılış ekranı giriş ekranının üstünde kalmıyor.",
   "mandatory": false,
-  "sig": "ikb+fpNKY8ktQxnsVCqIXsv+3CBH31xUoyfz265wcclFb+fg8/TvDt0yJ7JLlHnr9b3jrI+EC43/+0ZRvsBRCw=="
+  "sig": "np/vescwrSyU77KxsnsJtk/o/4RSP8Ase1A+tboiU4VT67jXWxbwWgn9nnuMXodkAXm9/Sc2n7jbbY3Eg9n7DA=="
 }
