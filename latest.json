@@ -1,11 +1,11 @@
 {
-  "version": "3.9.298",
-  "sha256": "a14039268f981dc417c7380baec9c22dd9ba11ecc8da3356706ca9a9b2dbb218",
+  "version": "3.9.299",
+  "sha256": "b45d962e87523d727caff681ee36db902015caf6f0668a5fdb0475ede3e066b8",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Hız: veritabanı her işlemde yeniden okunmuyor (dosya değişmediyse), pano tablosu saniyede bir çizilmiyor, sayfa gözlemcileri toplu çalışıyor; açılış ekranı (ilerleme + ipuçları + tanıtım). Paket düzeyi (Temel/Orta/İleri düzey hesaplama) kullanıcı yetkisinde, yöneticiler tümünü görür. Yeniden değerleme, gecikme zammı, TCMB avans faizi Yıllık Parametreler'den. Kısayol bekçisi görevi kaldırıldı. Sürüm her yerde görünen sürüm.",
+  "notes": "Kullanıcı grupları (bürolar): Program Editörü tüm grupları görür; her grup yalnız kendi kullanıcılarını, firmalarını ve firma şifrelerini görür; yeni grup boş başlar, grup yöneticisi kendi grubuna kullanıcı ekler/çıkarır ve alt grup açar. Ana grup (mevcut kullanıcılar ve şifreler) aynen kalır.",
   "mandatory": false,
-  "sig": "Lxx0lQyVsNxTfZbwxT6Uw39sBX/CaDk/GvNyvE8NfOlXmSn++M+Crq5KjMrD5v+QD9DKfWAPPl5hflkxBWdBBQ=="
+  "sig": "3LXzhRqex6AWpcJIfgtXaYJ5C197TWOF3uV92CdqT/dgGRraTvjmssa4qaOaFP4TBY1SDmE2hMOIozzWxuaSAA=="
 }
