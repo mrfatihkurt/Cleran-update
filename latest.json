@@ -1,11 +1,11 @@
 {
-  "version": "3.9.300",
-  "sha256": "399fa4669467e794b77ed44c13df0695c6b67cae160baeac2731b9ba7770ef2c",
+  "version": "3.9.301",
+  "sha256": "6cf2cfea46223552f688adb5f37eb1fc6f610df512bf9aebfbf312ba9d9c0bca",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "📱 Mobil: iPhone/iPad için PIN ile şifreli özet dosyası (beyanname takibi, açık işler, firmalar) OneDrive klasörüne yazılır; Cleran Mobile uygulaması dosyayı yalnız cihazda çözer.",
+  "notes": "Kullanıcı grupları: iş takibi, iş panosu, aylık rapor, beyanname listesi/firmaları ve ana pano (personel, notlar, işlem kaydı, son günler) artık gruba göre ayrılıyor; pano her yenilemede veritabanını dışa aktarmıyor (hız). Ticaret sicil: Bakanlık temsilcisi talep (davet) dilekçesi ve 'toplantıdan 10 gün önce' son gün uyarısı.",
   "mandatory": false,
-  "sig": "99+vpE375dmcMpX9oFS2JLBAW/p0j7CmpAJne66AULSP1QMR03fFW29U4ArOUHCHnatbj/1Xe2tqez/XSU6YDg=="
+  "sig": "EB2ez95MH7KG+jOVoEQlCj7jhbxTFdxoOWnxQ0dP+/mX/2+KyY0XZFHTrulrfaOudf/Ri8lRCdtD0E9N4JWICg=="
 }
