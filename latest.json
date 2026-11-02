@@ -1,11 +1,11 @@
 {
-  "version": "3.9.302",
-  "sha256": "a54efabc4683577a13e330a10ca47a854929e8e36bad5adf6910c0fefa56193d",
+  "version": "3.9.303",
+  "sha256": "fe538e7c904e79e0d984a5755dd82bd8d61b54f9990732fddc604ba582973626",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Menünün en üstünde '⭐ Öne Çıkan 10 Modül' grubu: Fatura ve Masraf Okuma, Aylık Beyanname Takibi, GİB Beyan Robotu, Mizan ve Muavin Yükleme, e-Defter–Mizan Mutabakatı, Beyanname Excel Hazırlama, Ticaret Sicili, Bütçe–Gerçekleşen, Portal Şifreleri, Gecikme Zammı.",
+  "notes": "SGK (e-Vizite, işe giriş/çıkış) girişleri de GİB gibi sağ alttaki sesli CAPTCHA kutusuyla; GİB oturum yenileme mesajları kutuyu gösteriyor. Menü: '⭐ Öne Çıkan 15 Modül' (Portal Şifreleri çıkarıldı; KDV İade, Transfer Fiyatlandırması, Finansal Oran Analizi, Amortisman, Kıdem-İhbar, Adat Faizi eklendi).",
   "mandatory": false,
-  "sig": "suB7DQ2T8GXGIsBanpWMK22uXKduSTcvxK3c7+TS86cyomBtxsilrs18DpSJoqM9TrJYWOjch0J8pB9Ycc4dCw=="
+  "sig": "ikb+fpNKY8ktQxnsVCqIXsv+3CBH31xUoyfz265wcclFb+fg8/TvDt0yJ7JLlHnr9b3jrI+EC43/+0ZRvsBRCw=="
 }
