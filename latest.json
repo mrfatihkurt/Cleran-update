@@ -1,11 +1,11 @@
 {
-  "version": "3.9.301",
-  "sha256": "6cf2cfea46223552f688adb5f37eb1fc6f610df512bf9aebfbf312ba9d9c0bca",
+  "version": "3.9.302",
+  "sha256": "a54efabc4683577a13e330a10ca47a854929e8e36bad5adf6910c0fefa56193d",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Kullanıcı grupları: iş takibi, iş panosu, aylık rapor, beyanname listesi/firmaları ve ana pano (personel, notlar, işlem kaydı, son günler) artık gruba göre ayrılıyor; pano her yenilemede veritabanını dışa aktarmıyor (hız). Ticaret sicil: Bakanlık temsilcisi talep (davet) dilekçesi ve 'toplantıdan 10 gün önce' son gün uyarısı.",
+  "notes": "Menünün en üstünde '⭐ Öne Çıkan 10 Modül' grubu: Fatura ve Masraf Okuma, Aylık Beyanname Takibi, GİB Beyan Robotu, Mizan ve Muavin Yükleme, e-Defter–Mizan Mutabakatı, Beyanname Excel Hazırlama, Ticaret Sicili, Bütçe–Gerçekleşen, Portal Şifreleri, Gecikme Zammı.",
   "mandatory": false,
-  "sig": "EB2ez95MH7KG+jOVoEQlCj7jhbxTFdxoOWnxQ0dP+/mX/2+KyY0XZFHTrulrfaOudf/Ri8lRCdtD0E9N4JWICg=="
+  "sig": "suB7DQ2T8GXGIsBanpWMK22uXKduSTcvxK3c7+TS86cyomBtxsilrs18DpSJoqM9TrJYWOjch0J8pB9Ycc4dCw=="
 }
