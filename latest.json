@@ -1,11 +1,11 @@
 {
-  "version": "3.9.305",
-  "sha256": "b585639d924cd895ec579ac6ee8b4987397bdd1f5ec5b1b64939c332e91dadd9",
+  "version": "3.9.306",
+  "sha256": "44f3c412217ddcc2f2ad6b9064f1b71cfed84e58424b2c3976abbd3bd1b26652",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Grup duvarı: yöneticiler yalnız kendi grubunu ve alt gruplarını görür. Başka grubun kullanıcısı/firması adına işlem engellenir; GİB robot sonuçları ve firma ataması gruba göre; tüm veritabanını dışa aktaran işlemler (yedek, modül indirme, firma birleştirme, yetki tabloları) yalnız Program Editöründe; ortak ayarlar (yıllık parametreler, CAPTCHA, gece işleme) yalnız Ana grupta.",
+  "notes": "Mini Araçlar: Döviz çevirici (TCMB günlük kurları; KZT; KGS Kırgızistan MB üzerinden çapraz) + gram altın/gümüş. Tutar Güncelleme: TL tutarın baz aydan bugüne TÜFE, USD ve EUR artışına göre değeri, ağırlıklı karma; Excel'den toplu alma, formüllü Excel çıktısı (Tutarlar + Endeksler).",
   "mandatory": false,
-  "sig": "xLlXZLj+oRwM16NoWdAfBjB4JGT2eAPERY6gg3Y0+VjkHgbls+oQ/Xq0851wD/8hUlgmTHM08pprH268N8sQDw=="
+  "sig": "afTsLc+jGmWHLtwFoPctYa0dxMIpi71iRHRKL5Kl2SyD3u+ZLrYPAb+fHdtw9eCA7mLnjsHOO9UdpJQxYJlWBQ=="
 }
