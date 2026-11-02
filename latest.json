@@ -1,11 +1,11 @@
 {
-  "version": "3.9.304",
-  "sha256": "a93f02a4c1a3957138aa4480ab4ff58b71ff08163c7b6af73c122be52ecfaafb",
+  "version": "3.9.305",
+  "sha256": "b585639d924cd895ec579ac6ee8b4987397bdd1f5ec5b1b64939c332e91dadd9",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Şifreli giriş: dış grupların kullanıcıları e-posta + şifre ile girer (iç kullanıcılar eskisi gibi e-postayla açılır). Şifreyi Program Editörü ya da grup yöneticisi 'Şifre oluştur' ile verir, kullanıcı ilk girişte kendi şifresini belirler; 5 hatalı denemede 15 dk kilit. Açılış ekranı giriş ekranının üstünde kalmıyor.",
+  "notes": "Grup duvarı: yöneticiler yalnız kendi grubunu ve alt gruplarını görür. Başka grubun kullanıcısı/firması adına işlem engellenir; GİB robot sonuçları ve firma ataması gruba göre; tüm veritabanını dışa aktaran işlemler (yedek, modül indirme, firma birleştirme, yetki tabloları) yalnız Program Editöründe; ortak ayarlar (yıllık parametreler, CAPTCHA, gece işleme) yalnız Ana grupta.",
   "mandatory": false,
-  "sig": "np/vescwrSyU77KxsnsJtk/o/4RSP8Ase1A+tboiU4VT67jXWxbwWgn9nnuMXodkAXm9/Sc2n7jbbY3Eg9n7DA=="
+  "sig": "xLlXZLj+oRwM16NoWdAfBjB4JGT2eAPERY6gg3Y0+VjkHgbls+oQ/Xq0851wD/8hUlgmTHM08pprH268N8sQDw=="
 }
