@@ -1,11 +1,11 @@
 {
-  "version": "3.9.306",
-  "sha256": "44f3c412217ddcc2f2ad6b9064f1b71cfed84e58424b2c3976abbd3bd1b26652",
+  "version": "3.9.307",
+  "sha256": "1c6e3f967075a6b045fd098ff4e0cde603c5235973c08d184beb185588aa9785",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mini Araçlar: Döviz çevirici (TCMB günlük kurları; KZT; KGS Kırgızistan MB üzerinden çapraz) + gram altın/gümüş. Tutar Güncelleme: TL tutarın baz aydan bugüne TÜFE, USD ve EUR artışına göre değeri, ağırlıklı karma; Excel'den toplu alma, formüllü Excel çıktısı (Tutarlar + Endeksler).",
+  "notes": "Gram altın ve gümüş artık Borsa İstanbul Kıymetli Madenler Piyasası referans fiyatından (TRY/kg ÷ 1000, günlük); okunamazsa EVDS / ons / elle fiyat yedekleri.",
   "mandatory": false,
-  "sig": "afTsLc+jGmWHLtwFoPctYa0dxMIpi71iRHRKL5Kl2SyD3u+ZLrYPAb+fHdtw9eCA7mLnjsHOO9UdpJQxYJlWBQ=="
+  "sig": "ZzA+EDlk4vQEsWEdaPqLBOokQ04IQjlOesWpk8woN0NpSl41vN63Q68EUYw6hp5IMBXBI/werSz+czbLb8eGAw=="
 }
