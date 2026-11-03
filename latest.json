@@ -1,11 +1,11 @@
 {
-  "version": "3.9.311",
-  "sha256": "f733c5b19178fb3f34ed1fb6494eaa9ccf688f85f861e6ccf24f8c8254438748",
+  "version": "3.9.312",
+  "sha256": "540d1c19862bfd9f5e95869f408fa6be0cae30d41365714f48b1899b5716b64d",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Borsa İstanbul altın/gümüş: geçmiş tarih seçimi (sayfadaki sorgu formundan; o gün işlem yoksa önceki iş günü)",
+  "notes": "BİST geçmiş tarih: sayfanın JSON servisinden (takılma giderildi, 60 sn sınır); Online Personel kartına ay özeti",
   "mandatory": false,
-  "sig": "PNYLF9hq8OkEQTLZqFi+Z76xFBlU+EsAQIhtrE+7dwfq0b513LSHgXScSYqLaBYI1tf7lHMFU+1XXfYhNEtQDw=="
+  "sig": "/IowNspSXbYHc0nncUoZaS4rRPdNueo0ZKsT65KFaT7YlO73AODwtJJsgfcGr5B7W6fw2TKMQZ2jKAQO+GKaDQ=="
 }
