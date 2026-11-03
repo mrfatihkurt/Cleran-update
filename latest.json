@@ -1,11 +1,11 @@
 {
-  "version": "3.9.307",
-  "sha256": "1c6e3f967075a6b045fd098ff4e0cde603c5235973c08d184beb185588aa9785",
+  "version": "3.9.308",
+  "sha256": "470552f4c017c63d3a24dfb08032d16fd9d52250bca8441acadcd5893931c6b3",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Gram altın ve gümüş artık Borsa İstanbul Kıymetli Madenler Piyasası referans fiyatından (TRY/kg ÷ 1000, günlük); okunamazsa EVDS / ons / elle fiyat yedekleri.",
+  "notes": "Kullanım süresi: süresi biten / 14 gün içinde bitecek kullanıcılar yöneticiye açılışta listelenir, tarih seçip (+1 ay / +3 ay / +1 yıl) 'Uzat' ile uzatılır, 'Yarın hatırlat' seçeneği; kullanıcıya son 7 günde uyarı şeridi; süresi dolan kullanıcı girişte açık mesajla durur.",
   "mandatory": false,
-  "sig": "ZzA+EDlk4vQEsWEdaPqLBOokQ04IQjlOesWpk8woN0NpSl41vN63Q68EUYw6hp5IMBXBI/werSz+czbLb8eGAw=="
+  "sig": "u6mXHOLO0zS2bukpVb0Jbr9AcxhO19CA/aZxNUeFe3NJCSYv7eXKhsSkKj1Q7VA9TylTbcZRtBVj52fhjCFrBQ=="
 }
