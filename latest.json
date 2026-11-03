@@ -1,11 +1,11 @@
 {
-  "version": "3.9.308",
-  "sha256": "470552f4c017c63d3a24dfb08032d16fd9d52250bca8441acadcd5893931c6b3",
+  "version": "3.9.309",
+  "sha256": "0ae496d9d3dd38dbd3d8c08694561a38f1bc9d5c2e0933b98a2e29b866bfab74",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Kullanım süresi: süresi biten / 14 gün içinde bitecek kullanıcılar yöneticiye açılışta listelenir, tarih seçip (+1 ay / +3 ay / +1 yıl) 'Uzat' ile uzatılır, 'Yarın hatırlat' seçeneği; kullanıcıya son 7 günde uyarı şeridi; süresi dolan kullanıcı girişte açık mesajla durur.",
+  "notes": "GİB robot: başka firmanın beyanı yanlış firmaya yazılmışsa (aynı GİB kayıt no farklı VKN) ayıklanır. GEKAP yalnız 3 aylık (Ocak/Nisan/Temmuz/Ekim), geçici vergi Mayıs/Ağustos/Kasım beklenir. Personel sayacı en erken 08:30'dan. Yedekleme: Şimdi Yedekle bu bilgisayara (Belgeler › Cleran_Yedekler) ana + muhasebe verisi, günlük otomatik yedek, 'Yedekler · Geri Yükle' ekranı. Bulut modunda veritabanı her işlemde indirilmiyor (hız). TCMB kurlarının yanında Borsa İstanbul gram altın/gümüş.",
   "mandatory": false,
-  "sig": "u6mXHOLO0zS2bukpVb0Jbr9AcxhO19CA/aZxNUeFe3NJCSYv7eXKhsSkKj1Q7VA9TylTbcZRtBVj52fhjCFrBQ=="
+  "sig": "JefeSJ90TTHj+Yqf3ZhUGpXDaEKWliHGvuKrjpb+9zE5SSb92da6fl7XdrSqlpi9URqgne/+riAxagKFsgZpCg=="
 }
