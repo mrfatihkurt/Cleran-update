@@ -1,11 +1,11 @@
 {
-  "version": "3.9.310",
-  "sha256": "e7fe8bff90af775f1a5591f34539980560451d1e99bc06ac52f9d81da40ff484",
+  "version": "3.9.311",
+  "sha256": "f733c5b19178fb3f34ed1fb6494eaa9ccf688f85f861e6ccf24f8c8254438748",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Borsa İstanbul referans fiyatları (sayfadaki tarih, TRY/kg ÷ 1000): gram altın, gümüş, platin, paladyum + BİST USD/EUR kuru. Kart, TCMB kurlarının sağındaki GİB Şifre Durumu ve Admin Sistem Durumu kartlarının altına yerleşti (o iki kart kısaltıldı); TCMB kartı eski 4'lü düzenine döndü.",
+  "notes": "Borsa İstanbul altın/gümüş: geçmiş tarih seçimi (sayfadaki sorgu formundan; o gün işlem yoksa önceki iş günü)",
   "mandatory": false,
-  "sig": "FxwBHpcjL5HY8q28gSPsI+Y18JIhnqs6nL6P2HWUUhW4jCACz4jdET16IBDriVDDuxTlje/lyUQtZYmuvjkEDA=="
+  "sig": "PNYLF9hq8OkEQTLZqFi+Z76xFBlU+EsAQIhtrE+7dwfq0b513LSHgXScSYqLaBYI1tf7lHMFU+1XXfYhNEtQDw=="
 }
