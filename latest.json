@@ -1,11 +1,11 @@
 {
-  "version": "3.9.316",
-  "sha256": "fadf627ed3b63dbe790cf02399da8916690dd214b5b9cbc41c166bd5f269183d",
+  "version": "3.9.317",
+  "sha256": "b327f278320b651b67771c88db92bf27caa0287c45fe4ff4d0d3029207cdb821",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "TTSG: sonuçlarda PDF simgesine tıklama, açılan sayfadan PDF alma (ağ / gömülü görüntü / İndir), 8-10 ilan sonrası istenen CAPTCHA'da formu yeniden doldurup kaldığı ilandan devam",
+  "notes": "Ortak şifre kilidi: firma şifreleri (GİB/e-Defter, SGK, entegratör) ortak veritabanında tek anahtarla; bir kullanıcının girdiği şifreyi robot tüm bilgisayarlarda kullanır. Eski kayıtlar açılabildikleri bilgisayarda otomatik taşınır. TTSG girişi kullanıcıya özel, ortak veritabanında.",
   "mandatory": false,
-  "sig": "K15Nfs9GnzftYDzHBTlAC2rB9HM+B//KvMjuozfCKJ88BjojBk1V3gJ6VFJrznW37BHGBjJSffA9PbIZofSABw=="
+  "sig": "X2tE5x72RX6hQrWAACO1lDerIYN9eGQJFq1C4wB8HCMM8IRnA939+LxipZrk6BRW86KagyNUvktlsuCNWTXYBg=="
 }
