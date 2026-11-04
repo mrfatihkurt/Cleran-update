@@ -1,11 +1,11 @@
 {
-  "version": "3.9.320",
-  "sha256": "15109a005aec962688b47e5257568a56c671423cff81fa8f8b63a96e9089f867",
+  "version": "3.9.321",
+  "sha256": "b424269badb17f13166b5c1ab3c62a84795a847170bd5c117ba084c46206da82",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "TTSG: sağ üstteki GİRİŞ (aynı sayfa / yeni sekme / bağlantı) ve ana sayfadaki İLAN GÖRÜNTÜLEME kartı; otomatik giriş olmazsa pencere açılır, siz girince kendisi devam eder. Defter tasdik 'tarih / no' alanına numara yazılabiliyor.",
+  "notes": "GİB robotu: beyan türü seçimi (ör. yalnız MUHSGK; toplu, kısmi ve tek VKN), çok yıllık indirme (toplu ve tek VKN), yüzde + kalan süre + ilerleme çubuğu, başta tahmini süre, bitince ses. Bildirimler tıklayınca kapanıyor.",
   "mandatory": false,
-  "sig": "8kZjmXMhHJif5QDeSLoOqxuQlJ2DOl+c97kGN1zGUlrScgWXkv7cE3eOj3mrQyPHoAT2hmQfSk3VJBntEjNtBw=="
+  "sig": "yChTPcRDk2EDByWdcBr3YKirhP+ENKCfailpAxRLcjuYmjwJmV5x0wwUBgJsJgtYrHeCl2F2kqFUVkBD96vGBg=="
 }
