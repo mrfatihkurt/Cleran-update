@@ -1,11 +1,11 @@
 {
-  "version": "3.9.317",
-  "sha256": "b327f278320b651b67771c88db92bf27caa0287c45fe4ff4d0d3029207cdb821",
+  "version": "3.9.318",
+  "sha256": "a378172c5abbc907a163bb306f202605d3d3fa0b4d955a1d490514fa1e7b7498",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ortak şifre kilidi: firma şifreleri (GİB/e-Defter, SGK, entegratör) ortak veritabanında tek anahtarla; bir kullanıcının girdiği şifreyi robot tüm bilgisayarlarda kullanır. Eski kayıtlar açılabildikleri bilgisayarda otomatik taşınır. TTSG girişi kullanıcıya özel, ortak veritabanında.",
+  "notes": "TTSG: gerçek sonuç tablosu (Gazete sütunundaki PDF simgesi, sepet/geri bildirim atlanır, sayfa başına en çok satır, Sonraki), MERSİS düzenindeki numaralı başlıklı esas sözleşme, iki sütun ve sayfadan sayfaya devam, ilan sonu numarasıyla ayırma, adres değişikliğinin merkez maddesine işlenmesi, İÇERİĞİ DEĞİŞEN HUSUSLARIN YENİ HALİ, pay devri / yönetim değişikliği bilgi notu",
   "mandatory": false,
-  "sig": "X2tE5x72RX6hQrWAACO1lDerIYN9eGQJFq1C4wB8HCMM8IRnA939+LxipZrk6BRW86KagyNUvktlsuCNWTXYBg=="
+  "sig": "WBOeDDx0rA/VlcaFvN1vPaToQSElcYuR3QzDx7fmxOdk201xjm43nrPkusmw9cg8InKbZBZG4wNzKDgVJdtzAA=="
 }
