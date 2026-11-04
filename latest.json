@@ -1,11 +1,11 @@
 {
-  "version": "3.9.313",
-  "sha256": "afca0ef47b57630955c844c50352313624d06cd190a74f70685eeafb5a5617f8",
+  "version": "3.9.314",
+  "sha256": "732cd9d0e5d0f0c7e31c361347224cc01056af6b5b6f5e785184ee3748fef782",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ticaret sicil: GK ek işlemler (iç yönerge, YK seçimi/temsil, hisse devri, amaç-konu, rüçhan, ibra, finansal tablo onayı), hazirun yatay + YK onay/imza, iştirak taahhütnamesi, yeni pay alma, 457 beyanı, sermaye maddesi güncel hali, vekâletname, tüzel/yabancı ortak; SMMM raporu: defterler ayrı, özkaynak, GYK, alacaklar, TTK 376 asgari sermaye, bilanço eki; mizandan bilanço/gelir tablosu/faaliyet raporu, çok yıllık yan yana; antetli kâğıt",
+  "notes": "Ticaret sicil: 457 beyanı yalnız A.Ş. (İTO Ltd. listesinde yok); sermaye maddesinin yeni hali genel kurul kararının içinde; çok yıllık faaliyet raporu tek/ayrı seçimi; antet yalnız SMMM raporunda",
   "mandatory": false,
-  "sig": "Kngkys/3PdvOCaLkTFVbOY/uOyGCHORy60Pe2uDUcijPISD3R3EZ1JS/RK4S1EzGFn76LpKkNpMN+ruLvGhhAg=="
+  "sig": "vJASA/lSO8i0nALjFkPPOZ4ZQ6fImzCgJ6SIwOaCFrL6IS7n18N7zwNbaQINZlmme5rl2sP2xjix8QlbNlXtAw=="
 }
