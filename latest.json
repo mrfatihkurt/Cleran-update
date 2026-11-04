@@ -1,11 +1,11 @@
 {
-  "version": "3.9.324",
-  "sha256": "d7738085d93fbb95250a78e81128cf73289bbd885c6039c385aa9e7e25e3358f",
+  "version": "3.9.325",
+  "sha256": "2d2781180a8d2420be139b6e6f723074caf39a83eb8dec5cf00c7ae3d953a6a0",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ticaret sicil: üstte seçilen işlem türü Evrak Seti'ne aynen geçer (ikinci kez seçtirilmez). Tüm Modüller ve hızlı aramada modülün ne yaptığına göre arama (ör. 'sermaye artırımı', 'kdv iade', 'emeklilik').",
+  "notes": "GİB beyan robotu otomatik takvim: her ayın 10'u, 20'si ve son günü (saat ayarlanabilir) tüm mükellefler için tüm beyanlar sorgulanır ve indirilir; bilgisayar kapalıysa sonraki açılışta; sahibin bilgisayarında varsayılan açık",
   "mandatory": false,
-  "sig": "pIzVyKs+RzstNExJ+QLpzWcuDkYS0XkYBSDl0AmFskVyGF/lClCvDn30XwOXL505MwmT0K5azN1hchxqyz+BCw=="
+  "sig": "xRen9bZWzxU/P01DH+htVtzJxd5oD0C5UjxH5Sp8/IqXi2d2G43tCgomP72sNjgmQ6N81e/UGmHx5p0i1W31DA=="
 }
