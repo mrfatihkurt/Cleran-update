@@ -1,11 +1,11 @@
 {
-  "version": "3.9.321",
-  "sha256": "b424269badb17f13166b5c1ab3c62a84795a847170bd5c117ba084c46206da82",
+  "version": "3.9.322",
+  "sha256": "c276128cf893bfb218b5fd2c35d9f60c8a0545b3502a321b9a6ae31c38a4af18",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB robotu: beyan türü seçimi (ör. yalnız MUHSGK; toplu, kısmi ve tek VKN), çok yıllık indirme (toplu ve tek VKN), yüzde + kalan süre + ilerleme çubuğu, başta tahmini süre, bitince ses. Bildirimler tıklayınca kapanıyor.",
+  "notes": "GİB robotu: 'Sunucuya erişilemiyor' hatasında bekleyip (20-90 sn) yeniden deneme (6 kez); SGK tahakkuk ve hizmet listesi ayrı klasörlerde (SGK/SGK Tahakkuk, SGK/SGK Hizmet Listesi)",
   "mandatory": false,
-  "sig": "yChTPcRDk2EDByWdcBr3YKirhP+ENKCfailpAxRLcjuYmjwJmV5x0wwUBgJsJgtYrHeCl2F2kqFUVkBD96vGBg=="
+  "sig": "tHd0YmYWIaxOyNvKOJw6gisUfvm/NBxDsoh1+R2L/+in2YTMfJxPa+Js3xQjDApLH59JnbkbfIB6UMoVfry0CQ=="
 }
