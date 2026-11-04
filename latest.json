@@ -1,11 +1,11 @@
 {
-  "version": "3.9.314",
-  "sha256": "732cd9d0e5d0f0c7e31c361347224cc01056af6b5b6f5e785184ee3748fef782",
+  "version": "3.9.315",
+  "sha256": "d5371cb5286bf4bf6891dfba8662f44be9b21d8b85423d4c88720a3112bac957",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ticaret sicil: 457 beyanı yalnız A.Ş. (İTO Ltd. listesinde yok); sermaye maddesinin yeni hali genel kurul kararının içinde; çok yıllık faaliyet raporu tek/ayrı seçimi; antet yalnız SMMM raporunda",
+  "notes": "TTSG'den esas sözleşmenin güncel hali: kullanıcıya özel TTSG girişi, CAPTCHA sağ alttaki kutuda, ilan görüntülemeden sicil no ile ilanları getirme (ya da PDF seçme), kuruluş + tadil + çıkarılan maddeler, Word",
   "mandatory": false,
-  "sig": "vJASA/lSO8i0nALjFkPPOZ4ZQ6fImzCgJ6SIwOaCFrL6IS7n18N7zwNbaQINZlmme5rl2sP2xjix8QlbNlXtAw=="
+  "sig": "BpEAhjfM+blCdgz7F6cR8Efv2UIq7zrjXg+4sMrVEz//5aSD+E0bXN5lfjs+tCHfC6kdABS1aSpRnp7owi+8Bg=="
 }
