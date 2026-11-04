@@ -1,11 +1,11 @@
 {
-  "version": "3.9.323",
-  "sha256": "a80e43db7fbff5d93f88eea294d221e0411e26fff55834fbc854298cf0e67961",
+  "version": "3.9.324",
+  "sha256": "d7738085d93fbb95250a78e81128cf73289bbd885c6039c385aa9e7e25e3358f",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB robotu: 'Tümü' yazılmıyor, beyanın gerçek türü (MUHSGK, KDV1…) gösteriliyor; yıl taramasında beyan bulunmayan aylar 'Onaylanmadı' değil 'Sonuç Yok' ve tek satırda özet",
+  "notes": "Ticaret sicil: üstte seçilen işlem türü Evrak Seti'ne aynen geçer (ikinci kez seçtirilmez). Tüm Modüller ve hızlı aramada modülün ne yaptığına göre arama (ör. 'sermaye artırımı', 'kdv iade', 'emeklilik').",
   "mandatory": false,
-  "sig": "DTaSRLGtiGWPnSdgZo1IxAk8+OFGolbW5mV2zruzHMYLR24UKUFWJiVcTR/xSQgKUpD+rG5sFHG3gWJ293e/BA=="
+  "sig": "pIzVyKs+RzstNExJ+QLpzWcuDkYS0XkYBSDl0AmFskVyGF/lClCvDn30XwOXL505MwmT0K5azN1hchxqyz+BCw=="
 }
