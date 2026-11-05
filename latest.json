@@ -1,11 +1,11 @@
 {
-  "version": "3.9.333",
-  "sha256": "6cad41593e27a257fb74f670c570d50918f143a9124ecdd075355c4d1ef3d1d0",
+  "version": "3.9.334",
+  "sha256": "1b378238f4e3cc5d0723496675ff8ba95aadeb9d9d65e82f9ddcd77f1d7317da",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ticaret Sicil SMMM raporu: büyük başlıkta tespit konuları, 502/kâr/fon için ayrı tespit maddeleri ve yevmiye tabloları, boş satırlar kaldırıldı, Mevcut Sermayesi, e-Defterde tarih/no boş, özvarlık notu; antet yazı boyutu/hizası ve kenar boşlukları",
+  "notes": "Dashboard dönemi bağımsız: soldaki muhasebe (mizan) dönemi değişince dashboard dönemi değişmez",
   "mandatory": false,
-  "sig": "aenampgA8R7i0f9D9mwy+BE+8b037obMKHPPrCBll5tIuUljfvrRfFwjMYO5zRVSL8lEro42CHIvx+Tc62SlCw=="
+  "sig": "CckoHBWp+0ZzlWGsBu2FGUvqv60qZPmzcRuwJjXh9YnH6TZyjr9B052neFCwdjusqExd8vuoeQrSVEpxPZaaCw=="
 }
