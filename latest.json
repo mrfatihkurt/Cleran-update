@@ -1,11 +1,11 @@
 {
-  "version": "3.9.335",
-  "sha256": "a2a1439add4e651402bccd4b9f376f05bb6f6ee7e6a7a98144bd3e6431fabeae",
+  "version": "3.9.336",
+  "sha256": "0a683efd2db296ecd1ab4b0e3b10f31acc5e9ff7705b5b3586906d8d0b9f660e",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "TTSG: ilan başlığından unvan, MERSİS no, sicil no ve güncel adres alınır; boş alanlar doldurulur, farklı olanlar bildirilir; en yeni ilan her zaman açılır",
+  "notes": "Fatura ve Masraf Okuma: tevkifatlı faturada muhasebe fişi düzeltildi (toplam = KDV dahil), fiş/fotoğraf okumada KDV/tevkifat/toplam/fiş no/gider türü düzeltmeleri, tutarlar Türkçe biçimde, muhasebe fişi tek yerde",
   "mandatory": false,
-  "sig": "JdWa8arepNj1NyKy4bRYpUAc2V0pk/AaunbsXngNv427iXnaFjeLpIEUw4JPH3nv/fYizRU2Cz5ayJMJMTLHCA=="
+  "sig": "vX+HG3WYGrfHBxWrD9i2udmudesJDCgZUFMJQhlueUd7CwpvrKOv6eIyC4g8qzSPFUo3rfYpOCclfL5H3VyzDQ=="
 }
