@@ -1,11 +1,11 @@
 {
-  "version": "3.9.331",
-  "sha256": "b28ba26748385d1f3654e7352fd018cc436a9c2d22933a78d661da517c142721",
+  "version": "3.9.332",
+  "sha256": "1c69bc758774f175f1cd8e4caba1807aec796e24cda9bd8a8fcd95fec3b36598",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "TTSG: yalnız gereken ilanlar açılır (sermaye için kuruluş + sermaye/esas sözleşme ilanları), PDF doğrudan yanıttan alınır, hata mesajı ne olduğunu söyler",
+  "notes": "TTSG: gazete PDF'leri resim (JPX+JBIG2) olarak geliyor; yazı katmanı ayrılıp Türkçe OCR ile okunur - sicil no, maddeler ve sermaye bulunur",
   "mandatory": false,
-  "sig": "DR8v+EvclT6cDI95xvOD20lDJDdqswdsk1vgS7Qv9ajlbGSnkRX7t1eipyzvxPOjFNMkQxs1QapxPw+cLWYJDw=="
+  "sig": "VU5Tyo9TE0c/pb1DtmPolkpBJ7pjwHb8AJtTszU5YfaJpXJbZmp3Fo5kyL7NRTdPwn70IMzN9uxIeqyTwUYRAQ=="
 }
