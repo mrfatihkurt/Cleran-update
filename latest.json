@@ -1,11 +1,11 @@
 {
-  "version": "3.9.334",
-  "sha256": "1b378238f4e3cc5d0723496675ff8ba95aadeb9d9d65e82f9ddcd77f1d7317da",
+  "version": "3.9.335",
+  "sha256": "a2a1439add4e651402bccd4b9f376f05bb6f6ee7e6a7a98144bd3e6431fabeae",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Dashboard dönemi bağımsız: soldaki muhasebe (mizan) dönemi değişince dashboard dönemi değişmez",
+  "notes": "TTSG: ilan başlığından unvan, MERSİS no, sicil no ve güncel adres alınır; boş alanlar doldurulur, farklı olanlar bildirilir; en yeni ilan her zaman açılır",
   "mandatory": false,
-  "sig": "CckoHBWp+0ZzlWGsBu2FGUvqv60qZPmzcRuwJjXh9YnH6TZyjr9B052neFCwdjusqExd8vuoeQrSVEpxPZaaCw=="
+  "sig": "JdWa8arepNj1NyKy4bRYpUAc2V0pk/AaunbsXngNv427iXnaFjeLpIEUw4JPH3nv/fYizRU2Cz5ayJMJMTLHCA=="
 }
