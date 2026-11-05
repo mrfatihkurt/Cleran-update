@@ -1,11 +1,11 @@
 {
-  "version": "3.9.328",
-  "sha256": "9d2f43b46f5bf92d1b8f22484252308c919b204bf800cf21b713fdcf0d0bbd4d",
+  "version": "3.9.329",
+  "sha256": "c3722fffd0297f288c44075b1d7ee1eaeab1470ac6b63de2cc5b140a222d767a",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ticaret Sicil: TTSG'den tüm değişen maddelerin eski (son) hali - sermaye, merkez/adres, unvan, amaç-konu, genel kurulda amaç-konu ve diğer maddeler listeden",
+  "notes": "TTSG: giriş/ilan görüntüleme adresleri doğrudan, CAPTCHA sonrası pencere içindeki GİRİŞ, sonuç listesinde Sonraki düzeltmesi, noktasız madde başlıkları (10 GENEL KURUL)",
   "mandatory": false,
-  "sig": "F6/H3q+7JBInD0SrcBhrGhS3ThoH0tDYhCiWhXXfAbJdk9zlVPlbW6vWeqs/ht06XAvwTcqvJojFJ4m0dfwVBQ=="
+  "sig": "f33/72ejGtRwyroj/vQTQFcoS85KMtlnYVqKfiRiSHaFUg/W/EiLgHJPcNRQtfMOVAcIiZg5KXy/y3C1o3ClCQ=="
 }
