@@ -1,11 +1,11 @@
 {
-  "version": "3.9.338",
-  "sha256": "f663c9fffe956810458e93c55ccbf83629e05a05e5ea49a8c33aa7303bb98978",
+  "version": "3.9.339",
+  "sha256": "4c981e43f67964f02f66101f848d6dab5872ffb29fdbca107e4c834e7010a42d",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ticaret Sicil doğrudan Evrak Seti; SMMM raporunda seçmeli tespitler (KOBİ, geçmiş yıl kârları, 502, fonlar, ortaklara borçlar, faal, özel), başlıkta özvarlık/TTK 376/alacaklılar, mevcut ve artırım sonrası özkaynak tabloları, sonuçta tüm tespitler; tescilsiz tek başına tespit raporu",
+  "notes": "Bağımsız Denetime Tabi mi? (tüm firmalar): Kurumlar ve MUHSGK beyanlarından aktif/net satış/çalışan, yıl yıl CBK eşikleri (2024 150/300, 2025 300/600, 2026 500/1000), giriş-çıkış kuralı, zorunluluk başlangıç yılı, gelecek yıl tahmini, kategori (Ek I/II, SPK) ve elle veri, Excel. Eski 5 yıllık sorgu değerlendirmesi aynı eşiklere bağlandı.",
   "mandatory": false,
-  "sig": "HVBHrS//Mwu+huYeHzfB3O7A5rK6mGVX8bDcUFTCWrlrm35fLA2kg0BOLajDielRaIbT8PK5UE/M21NnenyvCA=="
+  "sig": "k1en+zlQ2uPxN+yEE7vlqpQAOPHkMi8yTZI/dOvsArhg0ZrUSFCfFwwzI0d/SzBVJ7YgDrDI+/1QKN/TwU4vCQ=="
 }
