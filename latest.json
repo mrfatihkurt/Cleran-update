@@ -1,11 +1,11 @@
 {
-  "version": "3.9.337",
-  "sha256": "788b9a02b315bb1557a4bc5807225952142bc29a834e7811ca8a1e8f629090ec",
+  "version": "3.9.338",
+  "sha256": "f663c9fffe956810458e93c55ccbf83629e05a05e5ea49a8c33aa7303bb98978",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mizan: ayraçlı alt hesap kodlarında (689 9 1 / 689 9 17) üst hesap bakiyesi düşüyordu - dönem sonucu yanlıştı; toplam satırı hesap sayılmaz; kayıtlı mizanlar onarılır; 502 sermaye düzeltmesi farkları özkaynakta",
+  "notes": "Ticaret Sicil doğrudan Evrak Seti; SMMM raporunda seçmeli tespitler (KOBİ, geçmiş yıl kârları, 502, fonlar, ortaklara borçlar, faal, özel), başlıkta özvarlık/TTK 376/alacaklılar, mevcut ve artırım sonrası özkaynak tabloları, sonuçta tüm tespitler; tescilsiz tek başına tespit raporu",
   "mandatory": false,
-  "sig": "lm8z/hgIyJ9UaFYA6QNs5BZheYzsfnxKyk5fcArHYp006poUfRS/ET5uUL8Fvs6sktA27ymrph0AoBL6obokBg=="
+  "sig": "HVBHrS//Mwu+huYeHzfB3O7A5rK6mGVX8bDcUFTCWrlrm35fLA2kg0BOLajDielRaIbT8PK5UE/M21NnenyvCA=="
 }
