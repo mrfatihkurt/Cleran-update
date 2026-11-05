@@ -1,11 +1,11 @@
 {
-  "version": "3.9.327",
-  "sha256": "4066721c0fa2e2d1fa4210b78f29112187eaa189165164dda35e3038a4fec6a9",
+  "version": "3.9.328",
+  "sha256": "9d2f43b46f5bf92d1b8f22484252308c919b204bf800cf21b713fdcf0d0bbd4d",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ticaret Sicil: tutarlar 300.000.000,00 biçiminde · iç kaynaklar hesap+tutar satırları · TTSG'den son sermaye maddesi · Sadece SMMM Raporunu İndir · Şirket İşlemleri'nde sicil işlemleri doğrudan Evrak Seti'ne",
+  "notes": "Ticaret Sicil: TTSG'den tüm değişen maddelerin eski (son) hali - sermaye, merkez/adres, unvan, amaç-konu, genel kurulda amaç-konu ve diğer maddeler listeden",
   "mandatory": false,
-  "sig": "+vdwFWvTaOP+7vhSGSml6c+jgEbTfEl66/JsWxogziVxowTj81abHPttxIFJN3gJY4HyseKelcK8loftXzPtDw=="
+  "sig": "F6/H3q+7JBInD0SrcBhrGhS3ThoH0tDYhCiWhXXfAbJdk9zlVPlbW6vWeqs/ht06XAvwTcqvJojFJ4m0dfwVBQ=="
 }
