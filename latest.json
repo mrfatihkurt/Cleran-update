@@ -1,11 +1,11 @@
 {
-  "version": "3.9.336",
-  "sha256": "0a683efd2db296ecd1ab4b0e3b10f31acc5e9ff7705b5b3586906d8d0b9f660e",
+  "version": "3.9.337",
+  "sha256": "788b9a02b315bb1557a4bc5807225952142bc29a834e7811ca8a1e8f629090ec",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Fatura ve Masraf Okuma: tevkifatlı faturada muhasebe fişi düzeltildi (toplam = KDV dahil), fiş/fotoğraf okumada KDV/tevkifat/toplam/fiş no/gider türü düzeltmeleri, tutarlar Türkçe biçimde, muhasebe fişi tek yerde",
+  "notes": "Mizan: ayraçlı alt hesap kodlarında (689 9 1 / 689 9 17) üst hesap bakiyesi düşüyordu - dönem sonucu yanlıştı; toplam satırı hesap sayılmaz; kayıtlı mizanlar onarılır; 502 sermaye düzeltmesi farkları özkaynakta",
   "mandatory": false,
-  "sig": "vX+HG3WYGrfHBxWrD9i2udmudesJDCgZUFMJQhlueUd7CwpvrKOv6eIyC4g8qzSPFUo3rfYpOCclfL5H3VyzDQ=="
+  "sig": "lm8z/hgIyJ9UaFYA6QNs5BZheYzsfnxKyk5fcArHYp006poUfRS/ET5uUL8Fvs6sktA27ymrph0AoBL6obokBg=="
 }
