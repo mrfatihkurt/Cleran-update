@@ -1,11 +1,11 @@
 {
-  "version": "3.9.345",
-  "sha256": "57534cbd13e074138e520eef762adb786d9ed1da6c3c86cb6ba90d30461592f3",
+  "version": "3.9.346",
+  "sha256": "01b45a7d38a19d4e04132d6927ceebd4ba3c6a73591e56e123656a80a514768e",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "KGK sorgusu: KGK penceresi ekranda açılmaz; doğrulama kodu Cleran'ın sağ altındaki kutuda istenir (KGK penceresi düğmesiyle istenirse açılır). Yanlış kod girilince (sayfa yenilense de yenilenmese de, uyarı kutusu çıksa da) kutu temizlenip yeniden sorulur, takılmaz. Varsayılan yalnız değerlendirme yılı sorgulanır.",
+  "notes": "KGK kod kutusu: üstteki KGK logosu kod resmi sanılıyordu; artık yalnız 'DOĞRULAMA KODU' başlığı ile kod kutusu arasındaki kod alanı alınır (resim ya da yazı), sayfa kaydırıldıktan sonra ölçülür.",
   "mandatory": false,
-  "sig": "ZDOrbyslaIGoEP6IRec4HPZOtAimeo6yyUbcT2DvcxdQ10qP/6nFQKDgnTgmIUAcp2xE35EYx+C8589h9140CA=="
+  "sig": "7/G0UacyVvfqLh0OXNijvfd0DtXAuEj6vDNNk9XSAgjs1nSWGdytzLMXVyQSFzvHJiHDq1gble9X4tJbNhHvDg=="
 }
