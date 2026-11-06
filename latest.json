@@ -1,11 +1,11 @@
 {
-  "version": "3.9.341",
-  "sha256": "f58b1f3fc90b7d6e2df611724087be7efc2c99197baa6ad7c7b4b962dd1d784c",
+  "version": "3.9.342",
+  "sha256": "2b889b371dfeaa0408102027479eb4151e08a63ee2e08b53000179088df60086",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Bağımsız denetim: veri eksik firmalar için GİB Robotu kendiliğinden çalışır — önce ilgili yılların Kurumlar beyanları (aktif, net satış, dipnottaki ortalama personel), personel hâlâ eksikse o yılın MUHSGK beyanları indirilir ve tablo yeniden değerlendirilir; isteğe bağlı bu yılın MUHSGK'ları (tahmin). Gerçek kişiler (TCKN) kapsam dışı yazılır.",
+  "notes": "Hız: ortak veri dosyası her açılışta OneDrive'dan baştan indirilmiyor (sürüm değişmedikçe bellekteki kopya kullanılır); özelge arşivi ayrı dosyaya taşındı, eski onarım yedeği sıkıştırılıp dışarı alındı (veri dosyası 383 MB → ~3,5 MB). Yavaş işlemler cleran-perf.log'a yazılır. Bağımsız denetim: KGK DTS sorgusu (dtsorgu.kgk.gov.tr) — yıl/VKN/onay otomatik, doğrulama kodu kullanıcıda; KGK sonucu esas alınır, 'zorunlu ne zamandan' KGK yıllarından; GİB'den otomatik beyan indirme kaldırıldı.",
   "mandatory": false,
-  "sig": "UKXpkm/90Ifp1poa6/WMe/WnKvDIIlXyPAMLXQ9VK2ZloTVbsHmk7LnkgdEqQoUUIBDzf3VJtQAEwiPVc9N5AQ=="
+  "sig": "gxvdpc5nx26UYqGXDhMAj45YVVJQAUjzM96hp0+TB24p+DH2li/vRxDVh/5W0LIl38FksX+C9f9aad/83l5/Cg=="
 }
