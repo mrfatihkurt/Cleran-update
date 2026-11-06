@@ -1,11 +1,11 @@
 {
-  "version": "3.9.342",
-  "sha256": "2b889b371dfeaa0408102027479eb4151e08a63ee2e08b53000179088df60086",
+  "version": "3.9.343",
+  "sha256": "dcc3a0b5ba5c6cbe5351a3bfad02b63c0ccefeccc9c1998ad5e8be4bf1570a78",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Hız: ortak veri dosyası her açılışta OneDrive'dan baştan indirilmiyor (sürüm değişmedikçe bellekteki kopya kullanılır); özelge arşivi ayrı dosyaya taşındı, eski onarım yedeği sıkıştırılıp dışarı alındı (veri dosyası 383 MB → ~3,5 MB). Yavaş işlemler cleran-perf.log'a yazılır. Bağımsız denetim: KGK DTS sorgusu (dtsorgu.kgk.gov.tr) — yıl/VKN/onay otomatik, doğrulama kodu kullanıcıda; KGK sonucu esas alınır, 'zorunlu ne zamandan' KGK yıllarından; GİB'den otomatik beyan indirme kaldırıldı.",
+  "notes": "Mizan: aynı hesap kodu iki satırda olunca (ör. 770408, 19303) üst hesap son seviye sayılıp gider çift giriyordu — KRİPTRADE 09/2026 dönem zararı artık −19.926.204,78. Mizanın adsız genel toplam satırı ('300', tüm ana hesap toplamı) hesap sayılmıyor (300 Banka Kredileri'ne 383 mn yazılıyordu). Kayıtlı mizanlar bir kez düzeltilir.",
   "mandatory": false,
-  "sig": "gxvdpc5nx26UYqGXDhMAj45YVVJQAUjzM96hp0+TB24p+DH2li/vRxDVh/5W0LIl38FksX+C9f9aad/83l5/Cg=="
+  "sig": "L9OkekHBgWYDAxE6EtnEm1nCj8FvoHEbmSgdI8YW5Kudh0Ln9eSzGRuC3uivzhZxt9XsqIBVwWPxOMl+p/aVAA=="
 }
