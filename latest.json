@@ -1,11 +1,11 @@
 {
-  "version": "3.9.340",
-  "sha256": "8137504b1e4f12b9ef3e2ad369de6eb3f285b35a17619e7c3a971fa9ad98bbaf",
+  "version": "3.9.341",
+  "sha256": "f58b1f3fc90b7d6e2df611724087be7efc2c99197baa6ad7c7b4b962dd1d784c",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB Robot: beyan bulunamayan satırda aranan tür (ör. ÖTV) Beyan sütununda ve Excel'de görünür; not hangi girişle aranıp bulunamadığını yazar. GİB'de beyan olup hiçbiri seçili türde değilse firma 'seçili türde beyan yok (GİB'de bulunan: …)' satırıyla raporlanır.",
+  "notes": "Bağımsız denetim: veri eksik firmalar için GİB Robotu kendiliğinden çalışır — önce ilgili yılların Kurumlar beyanları (aktif, net satış, dipnottaki ortalama personel), personel hâlâ eksikse o yılın MUHSGK beyanları indirilir ve tablo yeniden değerlendirilir; isteğe bağlı bu yılın MUHSGK'ları (tahmin). Gerçek kişiler (TCKN) kapsam dışı yazılır.",
   "mandatory": false,
-  "sig": "cS1O8DWivfa5q0jnBDYMQGM3Lr+FiRHGYHQB3UrZhvvoqRqhurjT5tipsjmudsoWcKFYGcoqg7GQ6q/Qf7Y5AA=="
+  "sig": "UKXpkm/90Ifp1poa6/WMe/WnKvDIIlXyPAMLXQ9VK2ZloTVbsHmk7LnkgdEqQoUUIBDzf3VJtQAEwiPVc9N5AQ=="
 }
