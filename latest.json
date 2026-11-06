@@ -1,11 +1,11 @@
 {
-  "version": "3.9.343",
-  "sha256": "dcc3a0b5ba5c6cbe5351a3bfad02b63c0ccefeccc9c1998ad5e8be4bf1570a78",
+  "version": "3.9.344",
+  "sha256": "9075b17f86c30fb319c663f7e396ce98f8ab58e13ec456735468c35bfc3a22ba",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mizan: aynı hesap kodu iki satırda olunca (ör. 770408, 19303) üst hesap son seviye sayılıp gider çift giriyordu — KRİPTRADE 09/2026 dönem zararı artık −19.926.204,78. Mizanın adsız genel toplam satırı ('300', tüm ana hesap toplamı) hesap sayılmıyor (300 Banka Kredileri'ne 383 mn yazılıyordu). Kayıtlı mizanlar bir kez düzeltilir.",
+  "notes": "KGK sorgusu: form sayfasındaki açıklama metni sonuç sanılıp doğrulama kodu girilmeden firmadan firmaya geçiliyordu. Artık sonuç yalnız Sonuc.aspx sayfasında ve VKN eşleşince kaydedilir; uyarılar yalnız gönderimden sonra okunur; 3.9.342'de yazılan hatalı KGK kayıtları yok sayılır.",
   "mandatory": false,
-  "sig": "L9OkekHBgWYDAxE6EtnEm1nCj8FvoHEbmSgdI8YW5Kudh0Ln9eSzGRuC3uivzhZxt9XsqIBVwWPxOMl+p/aVAA=="
+  "sig": "fAGc1Lh0gaFnMfmafGCsk5AdZ5Z47OSyU89CFRjvEhfVzEhFcqoBoz0m6tpTl1+1ay0YbgyxCRFm5ctZtQiJDg=="
 }
