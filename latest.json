@@ -1,11 +1,11 @@
 {
-  "version": "3.9.348",
-  "sha256": "eddafc7799057f4b70b2964232a90ce16303e2a335e7b4c893f8baf7366bb181",
+  "version": "3.9.349",
+  "sha256": "bbb65a51d76fd60355e153ceb60b48e617863a0e1e6e652d3ae754fc00ef89a9",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Bağımsız denetim: ① Kurumlar beyanlarını indir (GİB Robotu, son iki yıl, tek doğrulama kodu; aktif, net satış, dipnottan ortalama personel), ② Şüphelileri seç (eşiğe yakın / hesapta tabi), satır kutularıyla seçim, ③ yalnız seçilenleri KGK'da sorgula. KGK kod kutusu: yanlış kod sonrası takılma giderildi — 8 sn içinde sonuç yoksa kutu temizlenip yeniden sorulur, ikinci kez olursa yeni kod resmi gelir; kutuya 'Yeni kod' düğmesi eklendi.",
+  "notes": "SQL Sorgu ekranı: altta varsayılan modül listesi (Firmalar, Beyanname takibi, Mizan, e-Defter, Gider, Sabit kıymet, Sermaye, Görevler, Bordro, Denetim, Vergi araçları, Kurlar) ve içindeki tablolar, satır sayıları; tabloya tıklayınca ilk 500 satır. Sorgu sonucundan grafik: sütun, yatay çubuk, çizgi, pasta; aynı etiketi topla, sırala, en çok N, PNG kaydet. SQL ekranı ortak verinin kendi kopyasında çalışır (paylaşılan kopyaya salt okunur kilidi bırakmaz).",
   "mandatory": false,
-  "sig": "a+butZLnWV4GfTtjkeA3prFHFgCP+HoddIVO5UYVmifHNDluU7q6rMsI2Tkf2oT/Pe2UpBxKYsrDTG1jBufvAw=="
+  "sig": "06Ndtgv+oQ4k8NomM0yrbaTNEiqMhLyJ+kNyu4hO0AG4yYgUOWKAhFyRrnpMPQviXjCQIpSkoxbvI0m1iJn/Bg=="
 }
