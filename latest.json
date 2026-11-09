@@ -1,11 +1,11 @@
 {
-  "version": "3.9.357",
-  "sha256": "8aea5c268d70aa4a42f679868aeb9af0ee34247346012221bda4f2a7d23612e1",
+  "version": "3.9.358",
+  "sha256": "82d765d035d3be1fd133942436dcf0ab2d3d4b7237edb3f27592f2e851c4623d",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "TTSG ilan PDF'i vermezse daha önce indirilen ilanlar kullanılır; 'ekran görüntüsü gönderin' ve 'bana gönderin' gibi yönlendirmeler kaldırıldı, yerine yapılacak iş yazıldı",
+  "notes": "TTSG sorgusu arka planda sürer: ekranda başka işlem yapılsa da ilerleme ve sonuç kaybolmaz; Durdur düğmesi; takılan eski sorgu durdurulabilir",
   "mandatory": false,
-  "sig": "1SEyBc7uufErtvLLIAwWFJijb6kd3pq2GgCOa+/+1QKkZyRqISoqolIHaZJLKbwGq2FSK1jK8B2LSWkUSNkWAw=="
+  "sig": "SjbnPrc8gE3jX00o5s5+FMpbxQC0OP82JEhxjWzUbZGG05sKR4AZVOEAlRdHmZWTWLeSCXNoWaMdDucKF9n6AQ=="
 }
