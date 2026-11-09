@@ -1,11 +1,11 @@
 {
-  "version": "3.9.354",
-  "sha256": "b45262e440466aa731cabe58b63671e333a6abb2ea32abd0853141927e6a0442",
+  "version": "3.9.355",
+  "sha256": "722307dd7005d8681c46eb6882b7c77de77ccd8ec1977178f5d2ab127510e567",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB beyan robotu: giriş şifresi seçimi (otomatik / yalnız ortak / yalnız kendi); yıl boşsa onay tarihiyle ve yalnız bulunan beyanlar; yıl seçilince daha önce indirilen beyanlar tür × ay tablosunda, indirildiği gün, beyan ve tahakkuk açma",
+  "notes": "Dönem kâr/zararı gelir tablosundan bilançoya her zaman eklenir; mizan borç/alacak tutmazsa eksik satır uyarısı (önceki mizanla karşılaştırma); özkaynak tablosu bilançoyla uyumlu; antet bölümü tam genişlik iki sütun; TTSG'den son yönetim kurulu",
   "mandatory": false,
-  "sig": "0jBT5UZUjMRJTh/bdHeQa4bBox5CTUKdSZzrQyepNZ92lAeUfw+wOQsyVAiFaO5dGahP0fMwr9hDNZJVqCHeBg=="
+  "sig": "51/cl+sYphWwTvP6BD0toM/yjo0HnpogobYQ03PhrgWAi7t5ZwvCkBp2uH0qXRxdBuMU12rWYyITmjo66tw0Ag=="
 }
