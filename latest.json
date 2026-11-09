@@ -1,11 +1,11 @@
 {
-  "version": "3.9.358",
-  "sha256": "82d765d035d3be1fd133942436dcf0ab2d3d4b7237edb3f27592f2e851c4623d",
+  "version": "3.9.359",
+  "sha256": "200f02bae1c192d095522fb6e984bb97c1700aee12187f2a9ad02c7f0c516722",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "TTSG sorgusu arka planda sürer: ekranda başka işlem yapılsa da ilerleme ve sonuç kaybolmaz; Durdur düğmesi; takılan eski sorgu durdurulabilir",
+  "notes": "GİB beyan robotu: firma seçilmediğinde yalnız ekrandaki firmalar alınır; GİB listesindeki diğer mükellefler indirilmez ve firma olarak eklenmez",
   "mandatory": false,
-  "sig": "SjbnPrc8gE3jX00o5s5+FMpbxQC0OP82JEhxjWzUbZGG05sKR4AZVOEAlRdHmZWTWLeSCXNoWaMdDucKF9n6AQ=="
+  "sig": "z/kddDuCcpaAt4s/Opqvmkb3hu6Ltq1v48om4P2ELIcccd7TWriMgbQmjBw4IPf4H1mVMgUZK7u9x/LdeKRKAQ=="
 }
