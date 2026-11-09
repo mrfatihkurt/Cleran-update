@@ -1,11 +1,11 @@
 {
-  "version": "3.9.350",
-  "sha256": "5ba55ac989b45e4e3ec052e63e99d88d502b4aa817b8713d2d632489deb052f4",
+  "version": "3.9.351",
+  "sha256": "6069c72d9f3c6974cce963e132ef896314b75a6e0b62047f315d0340be6543fc",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB Beyan Robotu (günlük modül testi): İstanbul'da Ekim/2026 döneminden itibaren KDV1/KDV2/KDV2B/KDV4/KDV9015 yeni e-Beyan sisteminden verildiği için e-Beyanname listesinde görünmeyebilir — Beyan onaylarında bekleyen satırda 'e-Beyan' işareti ve robotun 'beyan yok' notunda uyarı (İstanbul: vergi dairesi ya da adres).",
+  "notes": "Paket düzeyi: Temel 40 modül, Orta 60 modül, İleri düzey tüm modüller; liste artık 'Tüm Modüller' (Modül Merkezi) ekranında ve aramada da uygulanıyor. Program sahibi ve yöneticiler her zaman tümünü görür.",
   "mandatory": false,
-  "sig": "rh8UCeRbWK9VBkYQv1ylVmIeohGLZMFJ72N8OQ+6/uRkCyEzrpYn+Sc2D6zCKLmwdrGLL9WpdiroYA432RCGBw=="
+  "sig": "QwMAHGArrjphJLu9PIs0cLFEG1VLieh8NvLkii+eCc1zJfaciAW/+x3w0F64FganSawVAmtWu/j4jHL4DwNWCw=="
 }
