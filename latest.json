@@ -1,11 +1,11 @@
 {
-  "version": "3.9.351",
-  "sha256": "6069c72d9f3c6974cce963e132ef896314b75a6e0b62047f315d0340be6543fc",
+  "version": "3.9.352",
+  "sha256": "4331ca729e1c6933bc371d82ddd8303e8bb44dc84c0f1bdfb7a009a5fe08229f",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Paket düzeyi: Temel 40 modül, Orta 60 modül, İleri düzey tüm modüller; liste artık 'Tüm Modüller' (Modül Merkezi) ekranında ve aramada da uygulanıyor. Program sahibi ve yöneticiler her zaman tümünü görür.",
+  "notes": "Mizan ve Muavin Yükleme (günlük modül testi): sonda eksi yazılan tutarlar (1.234,56-) artık okunuyor (önceden 0 sayılıyordu); ekranda tutar, satır sayısı ve tarih Türkçe biçimde (1.234.567,89 · 15.09.2026); önizlemede 'Bakiye' başlığı.",
   "mandatory": false,
-  "sig": "QwMAHGArrjphJLu9PIs0cLFEG1VLieh8NvLkii+eCc1zJfaciAW/+x3w0F64FganSawVAmtWu/j4jHL4DwNWCw=="
+  "sig": "RTYTIBUDjBXzXyL+nSWjoTmRL6kTTY8XLaf75eAamds8Whls0IYbkcgSqbgxUV5KSY8sIggl4jIBy74QVIEoDA=="
 }
