@@ -1,11 +1,11 @@
 {
-  "version": "3.9.355",
-  "sha256": "722307dd7005d8681c46eb6882b7c77de77ccd8ec1977178f5d2ab127510e567",
+  "version": "3.9.356",
+  "sha256": "de73cb7ecf98a082898eaddfc31197f3d744bd042e797fe39ff8f507b30c33af",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Dönem kâr/zararı gelir tablosundan bilançoya her zaman eklenir; mizan borç/alacak tutmazsa eksik satır uyarısı (önceki mizanla karşılaştırma); özkaynak tablosu bilançoyla uyumlu; antet bölümü tam genişlik iki sütun; TTSG'den son yönetim kurulu",
+  "notes": "TTSG: boşluklu sermaye tutarı doğru okunur; sermaye maddesinin altına imza ve artırım özeti karışmaz; yönetim kurulu (seçim, görev dağılımı, imza satırları) ve pay sahipleri kişi kişi eklenir; mizan farkı uyarısında önceki mizandaki hesap ve tutarı",
   "mandatory": false,
-  "sig": "51/cl+sYphWwTvP6BD0toM/yjo0HnpogobYQ03PhrgWAi7t5ZwvCkBp2uH0qXRxdBuMU12rWYyITmjo66tw0Ag=="
+  "sig": "l6Z81kyx3xQha5n3g+g8wFR5pGhAP8ZFZ82G3IjNxPReNHhyQIB7jJRM8VFjsDLsYpivhEyQayp6Mqp0fj+4CQ=="
 }
