@@ -1,11 +1,11 @@
 {
-  "version": "3.9.359",
-  "sha256": "200f02bae1c192d095522fb6e984bb97c1700aee12187f2a9ad02c7f0c516722",
+  "version": "3.9.360",
+  "sha256": "7d7934239788a599a43e91e50a285a77dd7c7e7ad689cf8c97987c37fe8b7114",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB beyan robotu: firma seçilmediğinde yalnız ekrandaki firmalar alınır; GİB listesindeki diğer mükellefler indirilmez ve firma olarak eklenmez",
+  "notes": "YK seçimi: olağan/olağanüstü sorusu, olağanda faaliyet raporu-bilanço-gelir tablosu, eski üyelerin ibrası, ilk genel kurulda iç yönerge, mevcut üyeleri yeniden seç, temsil-ilzam; Bakanlık iznine tabi şirket uyarısı (kripto, bağımsız denetim vb.); GİB robotu programda olmayan mükellefi sorar",
   "mandatory": false,
-  "sig": "z/kddDuCcpaAt4s/Opqvmkb3hu6Ltq1v48om4P2ELIcccd7TWriMgbQmjBw4IPf4H1mVMgUZK7u9x/LdeKRKAQ=="
+  "sig": "J+0OMAUeTi+uM0rm3l7Newe0oDd9PzgLQudMZ7YELCnpgWCwFYNc1HslyRPIPaFyp7lRPccDO1oI0Xik02RuDg=="
 }
