@@ -1,11 +1,11 @@
 {
-  "version": "3.9.352",
-  "sha256": "4331ca729e1c6933bc371d82ddd8303e8bb44dc84c0f1bdfb7a009a5fe08229f",
+  "version": "3.9.353",
+  "sha256": "45836ed982ce88e7043d695b801778f826f0c303268be0532f5fc3e9de0579cb",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mizan ve Muavin Yükleme (günlük modül testi): sonda eksi yazılan tutarlar (1.234,56-) artık okunuyor (önceden 0 sayılıyordu); ekranda tutar, satır sayısı ve tarih Türkçe biçimde (1.234.567,89 · 15.09.2026); önizlemede 'Bakiye' başlığı.",
+  "notes": "Ticaret sicil: 'sicile tescil' araması; yalnız SMMM raporunda yeni sermaye zorunlu değil; rapor içerikleri tik ile seçilir; defter tasdik, özkaynak tablosu, TTK 376, 502 yevmiye, enflasyon farkı, yedek akçe, 331 nakdi olmayan ve ortak dağılımı onayı uyarıları",
   "mandatory": false,
-  "sig": "RTYTIBUDjBXzXyL+nSWjoTmRL6kTTY8XLaf75eAamds8Whls0IYbkcgSqbgxUV5KSY8sIggl4jIBy74QVIEoDA=="
+  "sig": "iRUUTzBwLXgYFzLs2LPmQSg/XFgGqqumgdg7Fawbfk0XQjnEUrY9zCpjMUcNzgGPnMjPLI9GlL5hn8CIKvdvBQ=="
 }
