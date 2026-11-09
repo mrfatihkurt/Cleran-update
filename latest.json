@@ -1,11 +1,11 @@
 {
-  "version": "3.9.356",
-  "sha256": "de73cb7ecf98a082898eaddfc31197f3d744bd042e797fe39ff8f507b30c33af",
+  "version": "3.9.357",
+  "sha256": "8aea5c268d70aa4a42f679868aeb9af0ee34247346012221bda4f2a7d23612e1",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "TTSG: boşluklu sermaye tutarı doğru okunur; sermaye maddesinin altına imza ve artırım özeti karışmaz; yönetim kurulu (seçim, görev dağılımı, imza satırları) ve pay sahipleri kişi kişi eklenir; mizan farkı uyarısında önceki mizandaki hesap ve tutarı",
+  "notes": "TTSG ilan PDF'i vermezse daha önce indirilen ilanlar kullanılır; 'ekran görüntüsü gönderin' ve 'bana gönderin' gibi yönlendirmeler kaldırıldı, yerine yapılacak iş yazıldı",
   "mandatory": false,
-  "sig": "l6Z81kyx3xQha5n3g+g8wFR5pGhAP8ZFZ82G3IjNxPReNHhyQIB7jJRM8VFjsDLsYpivhEyQayp6Mqp0fj+4CQ=="
+  "sig": "1SEyBc7uufErtvLLIAwWFJijb6kd3pq2GgCOa+/+1QKkZyRqISoqolIHaZJLKbwGq2FSK1jK8B2LSWkUSNkWAw=="
 }
