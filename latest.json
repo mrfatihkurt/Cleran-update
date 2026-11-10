@@ -1,11 +1,11 @@
 {
-  "version": "3.9.364",
-  "sha256": "c328f931cb426165f553405adc22277a779fe72f787f26f32e570cd2753894c6",
+  "version": "3.9.365",
+  "sha256": "f50650d452ddcf4901d0d40e3303666cacaf795ea757d132cab505568b990e6e",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ticaret Sicil Evrak Seti ekranı düzenlendi: kartlar tam genişlik, alanlar satırda yan yana (boşluk kalmaz), onay kutuları yazının solunda ve kutucuk içinde, seçenekler ızgara düzeninde",
+  "notes": "TTSG: gerçek ilan biçimleriyle yönetim kurulu (tarih ad ile görev arasında, 'yerine', 'önceki üyeliği sona ermiştir', süresi dolanlar), temsile yetkililer ve yetki şekli, pay sahipleri ('tarafından,', 'e aittir', emisyon primli); temsil çoklu seçim; YK üyelerini pay sahibi ekle düğmesi; kişi düğmeleri düzeni",
   "mandatory": false,
-  "sig": "Y5DbOTiq3AJ9jwEPDZD8V5fFEzLA3mVlP+PbgndIpFGd+q+fOnot0vGYS996R8SvZd712A8YCk5ly+fKXQJxBg=="
+  "sig": "PQ19VYBVitML7nHlCrQnOwE731CFu6Cs2Amyk69thWqSCL5fiZQ0s+h/ZZSlX8pnB2blPBMflzv55M7mSwmNAA=="
 }
