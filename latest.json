@@ -1,11 +1,11 @@
 {
-  "version": "3.9.368",
-  "sha256": "1f0fab76a3eea61e8a53f744be78b1b6e28eb40c7479e9da19e0981aef3cd7db",
+  "version": "3.9.369",
+  "sha256": "bc652c4a247a68f584b1676bae670ae1807cbb3e0de30279525c4bffcf47cf7c",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "MERSİS: oturum kapalıyken sağ üstteki Giriş düğmesine kendiliğinden tıklar ve giriş sayfasını açar; oturum yok durumu doğru tanınır",
+  "notes": "MERSİS: arama sonucundaki firmaya gerçek fare tıklamasıyla girer; firma bilgileri açıkken soru tekrar sorulmaz; limited şirketlerde müdür bölümü okunur, yoksa 'müdür bilgisi bulunamadı' yazar",
   "mandatory": false,
-  "sig": "zqYyiOQVbq1ugQlymQYTwh2o7zkcyCXVFmwbRjSI5BHmfZdsJvMHOjJtPdpx42ytCSNbTpz173Ap7DtFvf39DA=="
+  "sig": "19zSGMk3upLxM4jTgWeejfy1CRa52qoTxuFplXj72ikOEaybsPrAke6nq9dq5uahA/bAHehMrkCG98qmsK2sCA=="
 }
