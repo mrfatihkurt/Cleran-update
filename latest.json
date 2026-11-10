@@ -1,11 +1,11 @@
 {
-  "version": "3.9.362",
-  "sha256": "ebef3abfd4232cff7a940c3432aefe17bec950f00cd1a4de2eb64e5b3abd867f",
+  "version": "3.9.363",
+  "sha256": "536d73c4a23dd6579cd114a8c0daeb9b2d820f9deb9f03902108dbcc8823bf74",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Orta paket 60 modül olarak kalır (MERSİS yönetim kurulu İleri pakette)",
+  "notes": "Yönetim kurulu görev süreleri: 'TTSG'den bul' seçeneği (son seçim ilanı, görev süresi sonu; yalnız indirilmiş ilanlar seçeneği), kaynak sütunu, TTSG-MERSİS farkı",
   "mandatory": false,
-  "sig": "9NRbwzu5ZcXHfuzPwRV4FSeTyRTxWx1r4PkcFTJLiTs5aiNlwMRu3usiC1CSnfeiQVhfJR5FUeKplvGsVAD8Cw=="
+  "sig": "dRnrI+xyx8Lq8gAa1kNXSjEUksXSm9eD9mRV/Aoi6nSiZRbNK5u1mbdEyvVtcfIKs7072MwkVlpBQ9UEJGRUCg=="
 }
