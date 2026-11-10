@@ -1,11 +1,11 @@
 {
-  "version": "3.9.367",
-  "sha256": "189572bef2806d61e16ba5e0cecda871c3af82e157236d5480e3cb8a6eeb2d7f",
+  "version": "3.9.368",
+  "sha256": "1f0fab76a3eea61e8a53f744be78b1b6e28eb40c7479e9da19e0981aef3cd7db",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ticaret sicil evrak seti: çıktı adedi (hazirun 3 suret; kararlar noter onaylı karar defterinde 3 suret, elektronik karar defterinde Bakanlık antetli 1 suret; dilekçe ve diğerleri 1 suret), karar defteri seçimi, evrak listesinde toplam çıktı",
+  "notes": "MERSİS: oturum kapalıyken sağ üstteki Giriş düğmesine kendiliğinden tıklar ve giriş sayfasını açar; oturum yok durumu doğru tanınır",
   "mandatory": false,
-  "sig": "ZdhnMiznt1cJlfX/mI0398NF/HOSZmweGbDhRzDMA1ehcLSZbJMzcyb0vXkiwU2vkSaN8ub+p9qpEk25YMrBBg=="
+  "sig": "zqYyiOQVbq1ugQlymQYTwh2o7zkcyCXVFmwbRjSI5BHmfZdsJvMHOjJtPdpx42ytCSNbTpz173Ap7DtFvf39DA=="
 }
