@@ -1,11 +1,11 @@
 {
-  "version": "3.9.370",
-  "sha256": "ed41e3ede738ef58d8d27094c08a532f630e5dc33bb4cdae613abe1a62b17fe3",
+  "version": "3.9.371",
+  "sha256": "39e91ce3f55b04d3216c56e9e01a47c10b3c551592ca4f1e4866cbf755509116",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "MERSİS: Giriş bilgisi (e-posta/şifre şifreli saklanır); program Giriş düğmesine gerçek tıklamayla basar, e-posta ve şifreyi yazıp kendisi girer; giriş sayfasında doğrulama sorusu varsa sağ alttaki kutuda sorulur",
+  "notes": "e-Defter ve Mizan Mutabakatı: Türkçe ekranda kalan İngilizce durum, uyarı, sütun ve bildirim yazıları Türkçeleştirildi (Mizanda yok, Muavin / e-Defter farkı, dengesiz yevmiye maddesi, dönem dışı tarih, mükerrer satır vb.)",
   "mandatory": false,
-  "sig": "f/Z7xCYEbFTr45o4AEDtZP/0hihE39zVJ2o83NNZeRGuRzBm7B/sVtU9nGGbgaMCtrIbKq7rjvo80MqFjAx4DA=="
+  "sig": "c+xaTgzx94VoypzUFzOOm2HFJOQ3Gyw+xSZIupzeGncNXExmpJDE+0b7Pd1ab2Lp+XpGdlmwPclhK6a7BUDbDA=="
 }
