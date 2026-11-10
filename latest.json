@@ -1,11 +1,11 @@
 {
-  "version": "3.9.360",
-  "sha256": "7d7934239788a599a43e91e50a285a77dd7c7e7ad689cf8c97987c37fe8b7114",
+  "version": "3.9.361",
+  "sha256": "6a6f91d4eca2985b1eaae8f5c2f52ac90e89d83ba53ffd7161395ee2d4605e12",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "YK seçimi: olağan/olağanüstü sorusu, olağanda faaliyet raporu-bilanço-gelir tablosu, eski üyelerin ibrası, ilk genel kurulda iç yönerge, mevcut üyeleri yeniden seç, temsil-ilzam; Bakanlık iznine tabi şirket uyarısı (kripto, bağımsız denetim vb.); GİB robotu programda olmayan mükellefi sorar",
+  "notes": "MERSİS'ten tüm firmaların yönetim kurulu / müdürleri ve görev süresi sonları; temsile yetkililer; Excel; bitişe 1 ay kala hatırlatma görevi",
   "mandatory": false,
-  "sig": "J+0OMAUeTi+uM0rm3l7Newe0oDd9PzgLQudMZ7YELCnpgWCwFYNc1HslyRPIPaFyp7lRPccDO1oI0Xik02RuDg=="
+  "sig": "OGjK+cl/zsOP/EbaPsLamaAoLRwgw7RY7g1Pe4vh/IdNChmiErzOG2XTSl0fEKgQwuMxDLmoMXy42zSIeCvfAQ=="
 }
