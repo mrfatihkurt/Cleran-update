@@ -1,11 +1,11 @@
 {
-  "version": "3.9.372",
-  "sha256": "9720047d17416950135c1a7121cfadb03ca29843a226ed7d289f717208db7957",
+  "version": "3.9.373",
+  "sha256": "365e04a4b6c5db2b56236553a6459c8d64de1dfc9466e19e142060b05c57bc48",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "MERSİS: giriş sayfası doğrudan açılır, MERSİS Hesabı sekmesi seçilir, kullanıcı adı ve şifre yazılır, toplama sorusu sağ alttaki kutuda sorulur ve Giriş'e basılır; şahıs işletmeleri ve irtibat büroları listelenmez",
+  "notes": "MERSİS: firma arama sayfası yanlışlıkla 'oturum kapalı' sanılıp giriş sayfasına gidilmesi düzeltildi (aynı firmada toplama sorusunun tekrar tekrar sorulması); giriş sonrası kalan giriş düğmesi işi temizlenir",
   "mandatory": false,
-  "sig": "bWhNflylPHsvmLqb7U+Yv3xhtBOK6VPxIAjMXxCDJywsVSTGr5y9IrGx3y7LH8EYlMTLHY0R+z1MDPLZGX+dBw=="
+  "sig": "VK+6Qev9R0MfjxvM7rTkwMDEz+ijCSrJd6jlZ5OxJB7/c5ug+BF8hPAc3RB/1UKG6HZcaLiAJE9WwxacwDwvDQ=="
 }
