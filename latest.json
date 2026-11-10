@@ -1,11 +1,11 @@
 {
-  "version": "3.9.365",
-  "sha256": "f50650d452ddcf4901d0d40e3303666cacaf795ea757d132cab505568b990e6e",
+  "version": "3.9.366",
+  "sha256": "9e5c458c0c17631df562ed96fe27a7731aacbdde3b054e5414f37284f674dd2d",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "TTSG: gerçek ilan biçimleriyle yönetim kurulu (tarih ad ile görev arasında, 'yerine', 'önceki üyeliği sona ermiştir', süresi dolanlar), temsile yetkililer ve yetki şekli, pay sahipleri ('tarafından,', 'e aittir', emisyon primli); temsil çoklu seçim; YK üyelerini pay sahibi ekle düğmesi; kişi düğmeleri düzeni",
+  "notes": "TTSG: sicil no yoksa unvanın ilk 2-3 kelimesiyle aranır, unvanı en çok tutan firmanın sicil no'su bulunup firmaya kaydedilir; 'Sonuç Bulunamadı' algılanır; yönetim kurulu araması pencere kapansa da arka planda sürer",
   "mandatory": false,
-  "sig": "PQ19VYBVitML7nHlCrQnOwE731CFu6Cs2Amyk69thWqSCL5fiZQ0s+h/ZZSlX8pnB2blPBMflzv55M7mSwmNAA=="
+  "sig": "E62QWyYTNfUtXkdjq+zz3emrTL6GSjOyJrpmtEDNjIVDJfrIHFtRE5+3svb60B5yA3jaIOhSg8jNJ5bS8I56BQ=="
 }
