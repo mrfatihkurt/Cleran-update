@@ -1,11 +1,11 @@
 {
-  "version": "3.9.373",
-  "sha256": "365e04a4b6c5db2b56236553a6459c8d64de1dfc9466e19e142060b05c57bc48",
+  "version": "3.9.374",
+  "sha256": "4e2445ac02f8c988c8336ad624a1d3aa42349695729e2cd1333c98238fc8c5c1",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "MERSİS: firma arama sayfası yanlışlıkla 'oturum kapalı' sanılıp giriş sayfasına gidilmesi düzeltildi (aynı firmada toplama sorusunun tekrar tekrar sorulması); giriş sonrası kalan giriş düğmesi işi temizlenir",
+  "notes": "e-Defter: Dönem Sonu ve e-Defter Kontrol Raporu (madde madde kontroller, firma logolu Word, amortisman tablosu, banka ekstresi klasörü, KDV beyanı devir kontrolü, çek vadesi, kur değerlemesi, ödenmemiş sermaye, asgari sermaye, TTK 376, YK süresi, adat faizi); mizan e-Defterle aylık hareket üzerinden karşılaştırılır (birikmiş mizan tanınır), hareketsiz hesaplar fark sayılmaz, mizan–muavin karşılaştırması kaldırıldı",
   "mandatory": false,
-  "sig": "VK+6Qev9R0MfjxvM7rTkwMDEz+ijCSrJd6jlZ5OxJB7/c5ug+BF8hPAc3RB/1UKG6HZcaLiAJE9WwxacwDwvDQ=="
+  "sig": "dgf9BjDKE1OmdULSOROl0k0wSeydh2C9KqXgpVWLzBn+DoWRTCCkNqFpEIqDsZtdk5Zkl7e5+A0mTLCAsKHfDQ=="
 }
