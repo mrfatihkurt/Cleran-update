@@ -1,11 +1,11 @@
 {
-  "version": "3.9.383",
-  "sha256": "6faa1879bf05024be0146819532e4469cf83a08a9baf1250299114d86b29d5d4",
+  "version": "3.9.384",
+  "sha256": "89f52ea81a52dc07028c3f689a36ad43a775b749783c5791d0e68445ab719cab",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB beyan robotu: türe göre aramada boş liste görülünce GİB sayfasının son yazısı ekrana yazılır ve tanı dosyası sabit adla (GIB_Tani_SON.html) kaydedilir",
+  "notes": "GİB beyan robotu: boş liste tanısı (GİB sayfa yazısı sonuç notuna ve kayıt klasöründeki Tani\\GIB_Tani_SON.html dosyasına yazılır)",
   "mandatory": false,
-  "sig": "+u88hgbG8RGbXt6QzHuoAiT56ociRk5NUFjwmHBAzW2yN/HoT+frECKy6XVphTvRBC1XhvKQALCy3Kfx9Ws6Aw=="
+  "sig": "8nknzlkEAeBA0ibJO0N0pb7idkGc5qeTuhKTgPThk/xnhTLjTcG5znMk7a3Y1qdsb/s9o3T5gVACFgNwWb8VCA=="
 }
