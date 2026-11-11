@@ -1,11 +1,11 @@
 {
-  "version": "3.9.382",
-  "sha256": "b87767c36df47898652a4090c20d55491d0173193fff04422b5d67d294b15ce1",
+  "version": "3.9.383",
+  "sha256": "6faa1879bf05024be0146819532e4469cf83a08a9baf1250299114d86b29d5d4",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB beyan robotu: türe göre aramada GİB listesi boş dönünce beklemede kalmaz (en çok 45 sn, sonra 'bu aralıkta yok' yazıp sonraki türe geçer); tarih aralığı gereksiz yere gün gün bölünmez",
+  "notes": "GİB beyan robotu: türe göre aramada boş liste görülünce GİB sayfasının son yazısı ekrana yazılır ve tanı dosyası sabit adla (GIB_Tani_SON.html) kaydedilir",
   "mandatory": false,
-  "sig": "pEOR1V8yc2MhahZWz+EPSX9HT7IEGLeW8ROhgHkezWEaDRyALn992YnDLe+nZZe3yLZj3VfoXahEPs3bFwl3DA=="
+  "sig": "+u88hgbG8RGbXt6QzHuoAiT56ociRk5NUFjwmHBAzW2yN/HoT+frECKy6XVphTvRBC1XhvKQALCy3Kfx9Ws6Aw=="
 }
