@@ -1,11 +1,11 @@
 {
-  "version": "3.9.376",
-  "sha256": "c9dd48611ff6458a5fe60800d4fc449964b4d8f95d6bd641e65de27d2038799b",
+  "version": "3.9.377",
+  "sha256": "b4054b4bb4483cf4f1a4e8f19d62af53f12991fc0a2f16afaafc91195242d105",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Dönem sonu ve e-Defter kontrolü tek ekranda: Hesapla ile dönem sonu kontrolleri aynı ekranda çıkar (ayrı pencere kalktı); menüdeki eski Dönem Sonu Kapanış Listesi bu ekrana yönlenir; Entegratör–Muavin kontrolündeki eski dönem sonu tablosu kaldırıldı",
+  "notes": "GİB beyan robotu otomatik indirme: her sonuç (kapalı, kaçırıldı, başlamadı, tekrar denenecek, yapılamadı, bitti) ekranda ve Windows bildiriminde görünür; kaçırılan gün sonraki açılışta yapılır. e-Defter kontrolü: dönem aralığı (örn. Temmuz–Eylül, Çeyrek düğmesi) — her ayın e-Defteri birlikte, mizan hareketi aralığa göre; '✓ Kontrol edildi' işareti aylık tabloda ve firma listesinde görünür",
   "mandatory": false,
-  "sig": "n3p/GxMDyJU2sftTB8/0xdtuXn+mzEbJvO5PMEqgErq+sNoi5XRvCvbhmvkyuYtgo+Tx9pkb2G8i0CTLco7SAQ=="
+  "sig": "2KCUU6ZonupcHIykheAc4k4HGw+LPGyQ2NToUbfpBxvCrFx00UMYHQNdQkBwiA55OH+WjGajexD9VcL03WFwAQ=="
 }
