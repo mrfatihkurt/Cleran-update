@@ -1,11 +1,11 @@
 {
-  "version": "3.9.378",
-  "sha256": "342acfc53e736a7f80050984631d0c196368d8a043822d251cc5b1fff0109022",
+  "version": "3.9.379",
+  "sha256": "2d3037e66a9d4a21752be564e31f5c4ee429857c93d56f413a3b1388415b0837",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Menü yeniden gruplandı: 2. Kontroller (tüm kontrol modülleri), 3. Hesaplamalar (tüm hesaplama modülleri), 4. Analiz ve Değerleme (finansal analiz, bütçe, TTK 376, şirket değerleme, IFRS ve GAAP raporlama, Due Diligence); öne çıkanlar grubu kaldırıldı",
+  "notes": "Üst çubuk sadeleştirildi: Kimlik Bilgileri (sol menüde zaten var) ve Müşteri Portalı (Büro Yardımcıları'na taşındı) üstten kaldırıldı; Run düğmesi Mola oldu",
   "mandatory": false,
-  "sig": "g6XEkN2+JswowRPvPkxUYs8BSt1YcHXFB2PEr46pZsoXGfG+u1a+k6+kVBepeZ9P1Te7RV+49f43Gsq9paIlDw=="
+  "sig": "p4eZ0GFPKiF+/QyZOS7xNQkGaEYHU9DFTcANeleO4jtJstXymtnbmJc4o8dWU858JoTBKH42Wwo0MYFMYZMaDw=="
 }
