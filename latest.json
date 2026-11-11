@@ -1,11 +1,11 @@
 {
-  "version": "3.9.375",
-  "sha256": "5a752464a57da72e19c3d3f1ef26c7b7c72fe3b5064ba978562f9f37ab68de44",
+  "version": "3.9.376",
+  "sha256": "c9dd48611ff6458a5fe60800d4fc449964b4d8f95d6bd641e65de27d2038799b",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Dönem sonu kontrol raporu: 121-321-101-103 reeskont hesabı ve uyarısı (oran ayardan), 11 grubu menkul kıymet dönem sonu değerlemesi, 258 yapılmakta olan yatırımlar ve 549 özel fon virmanları, 360-361 geçen ay tahakkukunun bu ay ödenip ödenmediği",
+  "notes": "Dönem sonu ve e-Defter kontrolü tek ekranda: Hesapla ile dönem sonu kontrolleri aynı ekranda çıkar (ayrı pencere kalktı); menüdeki eski Dönem Sonu Kapanış Listesi bu ekrana yönlenir; Entegratör–Muavin kontrolündeki eski dönem sonu tablosu kaldırıldı",
   "mandatory": false,
-  "sig": "F/Whyxg4RxC4Xhw9YJ2SIS9kzOFJcJsJJ5V/+Zvmq+BPcJGXq85z6tIxWge9/sRsC7RJlWqG6VdZ2cpen5gtAg=="
+  "sig": "n3p/GxMDyJU2sftTB8/0xdtuXn+mzEbJvO5PMEqgErq+sNoi5XRvCvbhmvkyuYtgo+Tx9pkb2G8i0CTLco7SAQ=="
 }
