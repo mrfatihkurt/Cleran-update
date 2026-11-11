@@ -1,11 +1,11 @@
 {
-  "version": "3.9.384",
-  "sha256": "89f52ea81a52dc07028c3f689a36ad43a775b749783c5791d0e68445ab719cab",
+  "version": "3.9.385",
+  "sha256": "556e717318b90295fcf0a7b184c3fd96a9374a506f116f56bbce534fe5419c79",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB beyan robotu: boş liste tanısı (GİB sayfa yazısı sonuç notuna ve kayıt klasöründeki Tani\\GIB_Tani_SON.html dosyasına yazılır)",
+  "notes": "MERSİS YK: önceki firmanın ekranda açık kalan bilgileri sonraki firmaya yazılmaz (vergi no ya da unvan kontrolü); yönetim kurulu bölümü açıldıktan sonra tablo geç gelirse 10 sn beklenir, 'kayıt yok' denmez",
   "mandatory": false,
-  "sig": "8nknzlkEAeBA0ibJO0N0pb7idkGc5qeTuhKTgPThk/xnhTLjTcG5znMk7a3Y1qdsb/s9o3T5gVACFgNwWb8VCA=="
+  "sig": "74nnSYnW6m71enIt4ulS+P+cjX0ELHt5cnOqJwp5Z8MuxaT4z48G+Em4D9Kx62OLjDpGIfC9W4GJ2EmDxNLyCQ=="
 }
