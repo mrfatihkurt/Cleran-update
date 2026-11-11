@@ -1,11 +1,11 @@
 {
-  "version": "3.9.380",
-  "sha256": "17d91d4c850f2978fdf98243fc3266b335e01b0a375224240c4deda876cea8b6",
+  "version": "3.9.381",
+  "sha256": "d0565e9f6f2fc9366e5ade69dd01bb05de6dae3cff200136a3abcfcf7672b0fd",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Muhasebe Kontrol ve Bulgu Raporu: bulgu başlık, açıklama ve önerileri Türkçe; dönem sonu kontrollerindeki hata ve dikkat maddeleri rapora eklendi; birden çok ayı kapsayan e-Defter kontrolü bulunur, 'Hareket yok' hesaplar fark sayılmaz",
+  "notes": "GİB beyan robotu: seçilen beyan türü (örn. Geçici vergi) GİB'in Beyanname Türü kutusunda seçilerek aranır; seçilmeyen türler okunurken de atlanır, listede görünmez ve indirilmez; Geçici vergi tanıma düzeltildi",
   "mandatory": false,
-  "sig": "JZrsIZPkx4rxDd8hLwRAJAblnf2wPeafCQ7sUnYajCZDRXPDSYBkA3lo2w1H0qVFjbM+3Po/aztK1fw0BlIhBQ=="
+  "sig": "evIIryUa3y+6uyiXoHNLfN9nu3d3rDStlVfKHRXKRfl8j1E1SxWBM/FRFrs9A7X/w8iT4WaHRE1nPSyZxnDgCg=="
 }
