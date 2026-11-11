@@ -1,11 +1,11 @@
 {
-  "version": "3.9.377",
-  "sha256": "b4054b4bb4483cf4f1a4e8f19d62af53f12991fc0a2f16afaafc91195242d105",
+  "version": "3.9.378",
+  "sha256": "342acfc53e736a7f80050984631d0c196368d8a043822d251cc5b1fff0109022",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB beyan robotu otomatik indirme: her sonuç (kapalı, kaçırıldı, başlamadı, tekrar denenecek, yapılamadı, bitti) ekranda ve Windows bildiriminde görünür; kaçırılan gün sonraki açılışta yapılır. e-Defter kontrolü: dönem aralığı (örn. Temmuz–Eylül, Çeyrek düğmesi) — her ayın e-Defteri birlikte, mizan hareketi aralığa göre; '✓ Kontrol edildi' işareti aylık tabloda ve firma listesinde görünür",
+  "notes": "Menü yeniden gruplandı: 2. Kontroller (tüm kontrol modülleri), 3. Hesaplamalar (tüm hesaplama modülleri), 4. Analiz ve Değerleme (finansal analiz, bütçe, TTK 376, şirket değerleme, IFRS ve GAAP raporlama, Due Diligence); öne çıkanlar grubu kaldırıldı",
   "mandatory": false,
-  "sig": "2KCUU6ZonupcHIykheAc4k4HGw+LPGyQ2NToUbfpBxvCrFx00UMYHQNdQkBwiA55OH+WjGajexD9VcL03WFwAQ=="
+  "sig": "g6XEkN2+JswowRPvPkxUYs8BSt1YcHXFB2PEr46pZsoXGfG+u1a+k6+kVBepeZ9P1Te7RV+49f43Gsq9paIlDw=="
 }
