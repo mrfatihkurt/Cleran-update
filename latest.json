@@ -1,11 +1,11 @@
 {
-  "version": "3.9.379",
-  "sha256": "2d3037e66a9d4a21752be564e31f5c4ee429857c93d56f413a3b1388415b0837",
+  "version": "3.9.380",
+  "sha256": "17d91d4c850f2978fdf98243fc3266b335e01b0a375224240c4deda876cea8b6",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Üst çubuk sadeleştirildi: Kimlik Bilgileri (sol menüde zaten var) ve Müşteri Portalı (Büro Yardımcıları'na taşındı) üstten kaldırıldı; Run düğmesi Mola oldu",
+  "notes": "Muhasebe Kontrol ve Bulgu Raporu: bulgu başlık, açıklama ve önerileri Türkçe; dönem sonu kontrollerindeki hata ve dikkat maddeleri rapora eklendi; birden çok ayı kapsayan e-Defter kontrolü bulunur, 'Hareket yok' hesaplar fark sayılmaz",
   "mandatory": false,
-  "sig": "p4eZ0GFPKiF+/QyZOS7xNQkGaEYHU9DFTcANeleO4jtJstXymtnbmJc4o8dWU858JoTBKH42Wwo0MYFMYZMaDw=="
+  "sig": "JZrsIZPkx4rxDd8hLwRAJAblnf2wPeafCQ7sUnYajCZDRXPDSYBkA3lo2w1H0qVFjbM+3Po/aztK1fw0BlIhBQ=="
 }
