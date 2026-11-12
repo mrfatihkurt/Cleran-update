@@ -1,11 +1,11 @@
 {
-  "version": "3.9.388",
-  "sha256": "52dc9727a265fa085da16f6314e06c450d19f580bdc25d032c6c367a9a518cf6",
+  "version": "3.9.389",
+  "sha256": "0e57719cbac39f2b5f898e3a70b46cec260557de40b6bae734f2f240b7861b78",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Yenilikler sayfası güncellendi: 3.9.316'dan bu yana tüm sürümlerin notları eklendi; bundan sonra her güncellemenin notu buraya kendiliğinden yazılır",
+  "notes": "Firmalar: tüm firmalar için tek tabloda toplu adres, il, ilçe, vergi dairesi, ticaret sicil no ve MERSİS no girişi (Firmalar ekranında 'Toplu adres / il-ilçe / sicil girişi'); Excel'den sütun yapıştırma ya da VKN / unvanla eşleştirerek alma; adresin sonundaki 'İlçe / İl'den il ve ilçe kendiliğinden bulunur. Firma kartına 'Adres ve Ticaret Sicil' bölümü eklendi. Ticaret Sicil Gazetesi ve MERSİS sorguları sicil müdürlüğünü firmanın ilinden alır (eskiden her firma İstanbul sayılıyordu).",
   "mandatory": false,
-  "sig": "E5GRzSHTiHYOga8ax5UM3L9w8AS+PIeBwuI2hwptEAeDY5W32+wkApZOIXqvtz3x/IHQhIfttSEthBcL+r6YCg=="
+  "sig": "8Fd+FavfQecmjk9OP8eCU6wGhyrmbKRH9puw0jCPz74SyUeQi7VvQzkolmcK2ohUh4OJU8sExG9MEliZDhR7CA=="
 }
