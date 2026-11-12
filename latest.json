@@ -1,11 +1,11 @@
 {
-  "version": "3.9.386",
-  "sha256": "3a416015d53495e47bf59e01b43271a5fd871898e2b4a9b100b9ffc6c0083e8a",
+  "version": "3.9.387",
+  "sha256": "63f342c3019d8af2c7517657d4c820bf9f6cf1fe7cdfccea508583c77c04ebbc",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "ÖTV1: her ayın 9'u ve 24'ünde hatırlatma ve yalnız ÖTV1 sorgulayan otomatik GİB robotu; son 4 ayda ÖTV1 verip bu dönem görünmeyen firmalar bildirilir; robotta ayrı ÖTV1 seçimi",
+  "notes": "Masaüstü ve Başlat menüsündeki Cleran kısayolu program açıkken silinirse 10 dakikada bir kendiliğinden geri konur",
   "mandatory": false,
-  "sig": "2tN5goK1DQPuVoQhS6yWZsu+mqjihU+c6EMc4QY5O1BJ/OsdMUsWAk2OoXO1YaIsizIuMi4SUfmaaFv8i5OcDQ=="
+  "sig": "cVKzg2zMG1wzeHBN3lETYVZww/08vXP3h+nBbO1dQbSFWglRKk8gU73FMtG0WgdNd1RgK4QTkLemNX3wwhDACg=="
 }
