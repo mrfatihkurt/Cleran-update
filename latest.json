@@ -1,11 +1,11 @@
 {
-  "version": "3.9.416",
-  "sha256": "c39585fd566e7a53605efe886253e3467acb1fda7892b8e091ca99a2495b0ace",
+  "version": "3.9.417",
+  "sha256": "a5d5a6a1c6648c4424639c4142a82d123127db37562c67376f4720a6366bc132",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ajanda: İş Takip Yardımcıları menüsünde ve üst menüde. Ay, hafta, gün ve liste görünümü; boş güne / saate tıklayıp kayıt ekleme; tarih, başlangıç-bitiş saati, tüm gün, firma, öncelik, renk, not; kutucukla tamamlandı işareti; sürükleyerek başka güne / saate taşıma; geciken kayıtlar; seçilen süre önce bilgisayar bildirimi. Görev Takibi'nde size atanan görevler de takvimde görünür ve oradan tamamlanabilir.",
+  "notes": "Firma Muhasebe Verileri: 'Yüklü verilerle yapılabilecekler' listesi. Mizan, muavin, amortisman ve stok tablosuyla yapılabilen 12 iş (risk uyarıları, kontrol ve bulgu raporu, dönem sonu kontrolleri, IFRS, finansal oranlar, TTK 376, örtülü sermaye, finansman gider kısıtlaması, KDV1 ve muhtasar taslağı, amortisman, stok maliyeti) işaretlenip tek tıkla sırayla çalışır; her satırda sonuç, süre ve 'Ekranı aç'; eksik veri gösterilir; Durdur; sonuçlar Excel'e. Ek bilgi isteyen işler (enflasyon, adat, bütçe, değerleme…) ekran düğmesiyle.",
   "mandatory": false,
-  "sig": "zYK4SXzqf5cLCfBE9wbHgJc5NP4TdOViVTLaiRdtLT8KEKb7EaV9Jy3laMdHyG00NT4IeIMl8DNC2Eu9NDkmBA=="
+  "sig": "tZyvLUXk7IWbJkCCeZ+XvJXRo9a7H6DxQPKWklDcTpg8rKDRF4e5RBXLQE28UDQwc+upDPDJweFuQp8zUv7KDQ=="
 }
