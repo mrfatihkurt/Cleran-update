@@ -1,11 +1,11 @@
 {
-  "version": "3.9.418",
-  "sha256": "44b5aed6c1544c0255a67e661ee6155426ffafcf4ccb446dbc4a43f8c3722864",
+  "version": "3.9.419",
+  "sha256": "9dac512df4edbb0bc08860baa38d260cb9a9b04318151a878ca4608ca7f4d704",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Firma Muhasebe Verileri: üstte her veri türü için ayrı yükleme kutusu (Mizan, Muavin, Bordro, Amortisman tablosu, Stok tablosu, e-Defter, Entegratör fatura listesi, Banka ekstresi). Her kutuda seçilen dönemin yüklü olup olmadığı, dosya adı, satır sayısı ve tarih; Yükle / Yeniden yükle ve Şablon. Eski tür seçme kutusu kaldırıldı. Toplu işlem listesine entegratör–muavin karşılaştırması eklendi; bordro, e-Defter ve banka durumu da gösteriliyor.",
+  "notes": "Firma Muhasebe Verileri: pencerenin en üstüne firma seçim kutusu eklendi. Firma değiştirince yükleme kutuları, yapılabilecekler listesi ve arşiv o firmaya göre yenilenir; ana ekrandaki seçili firma da aynı firmaya geçer. Yükleme ya da toplu işlem sürerken firma değiştirilemez.",
   "mandatory": false,
-  "sig": "GxlSSFr7h09/+pcVnc3WJ3NfdT6xHovE/y36VLWi+QGYof7/fDsfFDLq2+vXzNf278iUlimoJ87BgiNjrHczAg=="
+  "sig": "ES4/ihkg0y2pGHx9Ado7G1x0o4MS814rI1sfFl2+JQp0KYKav+5iMGpIyJdh+23RFYM0EtTlEC3FvN6T2JUuDw=="
 }
