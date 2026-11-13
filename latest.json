@@ -1,11 +1,11 @@
 {
-  "version": "3.9.412",
-  "sha256": "0a6067e260c9a10f9dfb4ccce5cda81b22a42fd868cce2496287919e0cbb7cf4",
+  "version": "3.9.413",
+  "sha256": "a1e1765b55c484d5974b78c87e52a0fae3a2a87d9b8644e2c30699fd545b3833",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Dönem sonu kontrolleri: 'Kontroller yapılıyor…' yerine ilerleme çubuğu; adım (ör. 3/7), o an yapılan iş, yapılanlar, geçen süre ve tahmini kalan süre gösterilir. Bitince kaç sürdüğü yazılır.",
+  "notes": "Mizan, Muavin ve e-Defter Kontrolü: e-Defter yokken mizan ile muavin ana hesap düzeyinde (yıl başından dönem sonuna, açılış dahil) karşılaştırılır, e-Defter sütunları gizlenir. Hesap kodları 102.01.001 biçiminde. Tablo başlığı aşağı kaydırınca sabit kalır. Kayıt yeri seçili firmanın kendi klasörünü gösterir; ana klasör başka firmaya aitse uyarır. Dönem sonu kontrolleri: kur değerlemesi tablosu Döviz tutarı · Kur · TL tutarı · Mizan bakiye · Fark sütunlarıyla (döviz bakiyesi mizandan, kur ay sonundan bir önceki iş günü TCMB döviz alış). KDV beyannamesi GİB arşiv klasöründen bulunur, tutarlar doğru okunur ve 'KDV1 beyannamesini aç' düğmesi eklendi.",
   "mandatory": false,
-  "sig": "RTXvX5/mJY581r5vLMbwpNervNpV1MJJdZoXm+DpAVl/jYsyTKXQ3GfO9IyB/0CA4nO+IYsg4Cjx6tgy7pMOBA=="
+  "sig": "wHj/AV5HEUnw+qRzFl/WsX+dT2wTQHVEy5/zi/xmcYsjPTwhFpzXL3tTfHJgCeFOT0VzA7xafq0+D8iQ6VDbBg=="
 }
