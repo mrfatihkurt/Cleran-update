@@ -1,11 +1,11 @@
 {
-  "version": "3.9.400",
-  "sha256": "5ed5b181164655ae2122c84d4c6284353ec5973758371788ca0054f6ccaf64ef",
+  "version": "3.9.401",
+  "sha256": "60afd2391dd5e687cd935da97c74262602eec43e52a6b97a704ce6aa00896cb7",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "IFRS kur değerlemesi: mizanda döviz cinsi sütunu varsa dövizli hesaplar ve döviz bakiyeleri yalnız o sütundan alınır; hesap adından tahmin yapılmaz. Sütun olmayan eski yüklemelerde ad tahmini sürer.",
+  "notes": "GİB beyan robotu: yalnız ÖTV1 gibi Muhtasar dışı bir tür seçildiğinde firmaların MUHSGK2 (1003B) girişiyle ikinci kez oturum açılmaz (süre yarıya iner). Beyanname PDF'i 30 sn'de gelmezse bir kez 120 sn beklenerek yeniden istenir. Seçilmeyen türler atlandığında '1/8 beyan okundu' gibi yanlış 'sayfalama eksik' hatası verilmez.",
   "mandatory": false,
-  "sig": "iPxBzagaKpshRE2e8KNm2XtSMlc90FKf+DwKnL8Qve+yp6I+LeADWkfqhmqh39U+fpaS6SuqqiYGxLmcyRF9Ag=="
+  "sig": "+0V0KXfG5K6UQiZ3UOHaleYs1LSINCwHqPVdVYFphEsFW1PkQlfL6hgrHJOXhGVGQiGwU0hz/taNHg7dPGNHAA=="
 }
