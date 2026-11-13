@@ -1,11 +1,11 @@
 {
-  "version": "3.9.395",
-  "sha256": "24a493280a9fd9a2185b3e5976dc31260a32698eca7c37bc9c946eb24fd4a402",
+  "version": "3.9.397",
+  "sha256": "f36d3d747a32abe3c96d0ebd5bf73dcf6e25ac79c35dae9d42cf2dacdfe70866",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "İlişkili taraflar: alınan/verilen avanslar ve gelecek dönem hesapları (15x, 18x, 28x, 34x, 38x, 48x) parasal olmadığı için satırında bırakılır, raporda ilişkili taraf olarak listelenir.",
+  "notes": "Firma Muhasebe Verileri: birden çok mizan sayfası olan Excel'de (ör. şablonda kalmış başka firmanın ya da başka yılın mizanı) doğru sayfa seçilir; başlıktaki firma adı ve yıl, sayfa adı (TB / Mizan) ve borç-alacak dengesi dikkate alınır. MERSİS yönetim kurulu sorgusu: arama sonucundaki firmaya tıklama güçlendirildi (sonuç hangi etiketle yazılmış olursa olsun tıklanabilir üst öğesine tıklanır).",
   "mandatory": false,
-  "sig": "Ng06qjrffYbVqUNS83drwkSpimOtud2aJzP2lvzMEYK9iOjfDj3qjdmwDPplKDNvs/fulnzj2KeJCj7oJJ+/Ag=="
+  "sig": "wt5LJBF5R+orlCuJCtReO4PEstzB4gApY2CncXqbepfhhFVN65m8gP2WeyxI3DfE7uhHkHRAnaQ4vX3HXlmTDg=="
 }
