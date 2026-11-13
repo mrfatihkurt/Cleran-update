@@ -1,11 +1,11 @@
 {
-  "version": "3.9.405",
-  "sha256": "e28cf88d08aea37150d55ef5073d37538fcc8ac7b23639f0c35c45452654f630",
+  "version": "3.9.406",
+  "sha256": "adbc34ce659954679f2c7641cb02b41aa4eefab61222b279f2684423ab0ff038",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB beyan robotu: uzun indirmelerde GİB oturumu zaman aşımına uğrarsa robot artık dakikalarca boş beklemez; GİB penceresi açılır, CAPTCHA girilince yeniden giriş yapılır ve sorgu kaldığı yerden sürer. Oturum düştüğü için PDF'i inmeyen iş bir kez yeniden alınır (inmiş PDF'ler yeniden indirilmez).",
+  "notes": "Mizan, Muavin ve e-Defter Kontrolü: e-Defter yüklenmemiş aylarda kontrol durmaz; mizan ve muavinle dönem sonu kontrolleri (madde madde liste ve Word raporu) yapılır, e-Defter karşılaştırması 'e-Defter yok' olarak işaretlenir. e-Defter yüklenince karşılaştırma da eklenir. 'Kontrol edildi' e-Defter olmadan da kaydedilir.",
   "mandatory": false,
-  "sig": "gO3f8iwaNCpttYnBW6kXvREA1QNBsmB13b8xLTmkfBLOusSNHDeAE+AA/XrCRtxHPoVg5FqM9yQjLpDsUqC1Dw=="
+  "sig": "RlBUJJqoFrerdkyZmnuYdp6mjmBlmc0eYi12jEz/jNzLuxDwDU6kn2s5TzSYzpOjCZrKh6jWbkOGV+h69YS8Bg=="
 }
