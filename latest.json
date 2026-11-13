@@ -1,11 +1,11 @@
 {
-  "version": "3.9.403",
-  "sha256": "afcf9a8a32da782c0d6db4d8a797e2bfd2e059e889e05d7a333c547815aed3f8",
+  "version": "3.9.404",
+  "sha256": "d154ad4a101915125207dd575eaec3d505f2c11600e1876db634f95b0f93c642",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB beyan robotu: beyan türü seçildiğinde GİB'in Beyanname Türü kutusu artık kullanılmaz (toplu listede güvenilir süzmüyordu; geçici vergi verilmiş olduğu halde 'Sonuç Yok' çıkıyordu). Tarih aralığındaki liste bir kez okunur, yalnız seçilen türler (ör. geçici vergi) indirilir, diğerleri atlanır.",
+  "notes": "MERSİS yönetim kurulu sorgusu: arama sonucundaki firma satırı hangi etiketle yazılmış olursa olsun tanınır; program toplamı yeniden sormak yerine firmaya tıklar. Satır yine tanınmazsa sayfanın ilgili kısmı MERSIS_Tani_SON.txt dosyasına yazılır.",
   "mandatory": false,
-  "sig": "u7AjWPeFNuoQBBeMEshYI8+yd7Wr4IMvB1LBjM+QExuz9hZsSsANtkB4BX0cwOSJU9FkCVHIbHjwzZXE5TK2CQ=="
+  "sig": "WxU1HQA3tvQzD/rtu03gklNepk52EyPDQj7c5VKh3LZw6uvt6dXgB8Pdixtx6QTNdsa4zAsz9A4TOFuOI5NrCw=="
 }
