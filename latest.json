@@ -1,11 +1,11 @@
 {
-  "version": "3.9.410",
-  "sha256": "7ec428de6c10bf51649bce1b115dd5d2d18422deb42b2621ef4eddfa950fed6e",
+  "version": "3.9.411",
+  "sha256": "800cd728ba8794f89458823341233dde83a057f9bd2efdef0074a162eaab23d8",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Firma Muhasebe Verileri: tarihi ya da borç/alacak tutarı okunamayan muavin artık yüklenmez; hangi sütunun bulunamadığı yazılır (önceden yalnız bakiye okunup yükleniyor, kontroller 'muavin yok' diyordu).",
+  "notes": "Muavin yükleme: İngilizce sütun başlıklı muavin (Receipt Date, Amount Of Debt, Get Amount, Receipt No., TL Balance) tanınır; tarih, borç ve alacak doğru okunur.",
   "mandatory": false,
-  "sig": "ixfosSLWWQEN5jESWh0xEgANIBbwHC0pyFek5INgOMLDOtJTTlqcE92Vck93FEEX7Y5qh3nt4d8aXasQk49cDg=="
+  "sig": "nS068MjdgYUtqXsat1KIjGCGGhwofXDmbRVklxC7qV0YTD9eOWmrtY4EJKkuPj3jnySvrMzWcVfMfvWwdILMAA=="
 }
