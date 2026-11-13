@@ -1,11 +1,11 @@
 {
-  "version": "3.9.408",
-  "sha256": "e71bb6337fe180f9ca032b8d4fbd57c23c0a818de3e404b891933ccd97ec3144",
+  "version": "3.9.409",
+  "sha256": "2c9f23ac5820bbf3a992c230f6d157827ab330ba777367d0ca20249f7b18ab3f",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mizan, Muavin ve e-Defter Kontrolü: 'Dönem sonu kontrolleri' bölümü sayfanın en altından düğmelerin hemen altına taşındı; 'Üç Kaynaklı Kontrolü Çalıştır'a basınca ekran bu bölüme kayar.",
+  "notes": "Dönem sonu kontrolleri: e-Defter ekranı açılır açılmaz düğmelerin hemen altında görünür; dönem seçilip 'Kontrolleri çalıştır'a basılır. Dönem, mizan ya da muavin değişince bölüm yeni seçime göre hazırlanır.",
   "mandatory": false,
-  "sig": "QSsg+61KYXBNGh0d/3DS/iNd4TSMNZGUv6YR2NPFwaaBUQY2mv/xx7MT/nBPM5XGs3SS9VsoXh4MjEN1Bl12DA=="
+  "sig": "KkWCDF0+jGf+I+mANyDUyKAtQYOX0iv2rTXK4nwla25K2yX6sUdwoERIbk/9EpSED96Exz9RAyuBg1znIbEgAQ=="
 }
