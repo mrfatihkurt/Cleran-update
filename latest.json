@@ -1,11 +1,11 @@
 {
-  "version": "3.9.415",
-  "sha256": "5efb150b52183cdad63a4004a5a2bb30c182f1063a3648e9b29947f4d08df1e1",
+  "version": "3.9.416",
+  "sha256": "c39585fd566e7a53605efe886253e3467acb1fda7892b8e091ca99a2495b0ace",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mizan / muavin yüklemesinde ilerleme penceresi: dosya okunuyor, sayfalar inceleniyor, satırlar kaydediliyor (X / N), buluta yükleniyor; geçen ve tahmini kalan süre; Durdur düğmesi (durdurulursa hiçbir satır kaydedilmez).",
+  "notes": "Ajanda: İş Takip Yardımcıları menüsünde ve üst menüde. Ay, hafta, gün ve liste görünümü; boş güne / saate tıklayıp kayıt ekleme; tarih, başlangıç-bitiş saati, tüm gün, firma, öncelik, renk, not; kutucukla tamamlandı işareti; sürükleyerek başka güne / saate taşıma; geciken kayıtlar; seçilen süre önce bilgisayar bildirimi. Görev Takibi'nde size atanan görevler de takvimde görünür ve oradan tamamlanabilir.",
   "mandatory": false,
-  "sig": "sPTx/5OFXBCHI/6cbjj8X3eLlnukAGWD5PRwTqgZleT3wBCGJ+kEh8ykNg+E0/S9Qg08gtIzp9exYbufDxEICw=="
+  "sig": "zYK4SXzqf5cLCfBE9wbHgJc5NP4TdOViVTLaiRdtLT8KEKb7EaV9Jy3laMdHyG00NT4IeIMl8DNC2Eu9NDkmBA=="
 }
