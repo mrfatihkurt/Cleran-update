@@ -1,11 +1,11 @@
 {
-  "version": "3.9.397",
-  "sha256": "f36d3d747a32abe3c96d0ebd5bf73dcf6e25ac79c35dae9d42cf2dacdfe70866",
+  "version": "3.9.398",
+  "sha256": "183882b8a0ee0793da45f2ebb9ea47717865b0ccff4f31f07d2494ada325137f",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Firma Muhasebe Verileri: birden çok mizan sayfası olan Excel'de (ör. şablonda kalmış başka firmanın ya da başka yılın mizanı) doğru sayfa seçilir; başlıktaki firma adı ve yıl, sayfa adı (TB / Mizan) ve borç-alacak dengesi dikkate alınır. MERSİS yönetim kurulu sorgusu: arama sonucundaki firmaya tıklama güçlendirildi (sonuç hangi etiketle yazılmış olursa olsun tıklanabilir üst öğesine tıklanır).",
+  "notes": "Mizan yükleme: seçilen sayfanın başlığında başka bir firmanın adı ya da başka yıl yazıyorsa yükleme durdurulur (şablonda kalmış başka firma mizanı riski). IFRS ekranında kaynak satırında hangi sayfanın kullanıldığı ve firma adı yazılır. Kur (TMS 21): mizandaki döviz cinsi ve döviz bakiyesi yüklemede saklanır, IFRS'te döviz tutarları kendiliğinden gelir; kur, ay sonundan bir önceki iş günü TCMB döviz alış kurudur (Eylül → 29.09). Döviz cinsi hesap adındaki tam kelimeden bulunur (ör. 'Sargut' artık SAR sayılmaz).",
   "mandatory": false,
-  "sig": "wt5LJBF5R+orlCuJCtReO4PEstzB4gApY2CncXqbepfhhFVN65m8gP2WeyxI3DfE7uhHkHRAnaQ4vX3HXlmTDg=="
+  "sig": "rISLN19hisjfhEab7DSmyDy2on29QL1XOPBdO0ep0O0+j9EuHejrwIuppQFzaFBuRFG7qSqDwNmp0Ec2T5uMAQ=="
 }
