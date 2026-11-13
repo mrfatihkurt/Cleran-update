@@ -1,11 +1,11 @@
 {
-  "version": "3.9.398",
-  "sha256": "183882b8a0ee0793da45f2ebb9ea47717865b0ccff4f31f07d2494ada325137f",
+  "version": "3.9.399",
+  "sha256": "0f23e17066aaf1a1b89e6958dee784a58423179b8bdb0aac9f4da064bdcd16ac",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mizan yükleme: seçilen sayfanın başlığında başka bir firmanın adı ya da başka yıl yazıyorsa yükleme durdurulur (şablonda kalmış başka firma mizanı riski). IFRS ekranında kaynak satırında hangi sayfanın kullanıldığı ve firma adı yazılır. Kur (TMS 21): mizandaki döviz cinsi ve döviz bakiyesi yüklemede saklanır, IFRS'te döviz tutarları kendiliğinden gelir; kur, ay sonundan bir önceki iş günü TCMB döviz alış kurudur (Eylül → 29.09). Döviz cinsi hesap adındaki tam kelimeden bulunur (ör. 'Sargut' artık SAR sayılmaz).",
+  "notes": "Mizan / muavin yükleme: Excel'deki gizli sayfalar okunmaz. Adı Mizan, TB ya da Trial Balance olan (muavinde Muavin / Kebir / Ledger) veya başlığında bu firmanın adı geçen sayfa varsa yalnız onlar arasından seçilir. Gece otomatik içe aktarmada da gizli sayfalar atlanır.",
   "mandatory": false,
-  "sig": "rISLN19hisjfhEab7DSmyDy2on29QL1XOPBdO0ep0O0+j9EuHejrwIuppQFzaFBuRFG7qSqDwNmp0Ec2T5uMAQ=="
+  "sig": "uE3nle42GFDg26EroTDj+4AnfB6bwuk4r9EJcv6mg2k/j8Egd3IOMUexenjd/avMTNQugCXcmg3O0V2wZbJCAQ=="
 }
