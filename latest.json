@@ -1,11 +1,11 @@
 {
-  "version": "3.9.414",
-  "sha256": "619c70371d9a4547f0f361bf1c5f9fcfffec3aa0d46a1def2dde9f42e201d418",
+  "version": "3.9.415",
+  "sha256": "5efb150b52183cdad63a4004a5a2bb30c182f1063a3648e9b29947f4d08df1e1",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Muavin yükleme: hesap bloklu muavin (Luca: her hesabın başında '100.01 KASA' satırı) okunur; harfli alt hesaplar (120.01.T003, 320.01.Ç002) dahil, hesabın döviz bakiyesi 'Hesap planı döviz' sütunlarından alınır. Yüklenemeyen dosyada hata Türkçe ve nedeniyle yazılır. e-Defter kayıt klasörü başka firmanın klasörüyse ortak üst klasöre (ör. Z:\\MÜKELLEFLER) kendiliğinden düzeltilir. Dönem sonu kontrolleri: TCMB kuru tarayıcı ağıyla alınır (önceki yöntem bazı bilgisayarlarda 1 dakika bekleyip boş dönüyordu); kur tablosunda döviz tutarı muavinden de gelir; ilerlemede 'Durdur' düğmesi.",
+  "notes": "Mizan / muavin yüklemesinde ilerleme penceresi: dosya okunuyor, sayfalar inceleniyor, satırlar kaydediliyor (X / N), buluta yükleniyor; geçen ve tahmini kalan süre; Durdur düğmesi (durdurulursa hiçbir satır kaydedilmez).",
   "mandatory": false,
-  "sig": "UwCJq+B3Tm2K40r7PxiMaGMToCqkGkiS/XDUMYzWs0UXqq4Hw6IgGjC7G4A4aXM46wdQeEnK4kDKpZwzB1DpBQ=="
+  "sig": "sPTx/5OFXBCHI/6cbjj8X3eLlnukAGWD5PRwTqgZleT3wBCGJ+kEh8ykNg+E0/S9Qg08gtIzp9exYbufDxEICw=="
 }
