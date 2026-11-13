@@ -1,11 +1,11 @@
 {
-  "version": "3.9.406",
-  "sha256": "adbc34ce659954679f2c7641cb02b41aa4eefab61222b279f2684423ab0ff038",
+  "version": "3.9.407",
+  "sha256": "cb030a99d585fb2752bccef963fbf00e78d01af72b40d3141cf1e9c8da1daecc",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mizan, Muavin ve e-Defter Kontrolü: e-Defter yüklenmemiş aylarda kontrol durmaz; mizan ve muavinle dönem sonu kontrolleri (madde madde liste ve Word raporu) yapılır, e-Defter karşılaştırması 'e-Defter yok' olarak işaretlenir. e-Defter yüklenince karşılaştırma da eklenir. 'Kontrol edildi' e-Defter olmadan da kaydedilir.",
+  "notes": "Mizan, Muavin ve e-Defter Kontrolü: e-Defter yokken uyarı sadeleşti (dönem sonu kontrollerinin yapıldığı ve hangi mizan sayfasının kullanıldığı yazılır). Mizan / muavin seçim listelerinde satır sayısı ve Excel sayfa adı görünür; yanlış sayfadan yüklenmiş eski kayıt kolayca ayırt edilir.",
   "mandatory": false,
-  "sig": "RlBUJJqoFrerdkyZmnuYdp6mjmBlmc0eYi12jEz/jNzLuxDwDU6kn2s5TzSYzpOjCZrKh6jWbkOGV+h69YS8Bg=="
+  "sig": "rR8ty34lUwdAKT0vFLBJIlSqHWXV8YyTDi6cPPIVEFoElnD96Y3HRVpOwxbG9n2vbeJXZbqjbtS7nH/FL0I7Cg=="
 }
