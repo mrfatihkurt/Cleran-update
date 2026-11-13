@@ -1,11 +1,11 @@
 {
-  "version": "3.9.401",
-  "sha256": "60afd2391dd5e687cd935da97c74262602eec43e52a6b97a704ce6aa00896cb7",
+  "version": "3.9.402",
+  "sha256": "6f22d8b1cc2d6f5308378d3e8fe34dc0b92a9a1a10291576811ffa35c5b96d38",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB beyan robotu: yalnız ÖTV1 gibi Muhtasar dışı bir tür seçildiğinde firmaların MUHSGK2 (1003B) girişiyle ikinci kez oturum açılmaz (süre yarıya iner). Beyanname PDF'i 30 sn'de gelmezse bir kez 120 sn beklenerek yeniden istenir. Seçilmeyen türler atlandığında '1/8 beyan okundu' gibi yanlış 'sayfalama eksik' hatası verilmez.",
+  "notes": "GİB beyan robotu: toplu sorguda seçili türde hiç beyan bulunamazsa sonuç tablosu boş ('Kayıt yok') kalmaz; tarih aralığı, tür ve giriş hesaplarıyla 'onaylı beyan bulunamadı' yazar. Geçici vergide yanlış ay seçildiyse doğru veriliş aralığını önerir (07–09 dönemi → Kasım).",
   "mandatory": false,
-  "sig": "+0V0KXfG5K6UQiZ3UOHaleYs1LSINCwHqPVdVYFphEsFW1PkQlfL6hgrHJOXhGVGQiGwU0hz/taNHg7dPGNHAA=="
+  "sig": "IFwxey+AA6/KyHLbVBl5jLwuG4GdKj9Xlxp5XcNF+xvOQac4gaCKaId7fshrt968kGvyRh8HwvD4Yg++Sm20AA=="
 }
