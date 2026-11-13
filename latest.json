@@ -1,11 +1,11 @@
 {
-  "version": "3.9.417",
-  "sha256": "a5d5a6a1c6648c4424639c4142a82d123127db37562c67376f4720a6366bc132",
+  "version": "3.9.418",
+  "sha256": "44b5aed6c1544c0255a67e661ee6155426ffafcf4ccb446dbc4a43f8c3722864",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Firma Muhasebe Verileri: 'Yüklü verilerle yapılabilecekler' listesi. Mizan, muavin, amortisman ve stok tablosuyla yapılabilen 12 iş (risk uyarıları, kontrol ve bulgu raporu, dönem sonu kontrolleri, IFRS, finansal oranlar, TTK 376, örtülü sermaye, finansman gider kısıtlaması, KDV1 ve muhtasar taslağı, amortisman, stok maliyeti) işaretlenip tek tıkla sırayla çalışır; her satırda sonuç, süre ve 'Ekranı aç'; eksik veri gösterilir; Durdur; sonuçlar Excel'e. Ek bilgi isteyen işler (enflasyon, adat, bütçe, değerleme…) ekran düğmesiyle.",
+  "notes": "Firma Muhasebe Verileri: üstte her veri türü için ayrı yükleme kutusu (Mizan, Muavin, Bordro, Amortisman tablosu, Stok tablosu, e-Defter, Entegratör fatura listesi, Banka ekstresi). Her kutuda seçilen dönemin yüklü olup olmadığı, dosya adı, satır sayısı ve tarih; Yükle / Yeniden yükle ve Şablon. Eski tür seçme kutusu kaldırıldı. Toplu işlem listesine entegratör–muavin karşılaştırması eklendi; bordro, e-Defter ve banka durumu da gösteriliyor.",
   "mandatory": false,
-  "sig": "tZyvLUXk7IWbJkCCeZ+XvJXRo9a7H6DxQPKWklDcTpg8rKDRF4e5RBXLQE28UDQwc+upDPDJweFuQp8zUv7KDQ=="
+  "sig": "GxlSSFr7h09/+pcVnc3WJ3NfdT6xHovE/y36VLWi+QGYof7/fDsfFDLq2+vXzNf278iUlimoJ87BgiNjrHczAg=="
 }
