@@ -1,11 +1,11 @@
 {
-  "version": "3.9.394",
-  "sha256": "39e6340c67496c1f8f72159d4cff3707bdbc135987cdd6c2a35df12e2a69fe59",
+  "version": "3.9.395",
+  "sha256": "24a493280a9fd9a2185b3e5976dc31260a32698eca7c37bc9c946eb24fd4a402",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "IFRS Ek bilgiler: İlişkili taraflar (TMS 24). Ortak ve grup şirketlerinin adları (ör. DAMAC, GRANIA) bir kez girilir, 'Tüm firmalarda kullan' ile grup listesi her firmada geçerli olur. Hesap adında geçen alacak ve borçlar 'İlişkili taraflardan alacaklar / borçlar' satırına sınıflanır (131/231/331/431); rapora ilişkili taraf tablosu ve TMS 24 dayanağı eklendi. Kur bölümünde döviz cinsine TL yazılan hesap dövizli sayılmaz.",
+  "notes": "İlişkili taraflar: alınan/verilen avanslar ve gelecek dönem hesapları (15x, 18x, 28x, 34x, 38x, 48x) parasal olmadığı için satırında bırakılır, raporda ilişkili taraf olarak listelenir.",
   "mandatory": false,
-  "sig": "eIhmpmgerdbQCK7jLALQxnbpuBu2XsQohP+GjttqLh5ioqEz4qVE8NkfKjcLy45SEUNUm0tRfwqSYETRQK4wAA=="
+  "sig": "Ng06qjrffYbVqUNS83drwkSpimOtud2aJzP2lvzMEYK9iOjfDj3qjdmwDPplKDNvs/fulnzj2KeJCj7oJJ+/Ag=="
 }
