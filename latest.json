@@ -1,11 +1,11 @@
 {
-  "version": "3.9.399",
-  "sha256": "0f23e17066aaf1a1b89e6958dee784a58423179b8bdb0aac9f4da064bdcd16ac",
+  "version": "3.9.400",
+  "sha256": "5ed5b181164655ae2122c84d4c6284353ec5973758371788ca0054f6ccaf64ef",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mizan / muavin yükleme: Excel'deki gizli sayfalar okunmaz. Adı Mizan, TB ya da Trial Balance olan (muavinde Muavin / Kebir / Ledger) veya başlığında bu firmanın adı geçen sayfa varsa yalnız onlar arasından seçilir. Gece otomatik içe aktarmada da gizli sayfalar atlanır.",
+  "notes": "IFRS kur değerlemesi: mizanda döviz cinsi sütunu varsa dövizli hesaplar ve döviz bakiyeleri yalnız o sütundan alınır; hesap adından tahmin yapılmaz. Sütun olmayan eski yüklemelerde ad tahmini sürer.",
   "mandatory": false,
-  "sig": "uE3nle42GFDg26EroTDj+4AnfB6bwuk4r9EJcv6mg2k/j8Egd3IOMUexenjd/avMTNQugCXcmg3O0V2wZbJCAQ=="
+  "sig": "iPxBzagaKpshRE2e8KNm2XtSMlc90FKf+DwKnL8Qve+yp6I+LeADWkfqhmqh39U+fpaS6SuqqiYGxLmcyRF9Ag=="
 }
