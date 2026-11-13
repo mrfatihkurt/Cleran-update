@@ -1,11 +1,11 @@
 {
-  "version": "3.9.407",
-  "sha256": "cb030a99d585fb2752bccef963fbf00e78d01af72b40d3141cf1e9c8da1daecc",
+  "version": "3.9.408",
+  "sha256": "e71bb6337fe180f9ca032b8d4fbd57c23c0a818de3e404b891933ccd97ec3144",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Mizan, Muavin ve e-Defter Kontrolü: e-Defter yokken uyarı sadeleşti (dönem sonu kontrollerinin yapıldığı ve hangi mizan sayfasının kullanıldığı yazılır). Mizan / muavin seçim listelerinde satır sayısı ve Excel sayfa adı görünür; yanlış sayfadan yüklenmiş eski kayıt kolayca ayırt edilir.",
+  "notes": "Mizan, Muavin ve e-Defter Kontrolü: 'Dönem sonu kontrolleri' bölümü sayfanın en altından düğmelerin hemen altına taşındı; 'Üç Kaynaklı Kontrolü Çalıştır'a basınca ekran bu bölüme kayar.",
   "mandatory": false,
-  "sig": "rR8ty34lUwdAKT0vFLBJIlSqHWXV8YyTDi6cPPIVEFoElnD96Y3HRVpOwxbG9n2vbeJXZbqjbtS7nH/FL0I7Cg=="
+  "sig": "QSsg+61KYXBNGh0d/3DS/iNd4TSMNZGUv6YR2NPFwaaBUQY2mv/xx7MT/nBPM5XGs3SS9VsoXh4MjEN1Bl12DA=="
 }
