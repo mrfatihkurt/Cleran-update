@@ -1,11 +1,11 @@
 {
-  "version": "3.9.391",
-  "sha256": "643499a18576c8982a468f0f351fbacb2979636bf4013b936946f1646c974845",
+  "version": "3.9.392",
+  "sha256": "e3427844c5fc59616e8528efd5b497b936102702003d9831d54fb322507b063e",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "MERSİS yönetim kurulu sorgusu: aynı firmada toplama sorusu sonsuz sorulmuyor; 3 denemede sonuç gelmezse firma atlanır (sonraki sorguda yeniden denenir). Sorgulama hakkı doldu uyarısı tanınır: 'Giriş bilgisi'ne eklenen yedek MERSİS hesabıyla program kendisi girip kaldığı firmadan devam eder; yedek yoksa sorgu durur ve kalan firmalar hata yazılmaz. Art arda iki firmada sonuç gelmezse de sorgu hakkı dolmuş sayılır. Takılma anlarında MERSİS sayfası MERSIS_Tani_SON.txt dosyasına yazılır.",
+  "notes": "IFRS ve GAAP Raporlama: Excel raporu artık tek sayfa. Mizan, Gelir Tablosu ve Bilanço alt alta; her satırda Türkçe ve İngilizce ad, VUK, IFRS düzeltme, IFRS tutarı, açıklama ve dayanak standart (TMS/TFRS). Bilanço dönen/duran, kısa/uzun vadeli ve özkaynak ara toplamlı; gelir tablosu brüt kâr, esas faaliyet kârı, vergi öncesi ve net kâr satırlı; denklik kontrolü ve yapılması gereken düzeltmeler en altta. Gayrimenkul şirketlerinde arsa/bina için TMS 40 notu.",
   "mandatory": false,
-  "sig": "fFOJIroc9Wt19KmmP60945vp6iCfn0MrEKNBMq2OZy54sLnOrmLoH9mTMhyD/AA2brocHv+JkLNay/+OnzMDBA=="
+  "sig": "JUG6LVWQhgb3nbvVKoQalwUJoxgCplfPm7GhLpPsbTE5QmUSwNCgA1l10bva/chDFOjsbmQLhN1CmmvkB9aHCw=="
 }
