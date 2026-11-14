@@ -1,11 +1,11 @@
 {
-  "version": "3.9.421",
-  "sha256": "6893a22484b4a6d143bbd8b674cc3ab4da2dced04d0ed7b3a3527cf1bdbe1150",
+  "version": "3.9.422",
+  "sha256": "675e8dc5a00fa2a38ee4ea22bd2427246a25c11f942fd84486575f51085fc324",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "IFRS · KGK Rehberi (TFRS 18) tamamlandı: 2027 ve sonraki (ya da erken uygulama seçilen) raporlarda finansal durum tablosu Rehber satırlarıyla (ilişkili / ilişkili olmayan taraf ayrımı dahil); kâr veya zarar tablosuna diğer kapsamlı gelir ve toplam kapsamlı gelir; önceki yıl sonu mizanı yüklüyse esas faaliyet kârından başlayan nakit akış tablosu (dolaylı yöntem) ve özkaynak değişim tablosu; Rehber'in 54 dipnot listesi ve programda hazır olanlar.",
+  "notes": "Firma Muhasebe Verileri · Yapılabilecekler listesine eklendi: e-Defter paketlerini indirme klasöründen otomatik içe alma, e-Defter – mizan – muavin kontrolü, IFRS tek sayfa raporu (2027+ TFRS 18 biçimi; Belgeler\\Cleran Raporlar'a kaydedilir, Dosyayı aç), şirket değerlemesi, due diligence ön raporu, transfer fiyatlandırması ilişkili kişi işlemleri, KDV2, damga vergisi ve geçici vergi (çeyrek sonu) taslakları. Ekran açanlar: kıdem tazminatı, KDV iade listeleri, GİB robotu, aylık beyanname takibi.",
   "mandatory": false,
-  "sig": "r/J8YP9AD8U1IVS/whv6685mAW8MYDoRocNtALzNLPLPWWGoT7VEIkUyZUjumuH1iaL4TqJLJkGJAIcZyvPdDg=="
+  "sig": "RhR/+TB4xNMP46LaV75h+4ZahEIoux/soTy3Kiu79mu4yeIqJUGmxzZ9i6KZKECxxQWpSElD/NOgpLUHOS6aCw=="
 }
