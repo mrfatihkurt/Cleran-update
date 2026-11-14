@@ -1,11 +1,11 @@
 {
-  "version": "3.9.424",
-  "sha256": "3a4a9dfe17d9b16530ac0a0b51fb1c8f3af431cd74c56f66d4fe782109764213",
+  "version": "3.9.425",
+  "sha256": "4f3036267be4539e996c8eae252b511579e8fe8f73049e92391930c0243673ab",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ülke GAAP raporlarına para birimi sütunu: HGB ve PGC Euro, FRS 102 sterlin, US GAAP dolar. Bilanço dönem sonundan önceki iş günü TCMB döviz alış kuruyla, gelir tablosu yıl başından döneme ay sonu kurlarının ortalamasıyla; aradaki fark özkaynakta çevrim farkı satırında (HGB § 308a, FRS 102 30.18, ASC 830-30, NOFCAC md. 62). Kur alınamazsa rapor TL olarak çıkar ve nedeni yazılır. VUK enflasyon düzeltmesi izleri (502/503, 648/658/698) tutarıyla yapılacaklara eklenir; US GAAP için yeniden ölçme uyarısı.",
+  "notes": "Ülke GAAP tamamlandı: VUK enflasyon düzeltme kaydı Excel'den ya da elle girilir (Firma Muhasebe Verileri > Enflasyon düzeltme kaydı); HGB, PGC ve US GAAP raporlarında ters kayıtla geri alınır, geçmiş yıl kaydındaki 648/658/698 dönem kârı yerine 570/580'den düşülür, ertelenmiş vergisi hesaplanır. PGC'de personel ve amortisman giderleri mizan alt hesaplarından ayrı satırlara alınır. Dört raporda dipnot bölümü (Anhang / Notes / Memoria: politikalar, kur, personel gideri, amortisman, ilişkili taraf, vergi). US GAAP'ta ASC 830 yeniden ölçme çalışma kâğıdı (maddi duran varlıklar edinim ayı kurlarıyla). Yapılabilecekler listesine VUK enflasyon geri alma kontrolü.",
   "mandatory": false,
-  "sig": "+BjNeQoXPOGXLWeJHmX2RY+E/KhfpNv/206sX/h82P+O3mJeKrmmuZldOa47qdKI7wsFfVsh+aD9krMeDYUkAQ=="
+  "sig": "4Auk2p7E9N/yN5I5zNVM/KjuU1dzYUaDDL6ou9iGwDSjuS42pn1iQ62bKSsSBDoOhtMw3rwWwk059rbvi5+pDg=="
 }
