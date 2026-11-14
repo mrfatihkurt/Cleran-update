@@ -1,11 +1,11 @@
 {
-  "version": "3.9.422",
-  "sha256": "675e8dc5a00fa2a38ee4ea22bd2427246a25c11f942fd84486575f51085fc324",
+  "version": "3.9.423",
+  "sha256": "e8a806c908d2246b1d5cfd7941cf6259c3e2fcdbbc98be67ffbe50698fb4ea1f",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Firma Muhasebe Verileri · Yapılabilecekler listesine eklendi: e-Defter paketlerini indirme klasöründen otomatik içe alma, e-Defter – mizan – muavin kontrolü, IFRS tek sayfa raporu (2027+ TFRS 18 biçimi; Belgeler\\Cleran Raporlar'a kaydedilir, Dosyayı aç), şirket değerlemesi, due diligence ön raporu, transfer fiyatlandırması ilişkili kişi işlemleri, KDV2, damga vergisi ve geçici vergi (çeyrek sonu) taslakları. Ekran açanlar: kıdem tazminatı, KDV iade listeleri, GİB robotu, aylık beyanname takibi.",
+  "notes": "Ülke GAAP raporları: Almanya (HGB § 266 / § 275), İngiltere (FRS 102, Companies Act Format 1), Amerika (US GAAP, ASC 210/220), İspanya (PGC 2007 modelo normal). VUK mizanı ve IFRS düzeltme fişlerinden, her standardın izin verdiği düzeltmeler uygulanır (ör. HGB/PGC/US GAAP'ta enflasyon düzeltmesi geri alınır, HGB/PGC'de kiralama bilanço dışı), ertelenmiş vergi yeniden hesaplanır; yerel dil + Türkçe tablolar, uygulanan/uygulanmayan düzeltmeler, yapılacaklar ve yasal dayanak. IFRS ekranında 'Ülke GAAP raporu' düğmesi; Firma Muhasebe Verileri toplu işlem listesinde dördü birden.",
   "mandatory": false,
-  "sig": "RhR/+TB4xNMP46LaV75h+4ZahEIoux/soTy3Kiu79mu4yeIqJUGmxzZ9i6KZKECxxQWpSElD/NOgpLUHOS6aCw=="
+  "sig": "FDiU6pkOUzvMelWPc6anuehGN4W2hprfT3cwjvm1YxLHbZdjIJKK3cFWHmp6FAYlRc13tl/JShKN76J89leKBw=="
 }
