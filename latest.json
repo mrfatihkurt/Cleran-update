@@ -1,11 +1,11 @@
 {
-  "version": "3.9.420",
-  "sha256": "24c7100782200088ccf909df6c9de8991efa65d4ca91c27130ed706b691c903b",
+  "version": "3.9.421",
+  "sha256": "6893a22484b4a6d143bbd8b674cc3ab4da2dced04d0ed7b3a3527cf1bdbe1150",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "IFRS: KGK Finansal Tablo Örnekleri ve Kullanım Rehberi (RG 04.11.2026/33420, TFRS 18) eklendi. 2027 ve sonraki dönemlerde tek sayfa IFRS raporunda kâr veya zarar tablosu esas faaliyet, yatırım, finansman ve vergi bölümleriyle; Esas faaliyet kârı ve Finansman ve vergi öncesi kâr ara toplamlarıyla çıkar. Firma bazında erken uygulama seçeneği (Ek bilgiler). 2026 ve önceki raporlar eski biçimde kalır.",
+  "notes": "IFRS · KGK Rehberi (TFRS 18) tamamlandı: 2027 ve sonraki (ya da erken uygulama seçilen) raporlarda finansal durum tablosu Rehber satırlarıyla (ilişkili / ilişkili olmayan taraf ayrımı dahil); kâr veya zarar tablosuna diğer kapsamlı gelir ve toplam kapsamlı gelir; önceki yıl sonu mizanı yüklüyse esas faaliyet kârından başlayan nakit akış tablosu (dolaylı yöntem) ve özkaynak değişim tablosu; Rehber'in 54 dipnot listesi ve programda hazır olanlar.",
   "mandatory": false,
-  "sig": "ph4ZCYjFJbWrL/C3M4vQOCUBeDckyXEAKs9Ksq0JoWoaAJX3NwtNN6AbXjlQlDWa7Lj+zuZVBFG09rwF0thTDA=="
+  "sig": "r/J8YP9AD8U1IVS/whv6685mAW8MYDoRocNtALzNLPLPWWGoT7VEIkUyZUjumuH1iaL4TqJLJkGJAIcZyvPdDg=="
 }
