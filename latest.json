@@ -1,11 +1,11 @@
 {
-  "version": "3.9.433",
-  "sha256": "aa01fe41ea04a4780d41a9b990847dce99e6a35f3c475b6279adfc94dea76323",
+  "version": "3.9.434",
+  "sha256": "c3876e082339179b56f6236a14883f68ac791b59a7db0c32eb7e526b65fae6cf",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Büro Müşterileri şifreli: ekran açılırken büro şifresi sorulur (ilk açılışta belirlenir; 15 dakika işlem yapılmazsa, Kilitle'ye basılınca ya da ekran kapanınca kilitlenir; 5 yanlış denemede bekletir). Ücretler, tutarlar, tarihler, fatura / yevmiye numaraları, ödemeler, sorumlu ve grup bilgileri ile büro muavini veri tabanında AES-256 ile şifreli tek parça olarak saklanır; şifre scrypt ile anahtara çevrilir, hiçbir yerde tutulmaz. Önceki sürümlerin açık tabloları ilk şifre belirlenirken şifreli depoya taşınıp silinir; yüklenen büro muavini ortak veri tabanından silinir. Ayarlar'da şifre değiştirme.",
+  "notes": "Büro Müşterileri: şifre unutulursa program yöneticisi yeni şifre belirleyebilir (veriler korunur). Ücretler sekmesinde yeni yıl ocak faturaları aktarım Excel'i: döviz tutarı, KDV, kur ve TL yan yana.",
   "mandatory": false,
-  "sig": "HQhAF3OiKhYhnyWh1t3p6HBpQmeO4S/s+Pqhvl4a+kRxXQO6z3YHoIic7KYW6WsiNimSDxybavHNGf/Kly+TBg=="
+  "sig": "GkXwqgS6sOiUyW8YPLZL+mw4zRaJEfuHOiLfVh9BiOUFRF20ygZW/WZHG4SNmWaKAb2/BbfyGpaXg0emT9n3CA=="
 }
