@@ -1,11 +1,11 @@
 {
-  "version": "3.9.426",
-  "sha256": "bb4fe79ae633b0d0c5fed4476597b44a2900741feb66c703f95119c3283ec6ae",
+  "version": "3.9.427",
+  "sha256": "49c3a641d7998893f9b6ff6a8325f5d700bb6c702403a1a884c545ed61aaced2",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Amortisman her yerde amortisman tablosundaki oranlarla olması gereken tutardan: GAAP raporları (fark düzeltmesi, PGC satırı, dipnot), IFRS bulgusu (TMS 16), toplu işlemde mizanla fark; tablo yoksa yüklenmesi istenir. Personel gideri bordrodan, yoksa yeni Personel gideri tablosundan (Excel / elle / şablon); ortalama çalışan sayısı dipnotlara. Yeni Edinim ve işlem tarihleri tablosu: sermaye, maddi olmayan varlık, yatırım ve stok tarihleriyle US GAAP tarihî kur; girilmeyenler EKSİK yazılır. GEKAP: İthalattan aktar — gümrük beyannamesinden kalemler (GTİP, miktar, net ağırlık, fiyat), kap / koli, brüt / net; alım faturası eşleşmesiyle ürün, miktar, birim fiyat, ithal mal bedeli ve ithalde KDV dökümü (Excel); ambalaj (brüt − net, palet adet) ve GTİP'e göre Ek-1 ürün miktarları GEKAP'a aktarılır; hesaplama ayarları düzenlenebilir.",
+  "notes": "Büro Müşterileri ekranı: 120-340 muavinden cari yaşlandırma (30-60-90-120 gün, açılış yıl başı tarihli; her muavin yüklemesinde kendiliğinden yenilenir), grafikli en iyi / en kötü müşteri analizi, defter tasdik takibi (yeni yıl planı: envanter A4, damga matbu 79 sayfa, YK / MK / ortaklar kurulu Ocak sonu ara tasdik; kırtasiye, noter, hizmet ücreti; noter sayfası / makbuzu PDF'den okuma; ödeme talebi e-postası; antetli masraf dekontu; ödeme geldi işareti ve gelmeyenler listesi), 2027 ücret zammı (TL TÜFE, USD, EUR, GBP oranları internetten; gruba göre liste; Türkçe / İngilizce zam metni; Outlook taslağı). Firma Muhasebe Verileri'nde cari yaşlandırma işi.",
   "mandatory": false,
-  "sig": "gahuTYjq+yc5y138dIbV0OhJS1KimmMYoxUZEu+qOlMUxNyA2EI6QXtw14TPcb40toJ2lCQHJVeLSylvchVPAw=="
+  "sig": "zzi2109hYOfPTGz1V21OQOYXoA/rtZs/FimAVMyVEW6ZfjkhgZMCkTRyT4SHV7x8qMFNOANy/FbIl/NkJ5k0Ag=="
 }
