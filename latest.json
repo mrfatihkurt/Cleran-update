@@ -1,11 +1,11 @@
 {
-  "version": "3.9.430",
-  "sha256": "6f8e470cb3ca10b211269097429a70bc22bf914783c9d9e59870c5628d14b18d",
+  "version": "3.9.431",
+  "sha256": "310b05d34db128e355582c5fc51996834af311c7c759e3900e764de512feb014",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Büro Müşterileri: tahsilat ve analiz gruba göre süzülür (gruplara göre grafik); yaşlandırma firmaya göre net bakiye, vadesi geçen, kaç gün geçti, vadesi gelmeyen ve avans sütunlarıyla, başlığa tıklayarak tutara ya da ada göre sıralanır; vade günü ekrandan değişir. Defter tasdik tablo görünümünde: firmalar solda sabit, üstte defterler (envanter, damga, YK, MK, ortaklar kurulu) ve her defter için sayfa, kırtasiye, noter, hizmet; sayfa yazınca tutarlar varsayılanla dolar; firma yanında Sil (defteri bizde değil); ödeme geldi işareti satırda. Büro firması bir kez seçilir. Ekran Esc ile kapanmaz.",
+  "notes": "Büro Müşterileri: tahsilatta firma yanında Sil (listeden ve analizden kaldırır, geri alınabilir); defter tasdik tablosunda noter bilgileri görünümü (tasdik tarihi, yevmiye no, noter defter defter girilir); geniş tablolarda yatay kaydırma çubuğu üstte de; operasyonel artış artık TÜFE üstü ek oran olarak zam oranlarına eklenir; ücret listesinde grup ve diğer alanlar başka yere tıklayınca kendiliğinden kaydedilir (pasif firma kartına bağlı müşteride kaydetme hatası giderildi); oranlar tek satırda özetlenir, ayrıntı tıklayınca açılır; üst alanlar sıkıştırıldı, firma listesine daha çok yer kaldı.",
   "mandatory": false,
-  "sig": "kcBcsvHohUTj5Ey+wE2N86mcaGtJyrrznoVB+H4X+OdlhC4gpXHz2D0TzmVL0D6KiJ3FdKd1OyvO1dRxEWqiCA=="
+  "sig": "KgJRDbfNNvQlpCor8f1lv8NWYj9dhaDTAdOrs8pbtvuO/vumLipUl8k6DBCMIyMiDDxw79IbdhM/aiKVH2rWCQ=="
 }
