@@ -1,11 +1,11 @@
 {
-  "version": "3.9.431",
-  "sha256": "310b05d34db128e355582c5fc51996834af311c7c759e3900e764de512feb014",
+  "version": "3.9.432",
+  "sha256": "a2b19d5c274f2a6d26c6b47d34664f3386ae4b12c3bec1f4118c820988112ce5",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Büro Müşterileri: tahsilatta firma yanında Sil (listeden ve analizden kaldırır, geri alınabilir); defter tasdik tablosunda noter bilgileri görünümü (tasdik tarihi, yevmiye no, noter defter defter girilir); geniş tablolarda yatay kaydırma çubuğu üstte de; operasyonel artış artık TÜFE üstü ek oran olarak zam oranlarına eklenir; ücret listesinde grup ve diğer alanlar başka yere tıklayınca kendiliğinden kaydedilir (pasif firma kartına bağlı müşteride kaydetme hatası giderildi); oranlar tek satırda özetlenir, ayrıntı tıklayınca açılır; üst alanlar sıkıştırıldı, firma listesine daha çok yer kaldı.",
+  "notes": "Büro Müşterileri: her müşteriye sorumlu ve firma grubu ayrı ayrı yazılır (tahsilat, ücret ve defter tasdik ekranlarında aynı bilgi; sorumlu ve firma grubuna göre süzme; Excel'den sorumlu / firma grubu / e-posta alma); önceki gruplar sorumlu olarak taşındı. Muavin: yalnız en son yüklenen dosya kullanılır, yeni yüklemede eskiler silinir; Muavini sil (sıfırdan) düğmesi. Defter tasdik: hizmet ücreti firma başına tek sütun; gelen tutar girilince ödendi işaretlenir, toplamdan azsa hizmet ücreti farkı kadar düşer. Üst alan daha da sıkıştırıldı.",
   "mandatory": false,
-  "sig": "KgJRDbfNNvQlpCor8f1lv8NWYj9dhaDTAdOrs8pbtvuO/vumLipUl8k6DBCMIyMiDDxw79IbdhM/aiKVH2rWCQ=="
+  "sig": "tuPEevbX6RKgIAW+B9RhjCRMk0L/Dkjkf3ZQkqiDLntZCl49qV8mhmnR/8PNRobAXkwgBNbNepDbz9ivRyGwDQ=="
 }
