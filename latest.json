@@ -1,11 +1,11 @@
 {
-  "version": "3.9.427",
-  "sha256": "49c3a641d7998893f9b6ff6a8325f5d700bb6c702403a1a884c545ed61aaced2",
+  "version": "3.9.428",
+  "sha256": "0c2301fd890ee51a0c59ffb175fc2ba247b2a959a095284c46fe5937d41bc48f",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Büro Müşterileri ekranı: 120-340 muavinden cari yaşlandırma (30-60-90-120 gün, açılış yıl başı tarihli; her muavin yüklemesinde kendiliğinden yenilenir), grafikli en iyi / en kötü müşteri analizi, defter tasdik takibi (yeni yıl planı: envanter A4, damga matbu 79 sayfa, YK / MK / ortaklar kurulu Ocak sonu ara tasdik; kırtasiye, noter, hizmet ücreti; noter sayfası / makbuzu PDF'den okuma; ödeme talebi e-postası; antetli masraf dekontu; ödeme geldi işareti ve gelmeyenler listesi), 2027 ücret zammı (TL TÜFE, USD, EUR, GBP oranları internetten; gruba göre liste; Türkçe / İngilizce zam metni; Outlook taslağı). Firma Muhasebe Verileri'nde cari yaşlandırma işi.",
+  "notes": "Büro Müşterileri: muavindeki tüm müşteriler listelenir (aynı hesap kodunda farklı unvanlar ayrı firma; alt hesabı olan toplam satırları çift sayılmaz), 120 ve 340 aynı firmada tek satırda birleşir (firmaya göre görünüm). Ücret listesi muavindeki müşterilerden gelir, mevcut ücret muavindeki faturalardan bulunur (son 6 faturalı ayın ortası, KDV hariç); gruplar listesi eklenir ve seçilir. Döviz ücretlerde zam oranı: o paranın enflasyonu, döviz etkisi (bir yıllık TCMB kur artışı) ve operasyonel gider artışıyla hesaplanır. Yevmiye ve kebir defter listesinden çıkarıldı. Ekran ayrı pencere yerine ana çalışma alanında açılır; analiz ekranı yenilendi.",
   "mandatory": false,
-  "sig": "zzi2109hYOfPTGz1V21OQOYXoA/rtZs/FimAVMyVEW6ZfjkhgZMCkTRyT4SHV7x8qMFNOANy/FbIl/NkJ5k0Ag=="
+  "sig": "kJM0b5N5+MTLdRy3/3h3pEJv6lvP3TPb+gz/TUrVmMKac9VZOJtuphIA3GKkC8KhHOMCVbAQ1bcEcez1ZrVHCg=="
 }
