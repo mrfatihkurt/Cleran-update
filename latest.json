@@ -1,11 +1,11 @@
 {
-  "version": "3.9.428",
-  "sha256": "0c2301fd890ee51a0c59ffb175fc2ba247b2a959a095284c46fe5937d41bc48f",
+  "version": "3.9.429",
+  "sha256": "743b0ca4ecfbbd2f3b8e570a56f172dcbfa444312e410cf1ef96b8547b1406c0",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Büro Müşterileri: muavindeki tüm müşteriler listelenir (aynı hesap kodunda farklı unvanlar ayrı firma; alt hesabı olan toplam satırları çift sayılmaz), 120 ve 340 aynı firmada tek satırda birleşir (firmaya göre görünüm). Ücret listesi muavindeki müşterilerden gelir, mevcut ücret muavindeki faturalardan bulunur (son 6 faturalı ayın ortası, KDV hariç); gruplar listesi eklenir ve seçilir. Döviz ücretlerde zam oranı: o paranın enflasyonu, döviz etkisi (bir yıllık TCMB kur artışı) ve operasyonel gider artışıyla hesaplanır. Yevmiye ve kebir defter listesinden çıkarıldı. Ekran ayrı pencere yerine ana çalışma alanında açılır; analiz ekranı yenilendi.",
+  "notes": "Büro Müşterileri: muavin yüklemede asıl muavin sayfası seçilir (rapor sayfasındaki tek firmalık muavin yerine tüm müşteriler); 120 ve 340 hesapları unvan benzerliğiyle birleşir, tutmayanlar elle bağlanır. Yaşlandırma, analiz, defter tasdik ve ücret listesi muavindeki tüm müşterilerden oluşur; defter bizde değil denen müşteri tasdik listesinden çıkar. Varsayılan noter Beşiktaş 27. Noterliği; tasdik tutarları ayarlardan, yoksa muavinde geçen yıl yansıtılan noter / kırtasiyeden. Döviz zam oranında kur artışı yıl başı kuru ile bu yılın ortalama kuru arasından ölçülür (son 12 ay seçilebilir); hesap ekranda gösterilir. Muavine göre ücrette noter / kırtasiye yansıtmaları çıkarılır.",
   "mandatory": false,
-  "sig": "kJM0b5N5+MTLdRy3/3h3pEJv6lvP3TPb+gz/TUrVmMKac9VZOJtuphIA3GKkC8KhHOMCVbAQ1bcEcez1ZrVHCg=="
+  "sig": "BxEz6CrZ3oBrTDcSmxB3fRT+rDQY8g9qZ3N/WSQCrW3ucJhuDthayaGQs26o+/B6T127Dx5zw4gvczgREaWYBg=="
 }
