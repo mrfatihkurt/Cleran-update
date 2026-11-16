@@ -1,11 +1,11 @@
 {
-  "version": "3.9.425",
-  "sha256": "4f3036267be4539e996c8eae252b511579e8fe8f73049e92391930c0243673ab",
+  "version": "3.9.426",
+  "sha256": "bb4fe79ae633b0d0c5fed4476597b44a2900741feb66c703f95119c3283ec6ae",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Ülke GAAP tamamlandı: VUK enflasyon düzeltme kaydı Excel'den ya da elle girilir (Firma Muhasebe Verileri > Enflasyon düzeltme kaydı); HGB, PGC ve US GAAP raporlarında ters kayıtla geri alınır, geçmiş yıl kaydındaki 648/658/698 dönem kârı yerine 570/580'den düşülür, ertelenmiş vergisi hesaplanır. PGC'de personel ve amortisman giderleri mizan alt hesaplarından ayrı satırlara alınır. Dört raporda dipnot bölümü (Anhang / Notes / Memoria: politikalar, kur, personel gideri, amortisman, ilişkili taraf, vergi). US GAAP'ta ASC 830 yeniden ölçme çalışma kâğıdı (maddi duran varlıklar edinim ayı kurlarıyla). Yapılabilecekler listesine VUK enflasyon geri alma kontrolü.",
+  "notes": "Amortisman her yerde amortisman tablosundaki oranlarla olması gereken tutardan: GAAP raporları (fark düzeltmesi, PGC satırı, dipnot), IFRS bulgusu (TMS 16), toplu işlemde mizanla fark; tablo yoksa yüklenmesi istenir. Personel gideri bordrodan, yoksa yeni Personel gideri tablosundan (Excel / elle / şablon); ortalama çalışan sayısı dipnotlara. Yeni Edinim ve işlem tarihleri tablosu: sermaye, maddi olmayan varlık, yatırım ve stok tarihleriyle US GAAP tarihî kur; girilmeyenler EKSİK yazılır. GEKAP: İthalattan aktar — gümrük beyannamesinden kalemler (GTİP, miktar, net ağırlık, fiyat), kap / koli, brüt / net; alım faturası eşleşmesiyle ürün, miktar, birim fiyat, ithal mal bedeli ve ithalde KDV dökümü (Excel); ambalaj (brüt − net, palet adet) ve GTİP'e göre Ek-1 ürün miktarları GEKAP'a aktarılır; hesaplama ayarları düzenlenebilir.",
   "mandatory": false,
-  "sig": "4Auk2p7E9N/yN5I5zNVM/KjuU1dzYUaDDL6ou9iGwDSjuS42pn1iQ62bKSsSBDoOhtMw3rwWwk059rbvi5+pDg=="
+  "sig": "gahuTYjq+yc5y138dIbV0OhJS1KimmMYoxUZEu+qOlMUxNyA2EI6QXtw14TPcb40toJ2lCQHJVeLSylvchVPAw=="
 }
