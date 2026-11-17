@@ -1,11 +1,11 @@
 {
-  "version": "3.9.439",
-  "sha256": "966cca326bd57fda4a18539bb4691b920521c8607d2a67c5114a4f66898e30c0",
+  "version": "3.9.440",
+  "sha256": "4f1d69d18bc3b5581cd6ae60a97207306e9cfd7700b162cfff80c34cd12deea2",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Yeni: Fatura oluştur (TL / USD / EUR, Türkçe / English) PDF olarak kaydedilir; banka bilgisi para birimi başına bir kez kaydedilir ve sonraki faturalarda otomatik gelir; tutar yazıyla dile göre yazılır; Yapılabilecekler listesine eklendi",
+  "notes": "Modül Merkezi: Fatura Oluştur modülü eklendi, 'fatura' aramasında çıkar",
   "mandatory": false,
-  "sig": "YDzJQL9ClpE5uZ4o7JKoRAG3WwpS3DeB+TwXY2uQmIC81715mciJMs/NFQkLrtBN78Et34xyomFDsnNsD+BCDQ=="
+  "sig": "FcVmKpCCHgMGeawg88SYecK0SPnvih7AKYzVMHJTQ4TShSygRNgXVYggmQkyjWPvvM3qQ5IWx1jgsNLDwzaODg=="
 }
