@@ -1,11 +1,11 @@
 {
-  "version": "3.9.435",
-  "sha256": "f323d3e839053c2a0707a1f8c8d6716b7a4dcdc77a54314065ed6b5a487dcdbf",
+  "version": "3.9.436",
+  "sha256": "adaeb411f42826def62462f3b6d317e364b452f6a1a7d93e530fc2f684b9bdb3",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Büro Müşterileri: 'Tasf.Hal.' önekli firmalar artık birbirine bağlanmıyor; her firma ayrı müşteri olarak listelenir (120/340 eşleşmesi aynı firma için çalışır).",
+  "notes": "Büro: toplu silme, sıralama, ters bakiye, sıfır grubu, otomatik hariç tutma, TL tutarlar, mektup dili/TÜFE uyarısı, ÖTV4 GİB robotu, GİB sonuç sıralama, YK tablo sıralama, takvim son gün detay, panel Yapılabilecekler kartı, GİB mevzuat daraltılabilir",
   "mandatory": false,
-  "sig": "S5QFN+Gdl1By5tjXdrutnjcA0bfEYojuFfT0KIPBY3yK7NSNnDjW4+R6NU6REWDhZrAXiK6r0/mcIJ/IH7dmBQ=="
+  "sig": "BD37Cf1DkFjSqA8zBXfHjb+jzjnEBv/fMbJgHLIPgiqtNPrBTWNwOQRBrIxfJqUpXcAWj5x2fo15ko1drMP+DA=="
 }
