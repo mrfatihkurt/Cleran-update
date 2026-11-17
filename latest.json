@@ -1,11 +1,11 @@
 {
-  "version": "3.9.443",
-  "sha256": "a680b6b1c3e6321dd302ea1119fe9b8969fb38b4088dec29c2004e75b60d9c12",
+  "version": "3.9.444",
+  "sha256": "ded58f2b516c922ecc9feea9a4eb7c16ca9e06867254a8a70d2708b679c42a29",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Fatura: müşteri bilgileri büro firmalarından seçilerek dolar; pencere ortada açılır; tutar sütunu taşmaz",
+  "notes": "Güncelleme: yeni sürüm dosyası, salt okunur bayrağı nedeniyle yerine yazılamıyordu; düzeltildi",
   "mandatory": false,
-  "sig": "HA6bGeP7tJiFFCjdRiRuib8odl2huaSLl4ZhgokgVKaqffPLAhAq+0iD+tUsMlTp5aNsEwhmBJXxtIXJg/wbDQ=="
+  "sig": "yCRAdNIXpi9DZmAS/9S288YuyTWmN+kqaaLGHeVSPXWat3HtaH6nMNxs7lEkscklfzoedyGkLWc+ibH7Qj20DA=="
 }
