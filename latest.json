@@ -1,11 +1,11 @@
 {
-  "version": "3.9.437",
-  "sha256": "14738e21c83075d43e131efa7552c6e6e7fbbbf782f5f2bafdc1314fab944041",
+  "version": "3.9.438",
+  "sha256": "d2ec7e3509f06d63819d9370bd53a94120d035e71a425dc11a30819292911466",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "GİB: onay durumu hücresinden okunuyor (onaylı beyan onaysız görünmez); panelde son 7 günün özelgeleri ayrı listede; zam tablosunda Oran/Ek sütunları daraltıldı",
+  "notes": "Panel: Yapılabilecekler tek liste (mizan/belge yükle, ticaret sicil, KDV iade, defter, dönem sonu, e-Defter, bordro, GİB robotu); KPI, Şirket İşlemleri ve KDV İade kartları kaldırıldı; Beyan kartında onaysız firma listesi (ad, tür); son gün takvimde kalan beyanlar listesi; Yeni Özelgeler ayrı kart; Son İşlemler sadeleştirildi",
   "mandatory": false,
-  "sig": "+9iEflB6/qmjCWkF8vF1S56dzTIQ3r9wQv9TceagUL8EI8k8CZDM7TkglsPtyIhO5W36FVK0+mBwbcjsWH14Dg=="
+  "sig": "2vRZBmNbh/QhQ+EgndUDuHT3hvFpoxOVm81JufqrFe78lDoz7E+LurXeOkjtt+VPYT9I/DLIBwgIFR83OMk+AQ=="
 }
