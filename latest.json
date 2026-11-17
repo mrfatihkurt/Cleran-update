@@ -1,11 +1,11 @@
 {
-  "version": "3.9.440",
-  "sha256": "4f1d69d18bc3b5581cd6ae60a97207306e9cfd7700b162cfff80c34cd12deea2",
+  "version": "3.9.441",
+  "sha256": "f0b68377e5362a7cb7ed5554f6a0818f5146ab28f7e9dcc8bee720933b80b217",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Modül Merkezi: Fatura Oluştur modülü eklendi, 'fatura' aramasında çıkar",
+  "notes": "Modül Merkezi: Fatura Oluştur aramada görünür hale getirildi",
   "mandatory": false,
-  "sig": "FcVmKpCCHgMGeawg88SYecK0SPnvih7AKYzVMHJTQ4TShSygRNgXVYggmQkyjWPvvM3qQ5IWx1jgsNLDwzaODg=="
+  "sig": "p3JSELXDDRLRlzR3l+zUSvrBDHiSLPM+7ux/XSu8Tz7uyF+PJVYd18am9MNRvWQUMBPyGlLAxiSy864Ewfp7Dg=="
 }
