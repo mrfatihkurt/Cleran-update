@@ -1,11 +1,11 @@
 {
-  "version": "3.9.442",
-  "sha256": "25475908e15600452cf7285a23c9cc5406a7f14f8587299994e799a523be586f",
+  "version": "3.9.443",
+  "sha256": "a680b6b1c3e6321dd302ea1119fe9b8969fb38b4088dec29c2004e75b60d9c12",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Güncelleme: yeni app.asar boşsa ya da bozuksa kurulum durur, mevcut dosya korunur; kopyalama önce geçici dosyaya yapılır, sonra yerine geçer",
+  "notes": "Fatura: müşteri bilgileri büro firmalarından seçilerek dolar; pencere ortada açılır; tutar sütunu taşmaz",
   "mandatory": false,
-  "sig": "G3Rk2VaKG7xytBgk3RJCOw3DJH41Pveb/ZFE8WSX6G5bteoeyHuTnXGwoODp0LukFDsBKX6QM/BtzqsOoeixCg=="
+  "sig": "HA6bGeP7tJiFFCjdRiRuib8odl2huaSLl4ZhgokgVKaqffPLAhAq+0iD+tUsMlTp5aNsEwhmBJXxtIXJg/wbDQ=="
 }
