@@ -1,11 +1,11 @@
 {
-  "version": "3.9.444",
-  "sha256": "ded58f2b516c922ecc9feea9a4eb7c16ca9e06867254a8a70d2708b679c42a29",
+  "version": "3.9.445",
+  "sha256": "772bedceafc669efae6204ca267a4bbfa6c047878d17dbf064990892dc8da4f2",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Güncelleme: yeni sürüm dosyası, salt okunur bayrağı nedeniyle yerine yazılamıyordu; düzeltildi",
+  "notes": "Güncelleme sonrası: eski program tamamen kapanmadan yeni sürüm başlatılmıyordu; artık önce kapanmasını bekliyor",
   "mandatory": false,
-  "sig": "yCRAdNIXpi9DZmAS/9S288YuyTWmN+kqaaLGHeVSPXWat3HtaH6nMNxs7lEkscklfzoedyGkLWc+ibH7Qj20DA=="
+  "sig": "okNcTdWhb72XuABDOdxB0Yas5uhD+XEo3jPWn57hLqiURHNiOs/rQXyMVlppmxw0l52Cm3eDalY0pMUpg4J4Cw=="
 }
