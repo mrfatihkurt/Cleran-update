@@ -1,11 +1,11 @@
 {
-  "version": "3.9.438",
-  "sha256": "d2ec7e3509f06d63819d9370bd53a94120d035e71a425dc11a30819292911466",
+  "version": "3.9.439",
+  "sha256": "966cca326bd57fda4a18539bb4691b920521c8607d2a67c5114a4f66898e30c0",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Panel: Yapılabilecekler tek liste (mizan/belge yükle, ticaret sicil, KDV iade, defter, dönem sonu, e-Defter, bordro, GİB robotu); KPI, Şirket İşlemleri ve KDV İade kartları kaldırıldı; Beyan kartında onaysız firma listesi (ad, tür); son gün takvimde kalan beyanlar listesi; Yeni Özelgeler ayrı kart; Son İşlemler sadeleştirildi",
+  "notes": "Yeni: Fatura oluştur (TL / USD / EUR, Türkçe / English) PDF olarak kaydedilir; banka bilgisi para birimi başına bir kez kaydedilir ve sonraki faturalarda otomatik gelir; tutar yazıyla dile göre yazılır; Yapılabilecekler listesine eklendi",
   "mandatory": false,
-  "sig": "2vRZBmNbh/QhQ+EgndUDuHT3hvFpoxOVm81JufqrFe78lDoz7E+LurXeOkjtt+VPYT9I/DLIBwgIFR83OMk+AQ=="
+  "sig": "YDzJQL9ClpE5uZ4o7JKoRAG3WwpS3DeB+TwXY2uQmIC81715mciJMs/NFQkLrtBN78Et34xyomFDsnNsD+BCDQ=="
 }
