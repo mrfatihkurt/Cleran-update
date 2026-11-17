@@ -1,11 +1,11 @@
 {
-  "version": "3.9.446",
-  "sha256": "6378e947b869c032f02a65127f32a6a187f61ef712e9c08767490354cc09324d",
+  "version": "3.9.447",
+  "sha256": "960e6383d81ef5e0dc5de173fff84aa413babbaf67bb6166cef91674e174a5cc",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1"
   ],
-  "notes": "Fatura: pencere artık dashboard içinde, bulunduğu yerde açılır; tutar sütunu sığar",
+  "notes": "Güncelleme: dosya kopyalanmadan önce eski programın tamamen kapanması bekleniyor (kilit hatası düzeltildi)",
   "mandatory": false,
-  "sig": "PtMnv4ZCn0RlH6nFc0CimtaTTPzlgIPPXLHQSChoUB5MC20ueYQfkfyB9or7skYHgHPexhuK4fVpVBDpWHAhCQ=="
+  "sig": "5KWd20xjjHCruB+K0n9GYUO5AezZUxQGT/qLo8cbkNdq5l7p9bzDsCJ0ZlYmOHlDYxBGQ2LWT8KtF8nWLzN1DQ=="
 }
