@@ -1,12 +1,12 @@
 {
-  "version": "3.9.495",
-  "sha256": "9d8613789558ef94b75979c50b6d420d00814d7e4930f31ed6861ac3a133d6f4",
+  "version": "3.9.496",
+  "sha256": "18ab2419fff405a21ebc44975d901e4f78360ebb1f1066c8f3645c48ee09ab10",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Modül Merkezi ve sol menü Excel'deki modül gruplarına göre düzenlendi; Kontrol grubu birleştirildi, Tam tasdik ayrı grup",
+  "notes": "Sol menü ve Tüm Modüller grupları: SGK, şifre, lisans, veritabanı Firma ve Süreç altında; Diğer grubu kaldırıldı; Kontrol ve Tam tasdik ayrıldı",
   "mandatory": false,
-  "sig": "8glMqFnqboxoR5CEoXMHZrMa+N9HQpVRw9fs0zQyOdmxfFA5vX+hyny0bLO/29g+ziuRrSJYsW9rBnEqLPtYAw=="
+  "sig": "t7Ka6ECar9XC9q3BI8poioJgsLKIS0ZlUwX7QZhhBr0HxX0joluYe11L+gZDgdbrKYuVW3kk8BIKBlb3nj5JDg=="
 }
