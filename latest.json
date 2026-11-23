@@ -1,12 +1,12 @@
 {
-  "version": "3.9.503",
-  "sha256": "0721c2ca41bb623cbc9fa85ee7cc071a56ce7b71983c8ea7e9241fdef6c08abe",
+  "version": "3.9.504",
+  "sha256": "9379fcfb2cf2e10a8acbaeefc2278ae8961d50fc1ec86e7ffc872c4e552b96ad",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Tüm Modüller ekranına görünüm seçimi (liste, büyük simge, küçük kutucuk), sıralama (gruba göre veya harfe göre) ve modül bazında renk eklendi.",
+  "notes": "Teşvik taraması genişletildi: Ar-Ge, teknopark, TEKMER, yatırım, bağış, KDV (ihracat, yatırım, iade), damga, hibe, engelli, genç/kadın, işsizlik, turizm, İSG ve prim indirimi için tam katalog; kayıtlı bordro teşvikleri (kişi ve yıl bazında) muavinle karşılaştırılır.",
   "mandatory": false,
-  "sig": "fgNqkdt26q3knBuzcDNSxT7xt7BedvNknyY/ilxpruRWyc4CEcLB9PNY08YoCzJ5A3hsoBT0GnAQwiLgzH8kBg=="
+  "sig": "AMjEuNz5Iafsk+bsiOhu9fdSUon01j78suCzhb6f3cDklGXyCEuKLrIzrNdIXCyaM1D8xEppHYrd0fjD31CgAw=="
 }
