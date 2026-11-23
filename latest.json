@@ -1,12 +1,12 @@
 {
-  "version": "3.9.507",
-  "sha256": "387d2d5ef39c8f0362b2c7994329d529ea4d65ce067d7c0402008e49bb82c3ef",
+  "version": "3.9.508",
+  "sha256": "2eb540e012ba04574221261f10fd986603781cd8cf51d3318b4f57830893ef83",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Modül Merkezi'ne 'Listeyi dışa aktar' eklendi: ekranda görünen modüller grup ve açıklamalarıyla Markdown dosyasına kaydedilir.",
+  "notes": "Kâr dağıtım çalışması eklendi: kurumlar matrahı (5 yıl geçmiş zarar), yasal yedek (%5 / sermayenin %20), dağıtılabilir kâr, ortak bazında stopaj ve enflasyon düzeltme kârı kontrolü; Excel çıktısı.",
   "mandatory": false,
-  "sig": "OBYuAMjvdiX8PLZqdAMxUn3+lcBtoHiuDcxIEtmw0/FrNuRzE95Qclcs9FNx1oiULVt2NRUQ8HfrQa554MUJAg=="
+  "sig": "E5zTautFahMwuf/Hv5YYFRR7jPk9YONTHCPTnXQfGCrjDAQDUfrY3vC1+SuBH2FGPINM6vU/Edw5D43fdLJwBg=="
 }
