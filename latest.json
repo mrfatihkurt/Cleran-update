@@ -1,12 +1,12 @@
 {
-  "version": "3.9.502",
-  "sha256": "e67b08004a0be30d44e83748175b33af706f20853002272a8aaca21f48388f1c",
+  "version": "3.9.503",
+  "sha256": "0721c2ca41bb623cbc9fa85ee7cc071a56ce7b71983c8ea7e9241fdef6c08abe",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Teşvik Merkezi'ne Muavin taraması: muavin hesap adlarında Ar-Ge, teknopark, TEKMER ve teşvik-istisna izlerini bulur ve kontrol önerir",
+  "notes": "Tüm Modüller ekranına görünüm seçimi (liste, büyük simge, küçük kutucuk), sıralama (gruba göre veya harfe göre) ve modül bazında renk eklendi.",
   "mandatory": false,
-  "sig": "IqcM8Bl7OAuXLb60nGOvyce9oi+B9BYePLOgiS32KhfMjNSZJMObKgz4ZUeb9PoX32oci8owk90+tRnFYDBLAA=="
+  "sig": "fgNqkdt26q3knBuzcDNSxT7xt7BedvNknyY/ilxpruRWyc4CEcLB9PNY08YoCzJ5A3hsoBT0GnAQwiLgzH8kBg=="
 }
