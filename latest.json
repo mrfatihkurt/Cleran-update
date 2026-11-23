@@ -1,12 +1,12 @@
 {
-  "version": "3.9.500",
-  "sha256": "915363fbf14a31edae2793bee39a7534a9efd5c294f80d00fad11302935e89b8",
+  "version": "3.9.501",
+  "sha256": "18192997f7e00eb7f9d46cd0f6d8b5cc886580bdbdf5ff05fe4ac4b9bc97fd2c",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "GİB robotu 'Oturum başlatılıyor' ekranında beklemeyi bırakmadan sonlanmıyor; üst menü sıralaması düzeltildi",
+  "notes": "Yeni modül: Ar-Ge · Teknopark · TEKMER Teşvik Merkezi (muavin kayıt kararı, proje kâr-zarar ve istisna, belge kontrol, mevzuat özeti)",
   "mandatory": false,
-  "sig": "UbJ4ahVgG7eijHzwxJkHfcnIuM/DD7joXftBKYHhMMI3xstLx22djACqpglEfc5WeTzSStHFmYwnQEmk8tb7BQ=="
+  "sig": "4W07l5Lqi/S0vcLENA10XEcClSU2HRYnvJPPvxPqkifLikrHB+hQS+Ify/X2kU6kfYrV1cI4qWgOWfjMbuEVBA=="
 }
