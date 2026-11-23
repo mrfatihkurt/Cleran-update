@@ -1,12 +1,12 @@
 {
-  "version": "3.9.498",
-  "sha256": "72204122c22cb78bb7d5a9a62b595ac08719061258e9e76439d40f3c87db43b6",
+  "version": "3.9.499",
+  "sha256": "1e31f4a93814b9aafa6a00ba66333137be80fa7d0c6cea410234f7e16abceb34",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Üst menü düğmeleri artık yer değiştirmiyor; tema düğmesi kendi konumunu koruyor",
+  "notes": "Üst menü düğmeleri artık sürekli yer değiştirmiyor; sıra açılışta ve yeni düğme eklendiğinde uygulanır",
   "mandatory": false,
-  "sig": "FQkp9IzswrTio0Pi0x/eV4bS994awurOnCvdyerhRE6R+kOWGPiEhx1eBmw53S4h55qcYr1XO0yk+HFTSqZyBg=="
+  "sig": "QAIJJL2dgbGNbEFkWMrgEIJ8sHIVKVJ2orhOxVmYc7nM5BTvK4fF/z828E1H0DkaS19CPByWEvS7aR1OqrbRBQ=="
 }
