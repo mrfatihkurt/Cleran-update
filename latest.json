@@ -1,12 +1,12 @@
 {
-  "version": "3.9.512",
-  "sha256": "06c391d35aa5ec740ea9ef67733d9ea124f235d3a6f80eddd1fb1648cacbaa93",
+  "version": "3.9.513",
+  "sha256": "5f48ac03825221b533ba67b2a25258a994255ed0308766d39c941da0e20c7897",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Kâr dağıtımında yurt dışı ortak için PwC tablosundaki CVO kâr payı oranları eklendi (92 ülke, ortaklık eşiğine göre). Uygulanan oran iç mevzuat oranını geçmez; Güney Kore için kaynaklar arası fark uyarısı gösterilir.",
+  "notes": "Alış faturası kontrolü: yurt dışı satıcı tespiti (ülke), gider türü (yazılım/abonelik, hizmet, royalti, faiz, kira), KDV sorumlu beyan uyarısı ve stopaj/CVO kontrol notları fatura okumaya eklendi.",
   "mandatory": false,
-  "sig": "XFI0V6UwpN9GINAv2C0j+x5nQnOr883VK3aKSeiexYpGmxyKvifvY0X0jbh74MYhcDwLuObbQWD5QWN5IwbdBw=="
+  "sig": "vmzkD3rjNhn1+E6AQeQD2+8GzCRv79DbU8rtk/fBf2z8Ej/S8ewm/MxT4AJsgbWOebJpqrpzFiRY14Lt5nXRAw=="
 }
