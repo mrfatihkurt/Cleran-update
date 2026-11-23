@@ -1,12 +1,12 @@
 {
-  "version": "3.9.505",
-  "sha256": "294fb3fc746e8978fa9ad21a7153fe3692dd221d4f4f20cdc9057a121584a5e2",
+  "version": "3.9.506",
+  "sha256": "e582a2a00cf81601aae903aad1f95dfe477a0c7e5a87c59f1f89e4fcea1260c3",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Modül Merkezi'ne Denetçi Atama · Yabancı Ortak Evrakı eklendi: bağımsız denetçi atama kararı, yabancı ortak kararı ve evrak listesi Word olarak hazırlanır.",
+  "notes": "Denetçi Atama formu artık firma bazında: her firmanın bilgileri ayrı saklanır, firma değişince o firmanın bilgileri yüklenir; sabit varsayılan değerler kaldırıldı.",
   "mandatory": false,
-  "sig": "Y0sYEZJxubfzhGPPXQPEoOHRbvq4t4DaW581C9T464UjeKisJD5n3DD3mNvxSmt9b8+sw5S7zCWwCaBBsY5/Dw=="
+  "sig": "S6qANUVoYU5/8K8k3x3US3S3WpyK156OBmzOLlpNARRVmyEQpbYiD235ybnFTrRt2dDobAbmBclAB9liQqGOAQ=="
 }
