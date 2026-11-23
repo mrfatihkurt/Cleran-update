@@ -1,12 +1,12 @@
 {
-  "version": "3.9.508",
-  "sha256": "2eb540e012ba04574221261f10fd986603781cd8cf51d3318b4f57830893ef83",
+  "version": "3.9.509",
+  "sha256": "f675fb16f1cda776afa00171a21e4f73a5da7ae700aab1ac8f6b14b34bcd573a",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Kâr dağıtım çalışması eklendi: kurumlar matrahı (5 yıl geçmiş zarar), yasal yedek (%5 / sermayenin %20), dağıtılabilir kâr, ortak bazında stopaj ve enflasyon düzeltme kârı kontrolü; Excel çıktısı.",
+  "notes": "Kâr dağıtımında geçmiş yıl zararları tamamen düşülür (5 yıl sınırı yalnızca vergi mahsubu için); yasal yedek ve dağıtılabilir kâr bu düşümden sonra hesaplanır.",
   "mandatory": false,
-  "sig": "E5zTautFahMwuf/Hv5YYFRR7jPk9YONTHCPTnXQfGCrjDAQDUfrY3vC1+SuBH2FGPINM6vU/Edw5D43fdLJwBg=="
+  "sig": "0gZ58GWBjxWn7evNsHUyVTVVU4gQcSLy+cFh32c2liuQkzxjXl52Vy5+P154LBdxQEgs4zbXLpyXsz19UuUIAw=="
 }
