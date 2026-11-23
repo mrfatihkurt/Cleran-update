@@ -1,12 +1,12 @@
 {
-  "version": "3.9.509",
-  "sha256": "f675fb16f1cda776afa00171a21e4f73a5da7ae700aab1ac8f6b14b34bcd573a",
+  "version": "3.9.510",
+  "sha256": "13dfd2c0cc8b70f62a30fa210b16318fd2ec1d3e568a9e59722b622634001450",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Kâr dağıtımında geçmiş yıl zararları tamamen düşülür (5 yıl sınırı yalnızca vergi mahsubu için); yasal yedek ve dağıtılabilir kâr bu düşümden sonra hesaplanır.",
+  "notes": "Kâr dağıtımında yasal yedek ikiye ayrıldı: 1. tertip %5 (sermayenin %20'sine kadar), birinci temettü sermayenin %5'i, 2. tertip kalanın %10'u, ikinci temettü kalan tutar.",
   "mandatory": false,
-  "sig": "0gZ58GWBjxWn7evNsHUyVTVVU4gQcSLy+cFh32c2liuQkzxjXl52Vy5+P154LBdxQEgs4zbXLpyXsz19UuUIAw=="
+  "sig": "giLcMR50OCWdMDpGuNnfS9GypJIzeI9ybIf81GjjL3p08RSuebB/F7d/8gyZfATi/xw+X5yyoKu4GGfFQ/6vBQ=="
 }
