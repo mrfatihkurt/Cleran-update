@@ -1,12 +1,12 @@
 {
-  "version": "3.9.511",
-  "sha256": "5c588ab1b8e332d5e313cacb13a822af8a07357e4c906203489fdbd04e38e2cd",
+  "version": "3.9.512",
+  "sha256": "06c391d35aa5ec740ea9ef67733d9ea124f235d3a6f80eddd1fb1648cacbaa93",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Kâr dağıtımında yurt dışı ortak için ülke alanı eklendi; anlaşması doğrulanmış ülkelerde (şu an Güney Kore) anlaşma oranı uygulanır, diğerlerinde iç mevzuat oranı ve uyarı gösterilir.",
+  "notes": "Kâr dağıtımında yurt dışı ortak için PwC tablosundaki CVO kâr payı oranları eklendi (92 ülke, ortaklık eşiğine göre). Uygulanan oran iç mevzuat oranını geçmez; Güney Kore için kaynaklar arası fark uyarısı gösterilir.",
   "mandatory": false,
-  "sig": "e5zkXe1flAaVPReP+Ndx+9WjGFaeE6Qdk5e4YkNGafdPy7N3GseYRaLEurG1GZ+SD1NRxw02A5zh+COzV63CDQ=="
+  "sig": "XFI0V6UwpN9GINAv2C0j+x5nQnOr883VK3aKSeiexYpGmxyKvifvY0X0jbh74MYhcDwLuObbQWD5QWN5IwbdBw=="
 }
