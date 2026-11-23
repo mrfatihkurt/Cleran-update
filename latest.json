@@ -1,12 +1,12 @@
 {
-  "version": "3.9.513",
-  "sha256": "5f48ac03825221b533ba67b2a25258a994255ed0308766d39c941da0e20c7897",
+  "version": "3.9.514",
+  "sha256": "b8482aa55ffaa3505713c02904b80ecd6e4fb1d19831c51470d9e364e51ca79d",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Alış faturası kontrolü: yurt dışı satıcı tespiti (ülke), gider türü (yazılım/abonelik, hizmet, royalti, faiz, kira), KDV sorumlu beyan uyarısı ve stopaj/CVO kontrol notları fatura okumaya eklendi.",
+  "notes": "Alış faturası: yurt dışı satıcıda ülke ve gider türüne göre CVO (kâr payı, faiz, royalti) oranı kontrolü; 92 ülke tablosu",
   "mandatory": false,
-  "sig": "vmzkD3rjNhn1+E6AQeQD2+8GzCRv79DbU8rtk/fBf2z8Ej/S8ewm/MxT4AJsgbWOebJpqrpzFiRY14Lt5nXRAw=="
+  "sig": "E4COrXbl/rGoAhXf0+vFdgtdAOWGIzM9Zd8Ilzj3KsJAdCJDpgVYncU/rtjXiTnFWDSLndws3yqewzOTmLkWBw=="
 }
