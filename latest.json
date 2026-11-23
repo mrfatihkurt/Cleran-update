@@ -1,12 +1,12 @@
 {
-  "version": "3.9.510",
-  "sha256": "13dfd2c0cc8b70f62a30fa210b16318fd2ec1d3e568a9e59722b622634001450",
+  "version": "3.9.511",
+  "sha256": "5c588ab1b8e332d5e313cacb13a822af8a07357e4c906203489fdbd04e38e2cd",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Kâr dağıtımında yasal yedek ikiye ayrıldı: 1. tertip %5 (sermayenin %20'sine kadar), birinci temettü sermayenin %5'i, 2. tertip kalanın %10'u, ikinci temettü kalan tutar.",
+  "notes": "Kâr dağıtımında yurt dışı ortak için ülke alanı eklendi; anlaşması doğrulanmış ülkelerde (şu an Güney Kore) anlaşma oranı uygulanır, diğerlerinde iç mevzuat oranı ve uyarı gösterilir.",
   "mandatory": false,
-  "sig": "giLcMR50OCWdMDpGuNnfS9GypJIzeI9ybIf81GjjL3p08RSuebB/F7d/8gyZfATi/xw+X5yyoKu4GGfFQ/6vBQ=="
+  "sig": "e5zkXe1flAaVPReP+Ndx+9WjGFaeE6Qdk5e4YkNGafdPy7N3GseYRaLEurG1GZ+SD1NRxw02A5zh+COzV63CDQ=="
 }
