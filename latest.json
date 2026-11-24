@@ -1,12 +1,12 @@
 {
-  "version": "3.9.524",
-  "sha256": "e5ab7c7d8252a0ead61cfc33a4704a6b14a7229db9edb8da8919e26d94848513",
+  "version": "3.9.525",
+  "sha256": "3ad48f31ee112a1e9374a8892166e8b72f872b0c33bdb3ea4782f795967f0f16",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Denetçi evrakı: D.kv hatası düzeltildi; ülke listesi, hesap dönemi (yıl) seçimi, ticaret siciline tescil seçeneği; 'karar' ifadeleri kaldırıldı",
+  "notes": "TTSG giriş: GİRİŞ modalında 'Üye Girişi' sekmesi seçilir (e-Devlet varsayılan sekmesi atlanır)",
   "mandatory": false,
-  "sig": "f9nx9ytxc8fVdWcbPdEYjT56NzfzN3ppbWDCQIWwKCwud0ofOLnjTqZggEYCtHuSHKLwSCZN/aCUl2CZokSaCg=="
+  "sig": "252pWQTUN2o7l5x1uHGyR/3wvTtMaa1n7IFB2lwtEoypGZJ4reLnf47ZI12+56Q91tJHXM424B6JQLZ7oEIhDg=="
 }
