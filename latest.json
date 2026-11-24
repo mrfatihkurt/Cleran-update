@@ -1,12 +1,12 @@
 {
-  "version": "3.9.516",
-  "sha256": "32365786ead6db57b4f727c2e066b3ea3572d43d14a539ddf270d8a378469b62",
+  "version": "3.9.517",
+  "sha256": "82d535ae508f536e2df3f27b59121f0d9b7b2dbbea132e5f9e3aa5d6acbf39c5",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "CVO düzeltmesi: Güney Kore kâr payı %10/%15, faiz %10, royalti %10 (anlaşma metni)",
+  "notes": "CVO düzeltmesi: BAE kâr payı düşük oran %5 (PwC ve ikinci kaynakla uyumlu)",
   "mandatory": false,
-  "sig": "8yM4Z5Rmogbeo1HqyNdp7WUAdXc5fnEXk/OkhfQQOQY6YJFe5KTrITmCTw+zQV3EG1m+s5bWWU8kPYDdZKOfDA=="
+  "sig": "D1kIJnajiznZ826OfELYUzg9W2uTbY3lb9JV+tZHdtiLFn7s5XbLq8CNe9r66NLWC+8m0NMdabop35pfw6n7CQ=="
 }
