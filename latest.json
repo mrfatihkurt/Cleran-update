@@ -1,12 +1,12 @@
 {
-  "version": "3.9.520",
-  "sha256": "8c72bdf3ed91f6c65ab84b6a6b6438d86ea3829950fef03f6b29997546d4e0c2",
+  "version": "3.9.521",
+  "sha256": "209e827fe0b73fc42b79e7783fc5123c2c2f4af87683cbccf7e80d99ed3a5696",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "CVO: Avustralya kâr payı ortaklık %10 / genel %15 (PwC)",
+  "notes": "CVO tablosu: ÇVÖA rehberindeki 93 ülke değerleri esas alındı (Irak, Nijerya, Senegal, Somali eklendi)",
   "mandatory": false,
-  "sig": "ZVhV0TM4dN+pLD/2YF1sdIjLfRNamy9o0hujoORPHuk0w7bsviwE1vfvReB9oUByP5+0g66m2j1/7oOxVnpGBg=="
+  "sig": "3rBDbvwQdIVeI3rjjJFNRDfPwOsjziFZhcSbM6r42JaZmIxLKnb7tWRAywCMau9Qs4E2jZ6bJ0AAOKamuzBFDg=="
 }
