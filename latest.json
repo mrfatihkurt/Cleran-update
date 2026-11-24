@@ -1,12 +1,12 @@
 {
-  "version": "3.9.519",
-  "sha256": "f81d1878c07ecb17abc4273ac4cf73cf50bd52ac1488bfe7b9a2dbd5434183f0",
+  "version": "3.9.520",
+  "sha256": "8c72bdf3ed91f6c65ab84b6a6b6438d86ea3829950fef03f6b29997546d4e0c2",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "CVO: Güney Kore 15/20 (PwC, cottgroup uyumlu); BAE ortaklık 10/12 (PwC ikili sayfa)",
+  "notes": "CVO: Avustralya kâr payı ortaklık %10 / genel %15 (PwC)",
   "mandatory": false,
-  "sig": "0ox5bHsa7IHqYbweSytQ3uFoaVVyVbGTXDLu4NRsewjLDjaF2u4TpR5Gu6pbM7ItGV74Je24kzWflvP5By4iBA=="
+  "sig": "ZVhV0TM4dN+pLD/2YF1sdIjLfRNamy9o0hujoORPHuk0w7bsviwE1vfvReB9oUByP5+0g66m2j1/7oOxVnpGBg=="
 }
