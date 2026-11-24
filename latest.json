@@ -1,12 +1,12 @@
 {
-  "version": "3.9.515",
-  "sha256": "7e8fb6f079784049d353125a9f1593034549ffc48699135f83283126474f93cc",
+  "version": "3.9.516",
+  "sha256": "32365786ead6db57b4f727c2e066b3ea3572d43d14a539ddf270d8a378469b62",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Kâr dağıtım: çifte vergilendirme oranları tek kaynaktan (CVO tablosu, 92 ülke); form ülke listesini gösterir",
+  "notes": "CVO düzeltmesi: Güney Kore kâr payı %10/%15, faiz %10, royalti %10 (anlaşma metni)",
   "mandatory": false,
-  "sig": "HsZP+6LoOfNxB+GbhaGDurZpCj5g9TjpUMmTuQjnjfJGS/zHrImEqG7fnuH5kpb8ks+H2vTpCOLNF+2P+QYXDQ=="
+  "sig": "8yM4Z5Rmogbeo1HqyNdp7WUAdXc5fnEXk/OkhfQQOQY6YJFe5KTrITmCTw+zQV3EG1m+s5bWWU8kPYDdZKOfDA=="
 }
