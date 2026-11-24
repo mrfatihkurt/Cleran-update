@@ -1,12 +1,12 @@
 {
-  "version": "3.9.523",
-  "sha256": "69e54ff2f1361aa3e52d9df8c9245d4c5a0e4b6c24625cad5f15dc38817a1ba6",
+  "version": "3.9.524",
+  "sha256": "e5ab7c7d8252a0ead61cfc33a4704a6b14a7229db9edb8da8919e26d94848513",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "CVO: royalti değerleri düzeltildi (3.9.522 hatası), GİB kaynak linkleri kontrol notlarına eklendi",
+  "notes": "Denetçi evrakı: D.kv hatası düzeltildi; ülke listesi, hesap dönemi (yıl) seçimi, ticaret siciline tescil seçeneği; 'karar' ifadeleri kaldırıldı",
   "mandatory": false,
-  "sig": "iC9mv/xKF2QYFV9T/2tdZaq+KuWtmwWIjUlH5xoX4nDBEcdkGSjn5u7bQ3x13aB7ZV2S+yUXRNS/xk9c8ikfDw=="
+  "sig": "f9nx9ytxc8fVdWcbPdEYjT56NzfzN3ppbWDCQIWwKCwud0ofOLnjTqZggEYCtHuSHKLwSCZN/aCUl2CZokSaCg=="
 }
