@@ -1,12 +1,12 @@
 {
-  "version": "3.9.514",
-  "sha256": "b8482aa55ffaa3505713c02904b80ecd6e4fb1d19831c51470d9e364e51ca79d",
+  "version": "3.9.515",
+  "sha256": "7e8fb6f079784049d353125a9f1593034549ffc48699135f83283126474f93cc",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Alış faturası: yurt dışı satıcıda ülke ve gider türüne göre CVO (kâr payı, faiz, royalti) oranı kontrolü; 92 ülke tablosu",
+  "notes": "Kâr dağıtım: çifte vergilendirme oranları tek kaynaktan (CVO tablosu, 92 ülke); form ülke listesini gösterir",
   "mandatory": false,
-  "sig": "E4COrXbl/rGoAhXf0+vFdgtdAOWGIzM9Zd8Ilzj3KsJAdCJDpgVYncU/rtjXiTnFWDSLndws3yqewzOTmLkWBw=="
+  "sig": "HsZP+6LoOfNxB+GbhaGDurZpCj5g9TjpUMmTuQjnjfJGS/zHrImEqG7fnuH5kpb8ks+H2vTpCOLNF+2P+QYXDQ=="
 }
