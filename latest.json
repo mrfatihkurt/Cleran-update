@@ -1,12 +1,12 @@
 {
-  "version": "3.9.535",
-  "sha256": "afc2d0b7770ed06de547c4d2521ea9173d0f920a89210653f7f5f534e51805d7",
+  "version": "3.9.536",
+  "sha256": "a72ec00bb610d96e7df245bc9e29d3c0625bdb1bf671adc543014706a3a28f26",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "IFRS düzeltme fişi kaydında eksik alanlar (açıklama, borç/alacak hesabı, tutar) Türkçe olarak belirtiliyor",
+  "notes": "Bordro: birden çok aylık dosya tek seferde seçilir; dosya adındaki ay/yıl dönemi belirler",
   "mandatory": false,
-  "sig": "eMgXrX/SzULF9eP0NhsypvHrR39KGNdvrLZQqNqdn+TLXVm4WypLnNsVnyrrRKVM4OeoBbPGsgzF0XR3EVhEDw=="
+  "sig": "t1AEdZlmtfJD8hmmTMbXRwC6dtJTvmqWNym7+gvZBYUeVaWwgqhrt0VeZmPP3PK73ZjsEddyHKlbNQoJ4P+hCA=="
 }
