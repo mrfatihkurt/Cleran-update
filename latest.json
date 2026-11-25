@@ -1,12 +1,12 @@
 {
-  "version": "3.9.530",
-  "sha256": "c2854953ac3ee05b6944911a8221a00f4930950e1196a46696255c61273d0313",
+  "version": "3.9.531",
+  "sha256": "8bc3626ea3aea4b32952b4a37ab86536741397b79ef19b6ea858f5d6abb7c3dc",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "IFRS Ek bilgiler: TMS 38 263 geliştirme giderleri karar ve kriter alanları; kur ve ayar kayıtları düzeltildi",
+  "notes": "IFRS Ek bilgiler: ilişkili taraf virgülle girişi ve muavin eşleşmesi; kıdem tazminatı çalışan satırları ve 2026 varsayılanları",
   "mandatory": false,
-  "sig": "lu82efJPBY/dOxuFsvcI6hn8uWDoGvHTx6L3TQpgUinmszwXXpHXXXZ0zprlb7HONey1sWLCy6MzL+OnvjLkDg=="
+  "sig": "3Df8Y2MCx2A8h2fdfd3ZCkS/eaO1LL59wUXfdwIBkA173UshxPsSofs4a40kUKtvjaP3b52F4M3kKRXmAn4MDg=="
 }
