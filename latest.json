@@ -1,12 +1,12 @@
 {
-  "version": "3.9.528",
-  "sha256": "aba0d0e60e9591a83b77888b1a754e1b5492a2729999992dc12cec82fd7e22e3",
+  "version": "3.9.529",
+  "sha256": "5e5f08b834216d684dd4014a9a709c4e3d55f16755bbdbe9e34ca52388d9cfe9",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "US GAAP: 7 grubu gider/maliyetler dönem sonucuna kapatıldı; bilanço denkliği düzeltildi",
+  "notes": "IFRS Ek bilgiler: TMS 19 kıdem tazminatı karşılığı girişi ve otomatik hesap (472 / 770 fişi)",
   "mandatory": false,
-  "sig": "hqW/2WNh2hbqO66H5DOGtRf2B92AX6CkARHGrBta3l33kT+f7FalicKpTqpsrl1GXZAa+lvZMsrRJ5wZlQHBAg=="
+  "sig": "YbM++Ew4hCinA1QkDVWMF9OrxoVbFn/yrcMMDAQoEeszNaliDIvx2SD617x4+qYqJbuAy96J7Zn3oyDbQ/8wDQ=="
 }
