@@ -1,12 +1,12 @@
 {
-  "version": "3.9.531",
-  "sha256": "8bc3626ea3aea4b32952b4a37ab86536741397b79ef19b6ea858f5d6abb7c3dc",
+  "version": "3.9.532",
+  "sha256": "e08a6bb9df2a7fcc7f494af597530cc5ecb88e0516b0172e546ec58dd453d77c",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "IFRS Ek bilgiler: ilişkili taraf virgülle girişi ve muavin eşleşmesi; kıdem tazminatı çalışan satırları ve 2026 varsayılanları",
+  "notes": "IFRS Ek bilgiler: TMS 29 ilk kayıt tarihi yıl ve ay listesi, alt hesap satırları, kaynak seçimi ve açıklama alanı",
   "mandatory": false,
-  "sig": "3Df8Y2MCx2A8h2fdfd3ZCkS/eaO1LL59wUXfdwIBkA173UshxPsSofs4a40kUKtvjaP3b52F4M3kKRXmAn4MDg=="
+  "sig": "1EZOX9EVt4TxPmtiS7/JxwPpUpPOPYGpDMgERjjxYE8dtZp4fqSVVXUT0/Srqf1oRYLkxv3hELqkFNaKI8JYAw=="
 }
