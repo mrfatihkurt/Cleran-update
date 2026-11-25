@@ -1,12 +1,12 @@
 {
-  "version": "3.9.526",
-  "sha256": "cb0726095bb75d3815e79e3b4051c7a2dc4fcb7d7a03540603bd0c36fb5c6314",
+  "version": "3.9.527",
+  "sha256": "6780ea8de729bae18d85ed685f3f7a2dd5b4270a6497fe2ba3f299126beb5880",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Ctrl+F: kapatınca sarı vurgular temizlenir; bekleyen arama vurguyu geri getirmez",
+  "notes": "Muavin yükleme hatası düzeltildi (ensureSubledgerFc); bekleyen office/banka/dönem denetimi değişiklikleri birlikte yayınlandı",
   "mandatory": false,
-  "sig": "Tr1NMgd7Jht05a1H9EvuwtXf3MgKb7SUqixlr2CU3Fbo2Y8KHdr9hhqK1uAr7u43/hqwBEJtQdJ51hTHNps7DQ=="
+  "sig": "mqWnWooHHov4IBl6vxIYFSD7awIkbmCiFSTCYtEl1D78yB6bT0yAryTcAHMSep9W4utv6ove+Ck8qW/5Sv97Cw=="
 }
