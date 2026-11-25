@@ -1,12 +1,12 @@
 {
-  "version": "3.9.537",
-  "sha256": "b79584d9ed65bff9ff27d00c0eb2ab53ab28d5cc607f5bdc98256fd3058e54ba",
+  "version": "3.9.538",
+  "sha256": "0f4e293208d1cda8fc24fb80951e26eb3aa1ccdfbdf36a368f41c55b796a90fe",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Muavin (DB) TRY Balance biçimi: hesap başına son bakiye okunur; hareket tutarları kullanılmaz. Deluvio DB ile TB 29 hesapta birebir tutuyor.",
+  "notes": "Mizan okuyucusu: TL Debt Total / TL Credit Total / TL Debt Balance / TL credit balance başlıkları tanınır; TL bakiye kolonları varsa bakiye bunlardan hesaplanır. Hammelmann Ocak 2026 mizanı dengeli okunur (fark 0).",
   "mandatory": false,
-  "sig": "2drzqNd2xWIFKLLG1t7BL+WUsiByZ0gSaaUZGmwN/lCbukZ7hLD0/+LbAvpxhZKWRxx4T0lfIukcefJhhCnCDg=="
+  "sig": "g6ERkoLU8z+ngGwMHKcoYJPrqCjfWGGL6mWCZeT8YtWtiRyugBSy6/dlAES9DnFgxaF5yPdi5xVC9cliREN+Dg=="
 }
