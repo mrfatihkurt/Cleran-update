@@ -1,12 +1,12 @@
 {
-  "version": "3.9.527",
-  "sha256": "6780ea8de729bae18d85ed685f3f7a2dd5b4270a6497fe2ba3f299126beb5880",
+  "version": "3.9.528",
+  "sha256": "aba0d0e60e9591a83b77888b1a754e1b5492a2729999992dc12cec82fd7e22e3",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Muavin yükleme hatası düzeltildi (ensureSubledgerFc); bekleyen office/banka/dönem denetimi değişiklikleri birlikte yayınlandı",
+  "notes": "US GAAP: 7 grubu gider/maliyetler dönem sonucuna kapatıldı; bilanço denkliği düzeltildi",
   "mandatory": false,
-  "sig": "mqWnWooHHov4IBl6vxIYFSD7awIkbmCiFSTCYtEl1D78yB6bT0yAryTcAHMSep9W4utv6ove+Ck8qW/5Sv97Cw=="
+  "sig": "hqW/2WNh2hbqO66H5DOGtRf2B92AX6CkARHGrBta3l33kT+f7FalicKpTqpsrl1GXZAa+lvZMsrRJ5wZlQHBAg=="
 }
