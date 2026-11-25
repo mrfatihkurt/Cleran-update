@@ -1,12 +1,12 @@
 {
-  "version": "3.9.532",
-  "sha256": "e08a6bb9df2a7fcc7f494af597530cc5ecb88e0516b0172e546ec58dd453d77c",
+  "version": "3.9.533",
+  "sha256": "70b94a2a7049229aab8d0123ef84e51999e02a818fce505692afbb2dc55bafe8",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "IFRS Ek bilgiler: TMS 29 ilk kayıt tarihi yıl ve ay listesi, alt hesap satırları, kaynak seçimi ve açıklama alanı",
+  "notes": "US GAAP raporu: TMS 29 ve ertelenmiş vergi için 'Uygulanmadı' yerine geri alındı / yeniden hesaplandı; TMS 29 ilk kayıt kaynak alanı düzeltildi",
   "mandatory": false,
-  "sig": "1EZOX9EVt4TxPmtiS7/JxwPpUpPOPYGpDMgERjjxYE8dtZp4fqSVVXUT0/Srqf1oRYLkxv3hELqkFNaKI8JYAw=="
+  "sig": "21xck86Ik36IMAxVvW5He2nn7Ob4DTLI4E8IAgzgGbvCobooZwt0uAJgRZRvBKYDu0/gTC5OAg8qgjjcR8ODCA=="
 }
