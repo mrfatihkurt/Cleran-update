@@ -1,12 +1,12 @@
 {
-  "version": "3.9.534",
-  "sha256": "b1616efb74bebceba7a4e74d1646593be97052074379918864d21d9087ee2c21",
+  "version": "3.9.535",
+  "sha256": "afc2d0b7770ed06de547c4d2521ea9173d0f920a89210653f7f5f534e51805d7",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "US GAAP raporu: enflasyon kayıtları 'Geri alındı (tarihî maliyet)' olarak gösteriliyor",
+  "notes": "IFRS düzeltme fişi kaydında eksik alanlar (açıklama, borç/alacak hesabı, tutar) Türkçe olarak belirtiliyor",
   "mandatory": false,
-  "sig": "HbCc+n1GkSZWdr543luQ6k4yM/LoxZD435wPJ47T64P1a7O6tPRn1Z6ZPWke95bgF3bHiz3WqGZkUdvJF456Bg=="
+  "sig": "eMgXrX/SzULF9eP0NhsypvHrR39KGNdvrLZQqNqdn+TLXVm4WypLnNsVnyrrRKVM4OeoBbPGsgzF0XR3EVhEDw=="
 }
