@@ -1,12 +1,12 @@
 {
-  "version": "3.9.551",
-  "sha256": "061088bfe3fa93340314df3b4bf67f49d6b0d4d2e78ee7b51a71cebfa758f5fc",
+  "version": "3.9.552",
+  "sha256": "0fb77934679a86c5ca17a54ef832257586c72a0dbf39af735eef21ff88aa243f",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "5. ülke: İsviçre Swiss GAAP FER (OR 957–963b, CHF). Dört standarda ek olarak: rapor biçimi, dipnot şablonu, CHF kuru (TCMB CHF serisi), IFRS ekranında İsviçre seçeneği.",
+  "notes": "Tüm GAAP raporlarında (HGB, FRS 102, US GAAP, PGC, Swiss GAAP FER) ana tablolar formüllü: grup ve bilanço toplamları, gelir tablosu ara toplamları, denklik kontrolü Excel formülü olarak yazılır.",
   "mandatory": false,
-  "sig": "Iq9vuVSa5lZrywlF8XSQumZAYYuT2lKIBJv/DTqpnXi3UnRTMg2nPV3P2XrJzdcWciT086oK+6oHHDAD+yb+AQ=="
+  "sig": "rF9QqL22nI/rZ8QGf6debuILrZjuymZ+pXfZRSV1mAle08j6hwb44UZzd9uAjpCZNNxEefSClWf02X76wXxJDw=="
 }
