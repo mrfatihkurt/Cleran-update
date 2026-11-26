@@ -1,12 +1,12 @@
 {
-  "version": "3.9.544",
-  "sha256": "6c4442bed3b1d3476f96d39f1e7c9d168d695c8109986129e1d169fb7005d97d",
+  "version": "3.9.546",
+  "sha256": "867e9fcf4c3964e2f6ac80889ff79639cb28a4835166b3a032e3e941a42085cd",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "GAAP kurları: kapanış TCMB günlük alış kuru; ortalama kur TCMB aylık ortalaması (EVDS, anahtar gerekir). Alınamayan kurlar için GAAP çalışmadan önce giriş penceresi açılır; girilen kurlar kaydedilir.",
+  "notes": "Sermaye tescil ve ödeme tarihleri IFRS/GAAP penceresinde: tescil tarihleri girilir, ödeme tarihleri muavinden (500/501/502 kredi satırları) otomatik bulunur, bulunamazsa elle girilir. Ayrı ekran açılmaz.",
   "mandatory": false,
-  "sig": "Cc9M54cpIKXPBpHcvdiv589cvOD+5nK5suATeEHior5XD61Ha8JkCzGl9gC7Px2ZYqkbeHasyyZScU3BuGL3DQ=="
+  "sig": "kCAlcV1MpMFgQk6GIQG8/uhUtglXKngrNIEkf93ThwujoIMQAcE2RgJ/Pb2LH0jpbbEVNSohM1DtldALqNX4BQ=="
 }
