@@ -1,12 +1,12 @@
 {
-  "version": "3.9.540",
-  "sha256": "90a38204c1c27d39d335ee2ef28298c59ad4ea9c1edda818625b0066359ba781",
+  "version": "3.9.541",
+  "sha256": "4e0607692fb2d1b6a9c1bbcfe880cdd980703aa0e1d83ebcb872ba4077760a7a",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Fatura: PKF kaşesi firma adresi ile Sayın/Dear arasına, sola yaslı alındı; alt imza alanındaki kopyası kaldırıldı.",
+  "notes": "Fatura: fatura no / tarih / vade bilgisi üst boşlukta, kaşenin sağında; kaşe sola yaslı.",
   "mandatory": false,
-  "sig": "Dox1Gh8WTrVzz8++u7hJtmNOUIaKTfZuOldQrp3eArV7x9zVkTj/5X2CeHSrA30j0bPXEU0iTz1XF72CI4nxCQ=="
+  "sig": "etZjycjKQAeeE84syWDxTTq7t56PJDZjndSC6fA3h7JWyS2vSL/NUq/DX4rpzp94mA6z9es5LQ8Q4n/vl6CfAA=="
 }
