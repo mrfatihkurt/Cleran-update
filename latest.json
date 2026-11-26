@@ -1,12 +1,12 @@
 {
   "version": "3.9.539",
-  "sha256": "e157f9a46ba1a6b05d24c6a6e3156970dfe9b3c2e512da0a4ed8e568d0f98217",
+  "sha256": "8e5ca5d5bfcc2a174ab7e1467055162824f67d6cdfef61934089c30c96428798",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Fatura şablonu: banka bilgisi (renkli blok) firma adı ile Dear arasına eklendi; EUR için varsayılan Vakıflar hesabı (TR06 ... 2822 87) tanımlandı.",
+  "notes": "Fatura: PKF kaşesi (imzalı) fatura sonuna, sağ alt imza alanına eklendi.",
   "mandatory": false,
-  "sig": "zu4gUAF53xj48x6w3fVF2ebp8XxeHf6v5kYq/PL3mHaB15Wm2y11ycJtMfB3OC8oIkV5r+j32WTYUUTe2uq/Ag=="
+  "sig": "3NVzZXyAv0oWXqu9bIugua+bjqmTJRMCg1JTVA2mjRH8T54ysRCa23XryVc71tAK4eBn4OJsp2GIhutKqUy4Bg=="
 }
