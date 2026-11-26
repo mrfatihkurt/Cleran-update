@@ -1,12 +1,12 @@
 {
-  "version": "3.9.541",
-  "sha256": "4e0607692fb2d1b6a9c1bbcfe880cdd980703aa0e1d83ebcb872ba4077760a7a",
+  "version": "3.9.542",
+  "sha256": "7946f7b074024285c58d2c841bc692696e345eb5572b5d8bb568b446ea5ed637",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Fatura: fatura no / tarih / vade bilgisi üst boşlukta, kaşenin sağında; kaşe sola yaslı.",
+  "notes": "Fatura: kendi taslaklarınızı kaydedebilirsiniz (müşteri, düzenleyen firma, dil/para birimi, KDV, satırlar). Taslak örneği listesinde 'Kayıtlı taslaklarım' grubunda görünür; seçince bilgiler dolar. Fatura no ve tarihler kaydedilmez.",
   "mandatory": false,
-  "sig": "etZjycjKQAeeE84syWDxTTq7t56PJDZjndSC6fA3h7JWyS2vSL/NUq/DX4rpzp94mA6z9es5LQ8Q4n/vl6CfAA=="
+  "sig": "+jyQTnxLsANopmAi8OYcHa5N0lRE6jgdfnWYQxWD3Zcs7K2Kfe7G4I4EvL+wxCpKOE6apuzMPu/iMMGCg36tCw=="
 }
