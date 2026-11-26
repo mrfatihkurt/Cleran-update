@@ -1,12 +1,12 @@
 {
-  "version": "3.9.546",
-  "sha256": "867e9fcf4c3964e2f6ac80889ff79639cb28a4835166b3a032e3e941a42085cd",
+  "version": "3.9.547",
+  "sha256": "5fdf01e1fb95988bf777b911cf7b0013dc8807354d72e5a142bc515aa1c49f20",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Sermaye tescil ve ödeme tarihleri IFRS/GAAP penceresinde: tescil tarihleri girilir, ödeme tarihleri muavinden (500/501/502 kredi satırları) otomatik bulunur, bulunamazsa elle girilir. Ayrı ekran açılmaz.",
+  "notes": "IFRS/GAAP penceresinde Çalışma kâğıdı artık ayrı pencere açmaz; sermaye bölümünün altında aynı ekranda açılır. Ödeme tarihleri elle girilebilir.",
   "mandatory": false,
-  "sig": "kCAlcV1MpMFgQk6GIQG8/uhUtglXKngrNIEkf93ThwujoIMQAcE2RgJ/Pb2LH0jpbbEVNSohM1DtldALqNX4BQ=="
+  "sig": "QmJ4+91MtZpNXuLgFoqS4zZbFaMGH6IQEUdixdULBkN1UxHE2ZVdBTjANLd8soi8Iw2aCbOcAHeuGCM+mtLeDg=="
 }
