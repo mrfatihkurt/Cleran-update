@@ -1,12 +1,12 @@
 {
-  "version": "3.9.548",
-  "sha256": "4566aef47eb479da51f6ce02cc95d7ba313d9845122ae330f73a430c2c00ef7e",
+  "version": "3.9.549",
+  "sha256": "6c70dfa4a8874c60bb31f67901707ca9a80b5069e275bec0b0721bd006f47788",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "IFRS penceresine Çeyreklik VUK → IFRS tablosu (2024–2026): her çeyrek sonu için VUK, düzeltme ve IFRS sütunları yıllık muavinden hesaplanır. Düzeltme fişleri çeyrek sonuna göre filtrelenir.",
+  "notes": "US GAAP ve diğer ülke raporu Excel'ine ek sayfalar: Çeyreklik VUK-IFRS (IFRS = VUK + düzeltme formülü, toplamlar SUM) ve Sermaye tescil / ödeme tarihleri. Excel yazıcı formül ve çoklu sayfa destekler.",
   "mandatory": false,
-  "sig": "ohQtBiwiNDTeYGRvxjqVWnUAhCkr5GQm788mWjD86HUNieB4AWC0mDCoZWdJUMTa7VfnrZOkYC3Ch8NWcIJWCQ=="
+  "sig": "e98nOUSImD8/lJP4+YlGFtBruVTK+8i6wdlGTah6qFaMtCfMSlVaQH8tdYVPnKLhYQJUhA3y3TOfrj7dxn8eDg=="
 }
