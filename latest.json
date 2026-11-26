@@ -1,12 +1,12 @@
 {
-  "version": "3.9.549",
-  "sha256": "6c70dfa4a8874c60bb31f67901707ca9a80b5069e275bec0b0721bd006f47788",
+  "version": "3.9.550",
+  "sha256": "f72b0e37e7370cffe4c936780d775d55481030e430557780c50e004817c6f270",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "US GAAP ve diğer ülke raporu Excel'ine ek sayfalar: Çeyreklik VUK-IFRS (IFRS = VUK + düzeltme formülü, toplamlar SUM) ve Sermaye tescil / ödeme tarihleri. Excel yazıcı formül ve çoklu sayfa destekler.",
+  "notes": "US GAAP ve ülke raporu Excel'ine ek sayfalar: Edinim ve işlem tarihleri, Personel gideri (ek tablolardan). Çeyreklik VUK-IFRS ve Sermaye sayfaları 3.9.549'dan beri.",
   "mandatory": false,
-  "sig": "e98nOUSImD8/lJP4+YlGFtBruVTK+8i6wdlGTah6qFaMtCfMSlVaQH8tdYVPnKLhYQJUhA3y3TOfrj7dxn8eDg=="
+  "sig": "xwzjQodXR8ZXe2Ulq1TDD6/TAFpD+1KKxR0Du9x1sFWZmwDl0wnEsEpbaZfFaSs7cvqpvuGK/o0phTIei1HTAQ=="
 }
