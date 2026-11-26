@@ -1,12 +1,12 @@
 {
-  "version": "3.9.543",
-  "sha256": "042ca14d9fc62a067bf3a7fb990969ff94475210963dbf62363b463cf04cfb3e",
+  "version": "3.9.544",
+  "sha256": "6c4442bed3b1d3476f96d39f1e7c9d168d695c8109986129e1d169fb7005d97d",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Fatura kaşesi firmaya göre: PKF İstanbul SMMM seçiliyse PKF kaşesi basılır; diğer firmalarda yalnızca o firmaya tanımlı kaşe basılır (Kaşe seç / Kaşeyi kaldır).",
+  "notes": "GAAP kurları: kapanış TCMB günlük alış kuru; ortalama kur TCMB aylık ortalaması (EVDS, anahtar gerekir). Alınamayan kurlar için GAAP çalışmadan önce giriş penceresi açılır; girilen kurlar kaydedilir.",
   "mandatory": false,
-  "sig": "R2JqM0OwjeT9PSWBpun+U5SD30CxhrLZsc/tFbNmgJPJUb2BEKZzfOPy0+KgiFSdY4Fre6SaHdn72xMuWLYICQ=="
+  "sig": "Cc9M54cpIKXPBpHcvdiv589cvOD+5nK5suATeEHior5XD61Ha8JkCzGl9gC7Px2ZYqkbeHasyyZScU3BuGL3DQ=="
 }
