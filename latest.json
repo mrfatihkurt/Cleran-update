@@ -1,12 +1,12 @@
 {
-  "version": "3.9.547",
-  "sha256": "5fdf01e1fb95988bf777b911cf7b0013dc8807354d72e5a142bc515aa1c49f20",
+  "version": "3.9.548",
+  "sha256": "4566aef47eb479da51f6ce02cc95d7ba313d9845122ae330f73a430c2c00ef7e",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "IFRS/GAAP penceresinde Çalışma kâğıdı artık ayrı pencere açmaz; sermaye bölümünün altında aynı ekranda açılır. Ödeme tarihleri elle girilebilir.",
+  "notes": "IFRS penceresine Çeyreklik VUK → IFRS tablosu (2024–2026): her çeyrek sonu için VUK, düzeltme ve IFRS sütunları yıllık muavinden hesaplanır. Düzeltme fişleri çeyrek sonuna göre filtrelenir.",
   "mandatory": false,
-  "sig": "QmJ4+91MtZpNXuLgFoqS4zZbFaMGH6IQEUdixdULBkN1UxHE2ZVdBTjANLd8soi8Iw2aCbOcAHeuGCM+mtLeDg=="
+  "sig": "ohQtBiwiNDTeYGRvxjqVWnUAhCkr5GQm788mWjD86HUNieB4AWC0mDCoZWdJUMTa7VfnrZOkYC3Ch8NWcIJWCQ=="
 }
