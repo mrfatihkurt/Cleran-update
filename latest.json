@@ -1,12 +1,12 @@
 {
-  "version": "3.9.557",
-  "sha256": "a181f8fb604205333c4c5f50aa27a873138805a7c8368614f10b9664e6ced336",
+  "version": "3.9.559",
+  "sha256": "3d9af46c009a276096815bb2427ac46a57d9a293081022de20f6febdeb577519",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Veri yükleme: ay ve yıl kutuları daraltıldı; kutular yan yana.",
+  "notes": "US GAAP Excel: Mizan, Gelir tablosu, Bilanço sayfaları; düzeltme defteri; US GAAP bakiyesi Mizan'dan formülle; Word açıklama raporu; çeyrekler 2024-2027; enflasyon köken tutarları 000.000,00.",
   "mandatory": false,
-  "sig": "G7va26aO0vfs6wQbsppany00tVmDP/mGDVMoBNVpLmpsIIEIf4JuSSGYnTURHgl41TuWX5S7D3+LQKJ0GIHjDg=="
+  "sig": "s8B2VPAXpLkBqFLrxPAi/ma+m5nY0xulbMqFo2pCX4yqt6NyOjNBCcjaaRW4X1MmwJCULgxIrUEsToLgrQTVAQ=="
 }
