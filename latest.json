@@ -1,12 +1,12 @@
 {
-  "version": "3.9.554",
-  "sha256": "b7f11adb41ab2f53ce552dd670a7a204988099c0c843bdb5250e6146a8d7c227",
+  "version": "3.9.555",
+  "sha256": "d6c0446cb823a452028113b34a0da2bfa70b377da60311d3205fe692d44557da",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Çeyreklik ekran: uyarı yerine eksik veri listesi ve yükleme kutuları (muavin, mizan, bordro, amortisman, personel, edinim tarihleri, enflasyon kaydı). Sermaye tutarları 000.000,00 biçiminde. Ertelenmiş vergi taslağı (oran düzenlenebilir). Ar-Ge (263) bakiyesi ve karar teyidi.",
+  "notes": "Veri yükleme: dönem ay listesi ve yıl kutusu (elle yıl yazılabilir); yükleme kutuları yan yana.",
   "mandatory": false,
-  "sig": "FzUFQnm2KE3HTSq1rAaeOqn/N11CPogCXh0Joo3erPDkjVYK3235ccHVp8+ppQjSuJV5ynIx98kUbjquqPbaAw=="
+  "sig": "8TpggFwy8N0clrLRpNtiZYOJWsGfXk2g0fCt77zBzP4yY1WH4A/TVypZHEQzok/20ZA4Yj/lel+yMbXjwlNRAA=="
 }
