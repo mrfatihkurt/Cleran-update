@@ -1,12 +1,12 @@
 {
-  "version": "3.9.563",
-  "sha256": "58dfeacf996c11234b3417a3f09be3f2870131dd9fdd0f2a879ecf9664c4c8ab",
+  "version": "3.9.564",
+  "sha256": "771d957511f684c51e1553843234d5fd087c14708aec509b7ede77a026895a71",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "e-Defter: paket tablosu hiç okunamadıysa ay 'Okunamadı' olarak işaretlenir (boş sonuçla 'Verilmedi' karışmaz).",
+  "notes": "e-Defter: indirme düğmesi standart işaretle bulunamazsa satırın tek güvenli düğmesi kullanılır (sil/görüntü hariç).",
   "mandatory": false,
-  "sig": "MSe+4SrCF1JnEyovZyncBYndS2TB/+P1dmzXu0I8K+3QnwDn0pVAFhF/l01/V02+yb41XN26k1oKJy+MKynACw=="
+  "sig": "gYjdkTdLUkZlOnfE5MtmShNBxk88qM/Y5N1vhkzXpy2yCS+8LLS6iPfpOFd1t6AeJJ2ormcIfOKRYtWFw8nXDw=="
 }
