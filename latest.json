@@ -1,12 +1,12 @@
 {
-  "version": "3.9.552",
-  "sha256": "0fb77934679a86c5ca17a54ef832257586c72a0dbf39af735eef21ff88aa243f",
+  "version": "3.9.553",
+  "sha256": "897448995e3df817ee2335f5ca3f4327c181faa079bc7bc940c7d127c4dac9b8",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Tüm GAAP raporlarında (HGB, FRS 102, US GAAP, PGC, Swiss GAAP FER) ana tablolar formüllü: grup ve bilanço toplamları, gelir tablosu ara toplamları, denklik kontrolü Excel formülü olarak yazılır.",
+  "notes": "Çeyreklik VUK-IFRS: 2024 ve 2025 muavini dönem alanından da bulunur; bulunamazsa kayıtlı muavinler listelenir. Muavin tarihleri (GG.AA.YYYY dahil) ISO'ya çevrilerek çeyrek sonları doğru filtrelenir.",
   "mandatory": false,
-  "sig": "rF9QqL22nI/rZ8QGf6debuILrZjuymZ+pXfZRSV1mAle08j6hwb44UZzd9uAjpCZNNxEefSClWf02X76wXxJDw=="
+  "sig": "codQXksz/4qFA3wju9jKGjbER4Ea3k1DZZ5jgQ+ewOPyW0km1JYXzME+30BbYkr9lxqKTBWbC+AtJrynPnDrCA=="
 }
