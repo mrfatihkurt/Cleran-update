@@ -1,12 +1,12 @@
 {
-  "version": "3.9.561",
-  "sha256": "d8c304378d18f1965f4960cca4d09a11f000be25f9a87d6db5311da490e0da12",
+  "version": "3.9.562",
+  "sha256": "ae4fbe35bcec1faf2eeaeaa1acdbe1b0c3a95e48a1df69955cf19e3a3baa3777",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Kur (TMS 21): banka ve kasa hesapları (100-103) adında döviz yazmasa da kur tablosuna gelir; döviz cinsini siz seçersiniz (TL ise dövizsiz).",
+  "notes": "Kur (TMS 21): mizanda döviz sütunu yoksa yılın muavinindeki döviz bakiyeleri kullanılır.",
   "mandatory": false,
-  "sig": "zWKqjVLXdUhpgbdr7DTpbQ2yeZC6GdNOudOfUO5apihCTLO69+7gtlXaIPHbq/WUU/rGlD40SPVXg4UOJDlDCw=="
+  "sig": "wJ1Hz67XBkbRhnq20FqFUbXQmAXWeY320bOJTNYN0iD1cI8E0F7s0X9y8PvGAQKe/JmaoGi37TEXn3P6mrOeDg=="
 }
