@@ -1,12 +1,12 @@
 {
-  "version": "3.9.555",
-  "sha256": "d6c0446cb823a452028113b34a0da2bfa70b377da60311d3205fe692d44557da",
+  "version": "3.9.556",
+  "sha256": "0a3a5f485b5c954f2fd054c8a33e0c02cde62fe0b8898ebd24ff3284e095803c",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Veri yükleme: dönem ay listesi ve yıl kutusu (elle yıl yazılabilir); yükleme kutuları yan yana.",
+  "notes": "Veri yükleme: kutular yan yana, dönem alanı düzgün (düzen doğrudan öğelere uygulanır).",
   "mandatory": false,
-  "sig": "8TpggFwy8N0clrLRpNtiZYOJWsGfXk2g0fCt77zBzP4yY1WH4A/TVypZHEQzok/20ZA4Yj/lel+yMbXjwlNRAA=="
+  "sig": "hWK5Q6N2Jss55enmUhFCG56S0MLPVucqvP9rcJOq7+yzRUXBRitbDp7fsG4gQyPRQmTY6IenFrmMp9lFvGDNAg=="
 }
