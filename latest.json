@@ -1,12 +1,12 @@
 {
-  "version": "3.9.560",
-  "sha256": "19877386a023297ef1b29cee41dc43ee36c2a1ef98ce55100d2fd94ed3dfee4e",
+  "version": "3.9.561",
+  "sha256": "d8c304378d18f1965f4960cca4d09a11f000be25f9a87d6db5311da490e0da12",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "US GAAP bakiye sayfası: düzeltme blokları aynı sayfada, bakiye formülle; çeyrek sayfası US GAAP; Word raporu Cleran genel antetiyle.",
+  "notes": "Kur (TMS 21): banka ve kasa hesapları (100-103) adında döviz yazmasa da kur tablosuna gelir; döviz cinsini siz seçersiniz (TL ise dövizsiz).",
   "mandatory": false,
-  "sig": "7XJJa4+RdngbFhmmWsLrEtin5S0CLNQv9/umWJA8zxDxKGF7UR+OY5fWVc7Ssx/yweVH9b2/p5M4PLyRDsLVDw=="
+  "sig": "zWKqjVLXdUhpgbdr7DTpbQ2yeZC6GdNOudOfUO5apihCTLO69+7gtlXaIPHbq/WUU/rGlD40SPVXg4UOJDlDCw=="
 }
