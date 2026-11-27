@@ -1,12 +1,12 @@
 {
-  "version": "3.9.564",
-  "sha256": "771d957511f684c51e1553843234d5fd087c14708aec509b7ede77a026895a71",
+  "version": "3.9.565",
+  "sha256": "6ef90c91e4a9c4ee332fee19a1b8a2aa37b30cf415edc08dc869f683a0008234",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "e-Defter: indirme düğmesi standart işaretle bulunamazsa satırın tek güvenli düğmesi kullanılır (sil/görüntü hariç).",
+  "notes": "Kayıtlı uyarlamalar: tüm firmalar, firma adı, Görüntüle ve Sil (silme düzenleme yetkisi ister).",
   "mandatory": false,
-  "sig": "gYjdkTdLUkZlOnfE5MtmShNBxk88qM/Y5N1vhkzXpy2yCS+8LLS6iPfpOFd1t6AeJJ2ormcIfOKRYtWFw8nXDw=="
+  "sig": "bp/VNpGIIaYWP6U8heLC62+Lh1IM0KMhOWakUSiJA/zgKzDJv+FdGIDRc2ux3CePr59K2ykjdhQgMrUBfhyPDw=="
 }
