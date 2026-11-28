@@ -1,12 +1,12 @@
 {
-  "version": "3.9.565",
-  "sha256": "6ef90c91e4a9c4ee332fee19a1b8a2aa37b30cf415edc08dc869f683a0008234",
+  "version": "3.9.566",
+  "sha256": "d38a40fdb9a60d1a1be0d9a340adc24d3e9f95d5a3b119b7d31b5ff51d8a7b63",
   "parts": [
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part0",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part1",
     "https://raw.githubusercontent.com/mrfatihkurt/Cleran-update/main/app_asar.part2"
   ],
-  "notes": "Kayıtlı uyarlamalar: tüm firmalar, firma adı, Görüntüle ve Sil (silme düzenleme yetkisi ister).",
+  "notes": "Kayıtlı uyarlamalar: Sil düğmesi iki adımlı onayla çalışır; Excel, ülke GAAP ve US GAAP Word raporları kayıt oluşturup listeyi yeniler.",
   "mandatory": false,
-  "sig": "bp/VNpGIIaYWP6U8heLC62+Lh1IM0KMhOWakUSiJA/zgKzDJv+FdGIDRc2ux3CePr59K2ykjdhQgMrUBfhyPDw=="
+  "sig": "S7WCqksxAbBunMrjmVgMmx+NNMUiYsGvwWYEEa0mzeKToMXEcJDUeYpqA+zAQjNVETK7aDspSiKKBvmQvUkyCw=="
 }
